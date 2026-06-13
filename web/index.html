@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FaB Draft 3-0 Analysis Dashboard</title>
+    <meta name="description" content="Modern Flesh and Blood draft statistics, pick rates, and hero analysis.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- ChartJS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-layout">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-title">FaB Draft Analysis</div>
+
+            <div class="set-selector-wrapper">
+                <label for="set-select">Set</label>
+                <select id="set-select">
+                    <option value="N/A" selected>N/A</option>
+                </select>
+            </div>
+
+            <nav class="sidebar-nav">
+                <ul>
+                    <li><button class="nav-btn active" data-page="home" id="nav-home">📊 Overview</button></li>
+                    <li><button class="nav-btn" data-page="hero-analysis" id="nav-hero-analysis">👤 Hero
+                            Analysis</button></li>
+                    <li><button class="nav-btn" data-page="draft-analysis" id="nav-draft-analysis">📜 Draft
+                            Analysis</button></li>
+                    <li><button class="nav-btn" data-page="type-comparison" id="nav-type-comparison">⚖️ Type
+                            Comparison</button></li>
+                    <li><button class="nav-btn" data-page="attributes" id="nav-attributes">📖 Attributes
+                            Reference</button></li>
+                    <li><button class="nav-btn" data-page="credits" id="nav-credits">✨ Acknowledgements</button></li>
+                    <li><button class="nav-btn" data-page="support" id="nav-support">☕ Support</button></li>
+                </ul>
+            </nav>
+
+            <div class="sidebar-footer">
+                <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Theme">🌙 Dark Mode</button>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="main-header">
+                <h1 id="page-title">Overview</h1>
+                <div class="header-set-badge" id="set-badge">Set: Sea Draft (SEA)</div>
+            </header>
+
+            <!-- Page Sections -->
+            <div class="content-wrapper">
+
+                <!-- SECTION 1: OVERVIEW/HOME -->
+                <section id="page-home" class="page-section">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-info">
+                                <span class="stat-label">Total Decks Parsed</span>
+                                <span class="stat-value" id="stat-total-decks">-</span>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-info">
+                                <span class="stat-label">Available Heroes</span>
+                                <span class="stat-value" id="stat-heroes-count">-</span>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-info">
+                                <span class="stat-label">Last Updated</span>
+                                <span class="stat-value" id="stat-last-updated">-</span>
+                                <span class="stat-note">Try Ctrl + F5 if this date is too old</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-grid">
+                        <div class="chart-container card">
+                            <h2>Hero Popularity</h2>
+                            <div class="chart-wrapper">
+                                <canvas id="heroPopularityChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-container card">
+                            <h2>Cumulative Decks Over Time</h2>
+                            <div class="chart-wrapper">
+                                <canvas id="activityChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- SECTION 2: HERO ANALYSIS -->
+                <section id="page-hero-analysis" class="page-section" style="display: none;">
+                    <div class="hero-selector-bar">
+                        <!-- Hero buttons will be populated here -->
+                    </div>
+
+                    <div class="hero-dashboard-layout" id="hero-dashboard" style="display: none;">
+                        <div class="hero-header-card card">
+                            <div class="hero-title-section">
+                                <h2 id="hero-detail-name">Hero Name</h2>
+                                <p id="hero-detail-stats">Decks Played: <strong id="hero-deck-count">-</strong></p>
+                            </div>
+                        </div>
+
+                        <!-- Charts row -->
+                        <div class="distribution-charts-grid">
+                            <div class="chart-container card">
+                                <h3>Pitch Distribution</h3>
+                                <div class="chart-wrapper-small">
+                                    <canvas id="heroPitchChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="chart-container card">
+                                <h3>Cost Distribution</h3>
+                                <div class="chart-wrapper-small">
+                                    <canvas id="heroCostChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="chart-container card">
+                                <h3>Defense Distribution</h3>
+                                <div class="chart-wrapper-small">
+                                    <canvas id="heroDefenseChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card Type Summaries Grid -->
+                        <div class="type-summaries-grid card">
+                            <h3>Average 30-Card Deck by Card Type</h3>
+                            <div id="type-summaries-container" class="summaries-container">
+                                <!-- Dynamically populated list of type stats -->
+                            </div>
+                        </div>
+
+                        <!-- Card list table card -->
+                        <div class="card-list-section card">
+                            <div class="table-header-controls">
+                                <h3>Playable Cards</h3>
+                                <div class="table-filters">
+                                    <input type="text" id="hero-card-search"
+                                        placeholder="Search cards by name, type, keyword...">
+                                    <div class="search-syntax-hint">
+                                        💡 Search: <code>k1 & k2</code> (AND) <code>!k</code> (Exclude)
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="table-scroll-container">
+                                <table class="analysis-table" id="hero-cards-table">
+                                    <thead>
+                                        <tr>
+                                            <th data-sort="name" class="sortable asc">Card Name</th>
+                                            <th data-sort="average_count_per_deck" class="sortable">Avg / Deck</th>
+                                            <th data-sort="average_count_per_normalized_deck" class="sortable">
+                                                Normalized Avg</th>
+                                            <th data-sort="pick_rate" class="sortable">Pick Rate</th>
+                                            <th data-sort="total_count" class="sortable">Total Count</th>
+                                            <th data-sort="rarity" class="sortable">Rarity</th>
+                                            <th data-sort="types" class="sortable">Types</th>
+                                            <th data-sort="keywords" class="sortable">Keywords</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="hero-cards-tbody">
+                                        <!-- Card rows will be populated here -->
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="pagination-controls" id="hero-cards-pagination"></div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- SECTION 3: DRAFT FILE ANALYSIS -->
+                <section id="page-draft-analysis" class="page-section" style="display: none;">
+                    <div class="card-list-section card">
+                        <div class="table-header-controls">
+                            <h3>Draft Average Occurrences & Pick Rates</h3>
+                            <div class="table-filters">
+                                <input type="text" id="draft-card-search" placeholder="Search cards by name, type...">
+                            </div>
+                        </div>
+
+                        <div class="table-scroll-container">
+                            <table class="analysis-table" id="draft-analysis-table">
+                                <thead>
+                                    <tr id="draft-analysis-thead-tr">
+                                        <th data-sort="name" class="sortable asc">Card Name</th>
+                                        <th data-sort="weighted_pick_rate" class="sortable">Weighted Pick Rate</th>
+                                        <th data-sort="pick_rate" class="sortable">Pick Rate</th>
+                                        <th data-sort="total_count" class="sortable">Total Count</th>
+                                        <th data-sort="average_count_per_deck" class="sortable">Avg / Deck</th>
+                                        <!-- Draft occurrence columns dynamically created -->
+                                    </tr>
+                                </thead>
+                                <tbody id="draft-analysis-tbody">
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination-controls" id="draft-analysis-pagination"></div>
+                    </div>
+                </section>
+
+                <!-- SECTION 4: TYPE COMPARISON -->
+                <section id="page-type-comparison" class="page-section" style="display: none;">
+                    <div class="type-comparison-selector-tabs">
+                        <button class="comparison-tab" data-type="equipment">Equipment Comparison</button>
+                        <button class="comparison-tab active" data-type="shared">Shared Cards Comparison</button>
+                    </div>
+
+                    <div class="card-list-section card">
+                        <div class="table-header-controls">
+                            <h3 id="comparison-table-title">Equipment Card Usage</h3>
+                            <div class="table-filters">
+                                <input type="text" id="comparison-card-search" placeholder="Search comparison cards...">
+                            </div>
+                        </div>
+
+                        <div class="table-scroll-container">
+                            <table class="analysis-table" id="comparison-table">
+                                <thead>
+                                    <tr id="comparison-thead-tr">
+                                        <th data-sort="name" class="sortable asc">Card Name</th>
+                                        <th data-sort="weighted_pick_rate" class="sortable">Weighted Pick Rate</th>
+                                        <th data-sort="pick_rate" class="sortable">Pick Rate</th>
+                                        <th data-sort="average_count" class="sortable">Avg / Deck</th>
+                                        <th data-sort="total_count" class="sortable">Total Count</th>
+                                        <!-- Hero specific columns dynamically added -->
+                                    </tr>
+                                </thead>
+                                <tbody id="comparison-tbody">
+                                    <!-- Populated dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination-controls" id="comparison-pagination"></div>
+                    </div>
+                </section>
+
+                <!-- SECTION 5: ATTRIBUTES REFERENCE -->
+                <section id="page-attributes" class="page-section" style="display: none;">
+                    <div class="info-content-layout">
+                        <div class="card content-card">
+                            <h2>Flesh and Blood Card Attributes</h2>
+                            <p>Core card profile properties derived from card database registries:</p>
+                            <table class="simple-table">
+                                <thead>
+                                    <tr>
+                                        <th>Attribute</th>
+                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Card name</td>
+                                        <td>Name of the card</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Rarity</td>
+                                        <td>Card's rarity in corsponding set (Common, Rare, Mythic (instead of
+                                            Majestic))</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pitch</td>
+                                        <td>Card's pitch value</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cost</td>
+                                        <td>Card's cost value</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Power</td>
+                                        <td>Card's power value</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Defense</td>
+                                        <td>Card's defense value</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Types</td>
+                                        <td>Card's types, subtypes and talents</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Keywords</td>
+                                        <td>Card's keywords</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="card content-card">
+                            <h2>Calculated Performance Metrics</h2>
+                            <p>Statistics generated across all submitted 3-0 winning decks:</p>
+                            <table class="simple-table">
+                                <thead>
+                                    <tr>
+                                        <th>Metric</th>
+                                        <th>Formula / Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Total Count</td>
+                                        <td>Number of times this card appears across all decks.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Avg / Deck</td>
+                                        <td><code>Total Count / Total Decks</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Normalized Avg</td>
+                                        <td><code>SUM(Card Count in deck / Deck Size * 30) / Total Decks</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Normalized Avg</td>
+                                        <td>Adjusted average card counts calculated on a standardized 30-card main deck
+                                            size. Weapon/Equipment lists are excluded from normalization.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Draft Avg</td>
+                                        <td>Expected number of times the card should apper during one draft.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pick Rate</td>
+                                        <td><code>Total Count / (Draft Avg * Total Decks) * 100%</code>
+                                            Check this <a href="#pick-rate">section</a> for more information
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>HERO Pick Rate</td>
+                                        <td><code>HERO total count / (Draft Avg * HERO Total Decks) * 100%</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Weighted Pick Rate</td>
+                                        <td><code>SUM(HERO Pick Rate) / COUNT(HERO Pick Rate)</code></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="card content-card">
+                            <h2 id="pick-rate">Pick Rate</h2>
+                            <p>Ideally, card strength would be evaluated using metrics like play win rate or draw win
+                                rate. However, we do not have access to such data, so that approach is not an option.
+                            </p>
+
+                            <p>Since we only have 3‑0 decklists (without draft order), we look at which cards were
+                                available during the draft and which ended up in the 3‑0 decklist. We work under the
+                                assumption that cards which make it into a 3‑0 deck are better than those that do not.
+                                (Claiming that a pick‑14 card is strong may sound questionable, but this is the data we
+                                must work with.)</p>
+
+                            <p>A significant limitation is that we do not know exactly which cards were available during
+                                each draft. Instead, we use the <strong>expected number of times a card should have
+                                    appeared in a draft</strong>, calculated from the draft file’s pack structure and
+                                card distribution.</p>
+
+                            <h3>How Pick Rate is Calculated</h3>
+                            <p>The formula is:</p>
+                            <div class="formula-block">
+                                <code>Pick_rate(card) = total_count(card) / (draft_avg(card) × total_decks) * 100%</code>
+                            </div>
+                            <p>This is a simplification, because there are multiple slightly different draft file
+                                versions. We must use <code>draft_avg</code> from the version that corresponds to each
+                                3‑0 decklist. Since players do not always host draft sessions with the latest file, we
+                                also try to determine which draft version was actually used for each deck.</p>
+
+                            <h3>Hero‑Specific vs. Global Pick Rate</h3>
+                            <p>You may have noticed that pick rates in this analysis differ from those on other pages.
+                                That is because we calculate <strong>hero pick rate</strong> using the formula above,
+                                but only over decks belonging to a specific hero. The main reason is to obtain
+                                meaningful numbers for cards shared by multiple heroes.</p>
+                            <p>Note that this approach inflates class‑specific cards, because they face much less
+                                competition, due to some player playing a different hero.</p>
+
+                            <h3>Weighted Pick Rate</h3>
+                            <p>We also compute the <strong>weighted pick rate</strong> as:</p>
+                            <div class="formula-block">
+                                <code>Weighted Pick Rate = Σ(Hero_Pick_rate(card)) / Number_of_available_heroes</code>
+                            </div>
+                            <p>This is especially useful in an unbalanced metagame, where some heroes are much stronger
+                                than others. For example, in ROS, Earth heroes performed significantly better than
+                                Lightning heroes. This makes Earth cards have higher raw pick rates, but the weighted
+                                pick rate corrects for that imbalance.</p>
+
+                            <h3>Interpreting Pick Rate (Beyond Sorting)</h3>
+                            <p>A general rule of thumb: a card is <strong>decent</strong> if its pick rate exceeds
+                                <code>100% / (expected number of decks that can play this card)</code>.
+                            </p>
+                            <ul>
+                                <li>For a <strong>generic card</strong> playable by all 8 heroes:
+                                    <strong>12.5%</strong> (100/8) is the threshold.
+                                </li>
+                                <li>For a <strong>class card</strong> in a balanced three-hero meta:
+                                    <strong>33.33%</strong> (100/3) is the threshold.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- SECTION 6: CREDITS -->
+                <section id="page-credits" class="page-section" style="display: none;">
+                    <div class="info-grid">
+                        <div class="card info-card">
+                            <h3>Flesh and Blood Cards Database</h3>
+                            <p>Providing open access to detailed FaB card data.</p>
+                            <a href="https://github.com/the-fab-cube/flesh-and-blood-cards" target="_blank"
+                                class="button">View Source Repository →</a>
+                        </div>
+                        <div class="card info-card">
+                            <h3>Rantaways Podcast Discord</h3>
+                            <p>Former Runaways Discord server, still active and the primary way to play FaB drafts.</p>
+                            <a href="https://discord.com/invite/EcKkyJJBm6" target="_blank" class="button">Join Discord
+                                Server →</a>
+                        </div>
+                        <div class="card info-card">
+                            <h3>Community Players</h3>
+                            <p>A huge thank you to everyone who shared their 3-0 decklists. Without you this project
+                                wouldn't be possible!</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- SECTION 7: SUPPORT -->
+                <section id="page-support" class="page-section" style="display: none;">
+                    <div class="info-grid">
+                        <div class="card info-card">
+                            <h3>Contributions & Issues</h3>
+                            <p>Spotted an issue or have a suggestion? Open an issue or submit a pull request.</p>
+                            <a href="https://github.com/petr7410/fab-3-0-analysis/issues" target="_blank"
+                                class="button primary">Submit Feedback & Issues →</a>
+                        </div>
+
+                        <div class="card info-card">
+                            <h3>Contact Me</h3>
+                            <p>Feel free to contact me with questions about this project on Discord
+                                <strong>@petr7410</strong>.
+                            </p>
+                            <a href="https://discord.com/invite/EcKkyJJBm6" target="_blank" class="button primary">Join
+                                Rantaways Podcast Discord server</a>
+                        </div>
+
+                        <div class="card info-card">
+                            <h3>Support Me</h3>
+                            <p>If you'd like to support this project, consider buying me a coffee!</p>
+                            <div class="kofi-btn-container">
+                                <script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+                                <script>
+                                    kofiwidget2.init('Support Me on Ko-fi', '#c084fc', 'O4O0ZAHE1');
+                                    kofiwidget2.draw();
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- FOOTER DISCLAIMER -->
+                <footer class="site-footer">
+                    <div class="footer-content">
+                        <p class="footer-disclaimer">
+                            <strong>Disclaimer:</strong> This site is not affiliated with Legend Story Studios. Legend
+                            Story Studios®, Flesh and Blood™, and all associated set names are trademarks of Legend
+                            Story Studios.
+                            All Flesh and Blood artwork, card images, and characters are the property of Legend Story
+                            Studios. © Legend Story Studios.
+                            This site does not distribute or sell any copyrighted material. If you are a rights holder
+                            and have concerns, please
+                            <a href="https://github.com/petr7410/fab-3-0-analysis/issues" target="_blank"
+                                rel="noopener noreferrer">open a GitHub issue</a>
+                            or email me at <a href="mailto:petr7410.contact@gmail.com">petr7410.contact@gmail.com</a>.
+                        </p>
+                        <p class="footer-meta">FaB Draft 3-0 Analysis &bull; <a
+                                href="https://github.com/petr7410/fab-3-0-analysis" target="_blank">GitHub</a>
+                        </p>
+                    </div>
+                </footer>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Global Card Image Tooltip element -->
+    <div id="card-tooltip" class="card-tooltip" style="display: none;">
+        <img id="tooltip-img" src="" alt="Card image">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

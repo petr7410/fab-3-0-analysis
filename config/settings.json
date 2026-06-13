@@ -1,0 +1,355 @@
+{
+    "sets": {
+        "OMN": {
+            "name": "OMN Draft",
+            "decks_file": "_draft_data/OMN/OMN_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V1.txt",
+                    "date": "2026-01-01 00:00:00"
+                },
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V2.txt",
+                    "date": "2026-05-23 20:30:00"
+                },
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V3.txt",
+                    "date": "2026-05-26 19:00:00"
+                },
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V4.txt",
+                    "date": "2026-05-27 13:00:00"
+                },
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V5.txt",
+                    "date": "2026-05-29 17:30:00"
+                },
+                {
+                    "path": "_draft_data/OMN/OMN_draft_V6.txt",
+                    "date": "2026-06-05 15:30:00"
+                }
+            ],
+            "heroes": {
+                "Aurora, Emissary of Lightning": {
+                    "color": "#D946EF",
+                    "allowed_types": [
+                        "Runeblade",
+                        "Lightning",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Wizard",
+                        "Illusionist"
+                    ]
+                },
+                "Oscilio, Scion of the Third Age": {
+                    "color": "#06B6D4",
+                    "allowed_types": [
+                        "Wizard",
+                        "Lightning",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Runeblade",
+                        "Illusionist"
+                    ]
+                },
+                "Zyggy": {
+                    "color": "#F59E0B",
+                    "allowed_types": [
+                        "Illusionist",
+                        "Lightning",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Runeblade",
+                        "Wizard"
+                    ]
+                }
+            },
+            "weapons": [
+                "Volzar, Meteor Storm",
+                "Scorpio, Comet Tail",
+                "Aphrodias"
+            ]
+        },
+        "SEA": {
+            "name": "SEA Draft",
+            "decks_file": "_draft_data/SEA/SEA_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/SEA/SEA_draft_V1.txt",
+                    "date": "2025-01-01 00:00:00"
+                },
+                {
+                    "path": "_draft_data/SEA/SEA_draft_V2.txt",
+                    "date": "2025-05-29 19:00:00"
+                },
+                {
+                    "path": "_draft_data/SEA/SEA_draft_V3.txt",
+                    "date": "2025-06-04 01:15:00"
+                }
+            ],
+            "heroes": {
+                "Marlynn": {
+                    "color": "#DC2626",
+                    "allowed_types": [
+                        "Ranger",
+                        "Pirate",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Mechanologist",
+                        "Necromancer",
+                        "Thief"
+                    ]
+                },
+                "Puffin": {
+                    "color": "#EA580C",
+                    "allowed_types": [
+                        "Mechanologist",
+                        "Pirate",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Ranger",
+                        "Necromancer",
+                        "Thief"
+                    ]
+                },
+                "Gravy Bones": {
+                    "color": "#22C55E",
+                    "allowed_types": [
+                        "Necromancer",
+                        "Pirate",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Mechanologist",
+                        "Ranger",
+                        "Thief"
+                    ]
+                },
+                "Scurv, Stowaway": {
+                    "color": "#1D4ED8",
+                    "allowed_types": [
+                        "Pirate",
+                        "Thief",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Mechanologist",
+                        "Ranger",
+                        "Necromancer"
+                    ]
+                }
+            },
+            "weapons": [
+                "Compass of Sunken Depths",
+                "Cogwerx Blunderbuss",
+                "Spitfire",
+                "Hammerhead, Harpoon Cannon",
+                "Redspine Manta",
+                "Sticky Fingers"
+            ]
+        },
+        "HNT": {
+            "name": "HNT Draft",
+            "decks_file": "_draft_data/HNT/HNT_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/HNT/HNT_draft_V1.txt",
+                    "date": "2025-01-01 0:00:00"
+                },
+                {
+                    "path": "_draft_data/HNT/HNT_draft_V2.txt",
+                    "date": "2025-01-30 16:00:00"
+                },
+                {
+                    "path": "_draft_data/HNT/HNT_draft_V3.txt",
+                    "date": "2025-02-25 00:00:00"
+                }
+            ],
+            "heroes": {
+                "Fang": {
+                    "color": "#EAB308",
+                    "allowed_types": [
+                        "Warrior",
+                        "Draconic",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Ninja"
+                    ]
+                },
+                "Cindra": {
+                    "color": "#F97316",
+                    "allowed_types": [
+                        "Ninja",
+                        "Draconic",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Warrior"
+                    ]
+                },
+                "Arakni, Web of Deceit": {
+                    "color": "#84CC16",
+                    "allowed_types": [
+                        "Assassin",
+                        "Chaos",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Draconic"
+                    ]
+                }
+            },
+            "weapons": [
+                "Mark of the Huntsman",
+                "Obsidian Fire Vein",
+                "Kunai of Retribution"
+            ]
+        },
+        "ROS": {
+            "name": "ROS Draft",
+            "decks_file": "_draft_data/ROS/ROS_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/ROS/ROS_draft_V1.txt",
+                    "date": "2024-01-01 00:00:00"
+                },
+                {
+                    "path": "_draft_data/ROS/ROS_draft_V2.txt",
+                    "date": "2024-09-20 23:03:59"
+                },
+                {
+                    "path": "_draft_data/ROS/ROS_draft_V3.txt",
+                    "date": "2024-10-03 17:07:59"
+                }
+            ],
+            "heroes": {
+                "Florian": {
+                    "color": "#15803D",
+                    "allowed_types": [
+                        "Runeblade",
+                        "Earth",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Wizard",
+                        "Lightning"
+                    ]
+                },
+                "Verdance": {
+                    "color": "#10B981",
+                    "allowed_types": [
+                        "Wizard",
+                        "Earth",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Runeblade",
+                        "Lightning"
+                    ]
+                },
+                "Oscilio": {
+                    "color": "#06B6D4",
+                    "allowed_types": [
+                        "Wizard",
+                        "Lightning",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Runeblade",
+                        "Earth"
+                    ]
+                },
+                "Aurora": {
+                    "color": "#D946EF",
+                    "allowed_types": [
+                        "Runeblade",
+                        "Lightning",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Wizard",
+                        "Earth"
+                    ]
+                }
+            },
+            "weapons": [
+                "Rotwood Reaper",
+                "Staff of Verdant Shoots",
+                "Volzar, the Lightning Rod",
+                "Star Fall"
+            ]
+        },
+        "MST": {
+            "name": "MST Draft",
+            "decks_file": "_draft_data/MST/MST_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/MST/MST_draft_V1.txt",
+                    "date": "2024-01-01 00:00:00"
+                },
+                {
+                    "path": "_draft_data/MST/MST_draft_V2.txt",
+                    "date": "2024-06-01 00:00:00"
+                }
+            ],
+            "heroes": {
+                "Enigma": {
+                    "color": "#06B6D4",
+                    "allowed_types": [
+                        "Illusionist",
+                        "Mystic",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Assassin",
+                        "Ninja"
+                    ]
+                },
+                "Nuu": {
+                    "color": "#8B5CF6",
+                    "allowed_types": [
+                        "Assassin",
+                        "Mystic",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Illusionist",
+                        "Ninja"
+                    ]
+                },
+                "Zen": {
+                    "color": "#F97316",
+                    "allowed_types": [
+                        "Ninja",
+                        "Mystic",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Illusionist",
+                        "Assassin"
+                    ]
+                }
+            },
+            "weapons": [
+                "Beckoning Mistblade",
+                "Cosmo, Scroll of Ancestral Tapestry",
+                "Tiger Taming Khakkara"
+            ]
+        }
+    },
+    "global": {
+        "all_cards_file": "_draft_data/all_cards.csv",
+        "cracked_bauble": {
+            "rarity": "token",
+            "collector_number": "SEA246",
+            "type": [],
+            "image_url": "https://storage.googleapis.com/fabmaster/cardfaces/2025-SEA/EN/SEA246.png"
+        }
+    }
+}

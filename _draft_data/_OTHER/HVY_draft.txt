@@ -1,0 +1,8078 @@
+[Settings]
+{
+    "showSlots": true,
+    "withReplacement": false,
+}
+[CustomCards]
+[
+    {
+        "name": "Ball Breaker",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY006",
+        "type": "Brute, Weapon, Flail, 1H",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY006.png"
+        }
+    },
+    {
+        "name": "Mini Meataxe",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY007",
+        "type": "Brute, Weapon, Axe, 1H",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY007.png"
+        }
+    },
+    {
+        "name": "Knucklehead",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY009",
+        "type": "Brute, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY009.png"
+        }
+    },
+    {
+        "name": "Monstrous Veil",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY010",
+        "type": "Brute, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY010.png"
+        }
+    },
+    {
+        "name": "Raw Meat",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY011",
+        "type": "Brute, Equipment, Chest",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY011.png"
+        }
+    },
+    {
+        "name": "Send Packing (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY012",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY012.png"
+        }
+    },
+    {
+        "name": "Show No Mercy (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY013",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY013.png"
+        }
+    },
+    {
+        "name": "Cast Bones (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY014",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY014.png"
+        }
+    },
+    {
+        "name": "Reckless Charge (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY015",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY015.png"
+        }
+    },
+    {
+        "name": "No Fear (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY016",
+        "type": "Brute, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY016.png"
+        }
+    },
+    {
+        "name": "Beast Mode (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY017",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY017.png"
+        }
+    },
+    {
+        "name": "Beast Mode (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY018",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY018.png"
+        }
+    },
+    {
+        "name": "Beast Mode (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY019",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY019.png"
+        }
+    },
+    {
+        "name": "Pack Call (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY020",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY020.png"
+        }
+    },
+    {
+        "name": "Pack Call (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY021",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY021.png"
+        }
+    },
+    {
+        "name": "Pack Call (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY022",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY022.png"
+        }
+    },
+    {
+        "name": "Rawhide Rumble (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY023",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY023.png"
+        }
+    },
+    {
+        "name": "Rawhide Rumble (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY024",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY024.png"
+        }
+    },
+    {
+        "name": "Rawhide Rumble (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY025",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY025.png"
+        }
+    },
+    {
+        "name": "Assault and Battery (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY026",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY026.png"
+        }
+    },
+    {
+        "name": "Assault and Battery (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY027",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY027.png"
+        }
+    },
+    {
+        "name": "Assault and Battery (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY028",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY028.png"
+        }
+    },
+    {
+        "name": "Bare Fangs (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY029",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY029.png"
+        }
+    },
+    {
+        "name": "Bare Fangs (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY030",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY030.png"
+        }
+    },
+    {
+        "name": "Bare Fangs (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY031",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY031.png"
+        }
+    },
+    {
+        "name": "Pack Hunt (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY032",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY032.png"
+        }
+    },
+    {
+        "name": "Pack Hunt (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY033",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY033.png"
+        }
+    },
+    {
+        "name": "Pack Hunt (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY034",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY034.png"
+        }
+    },
+    {
+        "name": "Pound Town (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY035",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY035.png"
+        }
+    },
+    {
+        "name": "Pound Town (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY036",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY036.png"
+        }
+    },
+    {
+        "name": "Pound Town (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY037",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY037.png"
+        }
+    },
+    {
+        "name": "Wild Ride (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY038",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY038.png"
+        }
+    },
+    {
+        "name": "Wild Ride (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY039",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY039.png"
+        }
+    },
+    {
+        "name": "Wild Ride (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY040",
+        "type": "Brute, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY040.png"
+        }
+    },
+    {
+        "name": "Bonebreaker Bellow (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY041",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY041.png"
+        }
+    },
+    {
+        "name": "Bonebreaker Bellow (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY042",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY042.png"
+        }
+    },
+    {
+        "name": "Bonebreaker Bellow (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY043",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY043.png"
+        }
+    },
+    {
+        "name": "Smashback Alehorn (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY044",
+        "type": "Brute, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY044.png"
+        }
+    },
+    {
+        "name": "Miller's Grindstone",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY050",
+        "type": "Guardian, Weapon, Hammer, 1H",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY050.png"
+        }
+    },
+    {
+        "name": "Stonewall Impasse",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY052",
+        "type": "Guardian, Equipment, Off-Hand",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY052.png"
+        }
+    },
+    {
+        "name": "Golden Glare",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY054",
+        "type": "Guardian, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY054.png"
+        }
+    },
+    {
+        "name": "Good Time Chapeau",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY055",
+        "type": "Guardian, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY055.png"
+        }
+    },
+    {
+        "name": "Stand Ground",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY056",
+        "type": "Guardian, Equipment, Legs",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY056.png"
+        }
+    },
+    {
+        "name": "Bet Big (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY057",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY057.png"
+        }
+    },
+    {
+        "name": "Primed to Fight (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY058",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY058.png"
+        }
+    },
+    {
+        "name": "The Golden Son (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY059",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY059.png"
+        }
+    },
+    {
+        "name": "Boast (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY060",
+        "type": "Guardian, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY060.png"
+        }
+    },
+    {
+        "name": "Trounce (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY061",
+        "type": "Guardian, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY061.png"
+        }
+    },
+    {
+        "name": "Colossal Bearing (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY062",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY062.png"
+        }
+    },
+    {
+        "name": "Lay Down the Law (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY063",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY063.png"
+        }
+    },
+    {
+        "name": "Smack of Reality (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY064",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY064.png"
+        }
+    },
+    {
+        "name": "Over the Top (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY065",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY065.png"
+        }
+    },
+    {
+        "name": "Over the Top (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY066",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY066.png"
+        }
+    },
+    {
+        "name": "Over the Top (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY067",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY067.png"
+        }
+    },
+    {
+        "name": "Stacked in Your Favor (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY068",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY068.png"
+        }
+    },
+    {
+        "name": "Stacked in Your Favor (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY069",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY069.png"
+        }
+    },
+    {
+        "name": "Stacked in Your Favor (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY070",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY070.png"
+        }
+    },
+    {
+        "name": "Command Respect (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY071",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY071.png"
+        }
+    },
+    {
+        "name": "Command Respect (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY072",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY072.png"
+        }
+    },
+    {
+        "name": "Command Respect (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY073",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY073.png"
+        }
+    },
+    {
+        "name": "Concuss (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY074",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY074.png"
+        }
+    },
+    {
+        "name": "Concuss (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY075",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY075.png"
+        }
+    },
+    {
+        "name": "Concuss (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY076",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY076.png"
+        }
+    },
+    {
+        "name": "Thunk (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY077",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY077.png"
+        }
+    },
+    {
+        "name": "Thunk (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY078",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY078.png"
+        }
+    },
+    {
+        "name": "Thunk (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY079",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY079.png"
+        }
+    },
+    {
+        "name": "Wallop (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY080",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY080.png"
+        }
+    },
+    {
+        "name": "Wallop (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY081",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY081.png"
+        }
+    },
+    {
+        "name": "Wallop (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY082",
+        "type": "Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY082.png"
+        }
+    },
+    {
+        "name": "Big Bop (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY083",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY083.png"
+        }
+    },
+    {
+        "name": "Big Bop (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY084",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY084.png"
+        }
+    },
+    {
+        "name": "Big Bop (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY085",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY085.png"
+        }
+    },
+    {
+        "name": "Bigger Than Big (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY086",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY086.png"
+        }
+    },
+    {
+        "name": "Bigger Than Big (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY087",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY087.png"
+        }
+    },
+    {
+        "name": "Bigger Than Big (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY088",
+        "type": "Guardian, Action, Aura",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY088.png"
+        }
+    },
+    {
+        "name": "Pint of Strong and Stout (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY089",
+        "type": "Guardian, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY089.png"
+        }
+    },
+    {
+        "name": "Hot Streak",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY095",
+        "type": "Warrior, Weapon, Sword, 1H",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY095.png"
+        }
+    },
+    {
+        "name": "Parry Blade",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY096",
+        "type": "Warrior, Weapon, Equipment, Sword, 1H",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY096.png"
+        }
+    },
+    {
+        "name": "Prized Galea",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY098",
+        "type": "Warrior, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY098.png"
+        }
+    },
+    {
+        "name": "Hood of Red Sand",
+        "rarity": "rare",
+        "mana_cost": "0",
+        "collector_number": "HVY099",
+        "type": "Warrior, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY099.png"
+        }
+    },
+    {
+        "name": "Beckon Applause",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY100",
+        "type": "Warrior, Equipment, Arms",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY100.png"
+        }
+    },
+    {
+        "name": "Blade Flurry (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY101",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY101.png"
+        }
+    },
+    {
+        "name": "Shift the Tide of Battle (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY102",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY102.png"
+        }
+    },
+    {
+        "name": "Up the Ante (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY103",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY103.png"
+        }
+    },
+    {
+        "name": "Commanding Performance (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY104",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY104.png"
+        }
+    },
+    {
+        "name": "Raise an Army (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY105",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY105.png"
+        }
+    },
+    {
+        "name": "Cut the Deck (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY106",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY106.png"
+        }
+    },
+    {
+        "name": "Cut the Deck (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY107",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY107.png"
+        }
+    },
+    {
+        "name": "Cut the Deck (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY108",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY108.png"
+        }
+    },
+    {
+        "name": "Fatal Engagement (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY109",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY109.png"
+        }
+    },
+    {
+        "name": "Fatal Engagement (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY110",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY110.png"
+        }
+    },
+    {
+        "name": "Fatal Engagement (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY111",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY111.png"
+        }
+    },
+    {
+        "name": "Take the Upper Hand (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY112",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY112.png"
+        }
+    },
+    {
+        "name": "Take the Upper Hand (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY113",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY113.png"
+        }
+    },
+    {
+        "name": "Take the Upper Hand (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY114",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY114.png"
+        }
+    },
+    {
+        "name": "Agile Engagement (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY115",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY115.png"
+        }
+    },
+    {
+        "name": "Agile Engagement (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY116",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY116.png"
+        }
+    },
+    {
+        "name": "Agile Engagement (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY117",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY117.png"
+        }
+    },
+    {
+        "name": "Vigorous Engagement (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY118",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY118.png"
+        }
+    },
+    {
+        "name": "Vigorous Engagement (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY119",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY119.png"
+        }
+    },
+    {
+        "name": "Vigorous Engagement (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY120",
+        "type": "Warrior, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY120.png"
+        }
+    },
+    {
+        "name": "Draw Swords (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY121",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY121.png"
+        }
+    },
+    {
+        "name": "Draw Swords (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY122",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY122.png"
+        }
+    },
+    {
+        "name": "Draw Swords (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY123",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY123.png"
+        }
+    },
+    {
+        "name": "Edge Ahead (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY124",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY124.png"
+        }
+    },
+    {
+        "name": "Edge Ahead (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY125",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY125.png"
+        }
+    },
+    {
+        "name": "Edge Ahead (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY126",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY126.png"
+        }
+    },
+    {
+        "name": "Engaged Swiftblade (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY127",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY127.png"
+        }
+    },
+    {
+        "name": "Engaged Swiftblade (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY128",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY128.png"
+        }
+    },
+    {
+        "name": "Engaged Swiftblade (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY129",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY129.png"
+        }
+    },
+    {
+        "name": "Hold 'em (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY130",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY130.png"
+        }
+    },
+    {
+        "name": "Hold 'em (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY131",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY131.png"
+        }
+    },
+    {
+        "name": "Hold 'em (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY132",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY132.png"
+        }
+    },
+    {
+        "name": "Goblet of Bloodrun Wine (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY133",
+        "type": "Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY133.png"
+        }
+    },
+    {
+        "name": "Gauntlet of Might",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY135",
+        "type": "Brute, Guardian, Equipment, Arms",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY135.png"
+        }
+    },
+    {
+        "name": "Talk a Big Game (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY136",
+        "type": "Brute, Guardian, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY136.png"
+        }
+    },
+    {
+        "name": "Clash of Might (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY137",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY137.png"
+        }
+    },
+    {
+        "name": "Clash of Might (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY138",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY138.png"
+        }
+    },
+    {
+        "name": "Clash of Might (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY139",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY139.png"
+        }
+    },
+    {
+        "name": "Battered Not Broken (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY140",
+        "type": "Brute, Guardian, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY140.png"
+        }
+    },
+    {
+        "name": "Test of Might (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY141",
+        "type": "Brute, Guardian, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY141.png"
+        }
+    },
+    {
+        "name": "Wall of Meat and Muscle (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY142",
+        "type": "Brute, Guardian, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY142.png"
+        }
+    },
+    {
+        "name": "Mighty Windup (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY143",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY143.png"
+        }
+    },
+    {
+        "name": "Mighty Windup (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY144",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY144.png"
+        }
+    },
+    {
+        "name": "Mighty Windup (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY145",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY145.png"
+        }
+    },
+    {
+        "name": "Rising Power (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY146",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY146.png"
+        }
+    },
+    {
+        "name": "Rising Power (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY147",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY147.png"
+        }
+    },
+    {
+        "name": "Rising Power (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY148",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY148.png"
+        }
+    },
+    {
+        "name": "Wage Might (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY149",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY149.png"
+        }
+    },
+    {
+        "name": "Wage Might (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY150",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY150.png"
+        }
+    },
+    {
+        "name": "Wage Might (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY151",
+        "type": "Brute, Guardian, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY151.png"
+        }
+    },
+    {
+        "name": "Lead with Power (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY152",
+        "type": "Brute, Guardian, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY152.png"
+        }
+    },
+    {
+        "name": "Lead with Power (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY153",
+        "type": "Brute, Guardian, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY153.png"
+        }
+    },
+    {
+        "name": "Lead with Power (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY154",
+        "type": "Brute, Guardian, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY154.png"
+        }
+    },
+    {
+        "name": "Flat Trackers",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY155",
+        "type": "Brute, Warrior, Equipment, Legs",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY155.png"
+        }
+    },
+    {
+        "name": "Runner Runner (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY156",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY156.png"
+        }
+    },
+    {
+        "name": "Clash of Agility (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY157",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY157.png"
+        }
+    },
+    {
+        "name": "Clash of Agility (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY158",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY158.png"
+        }
+    },
+    {
+        "name": "Clash of Agility (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY159",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY159.png"
+        }
+    },
+    {
+        "name": "Take it on the Chin (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY160",
+        "type": "Brute, Warrior, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY160.png"
+        }
+    },
+    {
+        "name": "Run into Trouble (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY161",
+        "type": "Brute, Warrior, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY161.png"
+        }
+    },
+    {
+        "name": "Test of Agility (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY162",
+        "type": "Brute, Warrior, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY162.png"
+        }
+    },
+    {
+        "name": "Agile Windup (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY163",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY163.png"
+        }
+    },
+    {
+        "name": "Agile Windup (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY164",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY164.png"
+        }
+    },
+    {
+        "name": "Agile Windup (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY165",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY165.png"
+        }
+    },
+    {
+        "name": "Rising Speed (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY166",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY166.png"
+        }
+    },
+    {
+        "name": "Rising Speed (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY167",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY167.png"
+        }
+    },
+    {
+        "name": "Rising Speed (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY168",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY168.png"
+        }
+    },
+    {
+        "name": "Wage Agility (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY169",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY169.png"
+        }
+    },
+    {
+        "name": "Wage Agility (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY170",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY170.png"
+        }
+    },
+    {
+        "name": "Wage Agility (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY171",
+        "type": "Brute, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY171.png"
+        }
+    },
+    {
+        "name": "Lead with Speed (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY172",
+        "type": "Brute, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY172.png"
+        }
+    },
+    {
+        "name": "Lead with Speed (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY173",
+        "type": "Brute, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY173.png"
+        }
+    },
+    {
+        "name": "Lead with Speed (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY174",
+        "type": "Brute, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY174.png"
+        }
+    },
+    {
+        "name": "Vigor Girth",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY175",
+        "type": "Guardian, Warrior, Equipment, Chest",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY175.png"
+        }
+    },
+    {
+        "name": "Double Down (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY176",
+        "type": "Guardian, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY176.png"
+        }
+    },
+    {
+        "name": "Clash of Vigor (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY177",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY177.png"
+        }
+    },
+    {
+        "name": "Clash of Vigor (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY178",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY178.png"
+        }
+    },
+    {
+        "name": "Clash of Vigor (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY179",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY179.png"
+        }
+    },
+    {
+        "name": "Slap-Happy (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY180",
+        "type": "Guardian, Warrior, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY180.png"
+        }
+    },
+    {
+        "name": "Hearty Block (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY181",
+        "type": "Guardian, Warrior, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY181.png"
+        }
+    },
+    {
+        "name": "Test of Vigor (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY182",
+        "type": "Guardian, Warrior, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY182.png"
+        }
+    },
+    {
+        "name": "Rising Energy (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY183",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY183.png"
+        }
+    },
+    {
+        "name": "Rising Energy (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY184",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY184.png"
+        }
+    },
+    {
+        "name": "Rising Energy (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY185",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY185.png"
+        }
+    },
+    {
+        "name": "Vigorous Windup (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY186",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY186.png"
+        }
+    },
+    {
+        "name": "Vigorous Windup (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY187",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY187.png"
+        }
+    },
+    {
+        "name": "Vigorous Windup (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY188",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY188.png"
+        }
+    },
+    {
+        "name": "Wage Vigor (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY189",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY189.png"
+        }
+    },
+    {
+        "name": "Wage Vigor (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY190",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY190.png"
+        }
+    },
+    {
+        "name": "Wage Vigor (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY191",
+        "type": "Guardian, Warrior, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY191.png"
+        }
+    },
+    {
+        "name": "Lead with Heart (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY192",
+        "type": "Guardian, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY192.png"
+        }
+    },
+    {
+        "name": "Lead with Heart (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY193",
+        "type": "Guardian, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY193.png"
+        }
+    },
+    {
+        "name": "Lead with Heart (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY194",
+        "type": "Guardian, Warrior, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY194.png"
+        }
+    },
+    {
+        "name": "Glory Seeker",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY196",
+        "type": "Generic, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY196.png"
+        }
+    },
+    {
+        "name": "Sheltered Cove",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY197",
+        "type": "Generic, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY197.png"
+        }
+    },
+    {
+        "name": "Face Adversity",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY198",
+        "type": "Generic, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY198.png"
+        }
+    },
+    {
+        "name": "Confront Adversity",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY199",
+        "type": "Generic, Equipment, Chest",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY199.png"
+        }
+    },
+    {
+        "name": "Embrace Adversity",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY200",
+        "type": "Generic, Equipment, Arms",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY200.png"
+        }
+    },
+    {
+        "name": "Overcome Adversity",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY201",
+        "type": "Generic, Equipment, Legs",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY201.png"
+        }
+    },
+    {
+        "name": "Headliner Helm",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY202",
+        "type": "Generic, Equipment, Head",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY202.png"
+        }
+    },
+    {
+        "name": "Stadium Centerpiece",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY203",
+        "type": "Generic, Equipment, Chest",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY203.png"
+        }
+    },
+    {
+        "name": "Ticket Puncher",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY204",
+        "type": "Generic, Equipment, Arms",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY204.png"
+        }
+    },
+    {
+        "name": "Grandstand Legplates",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY205",
+        "type": "Generic, Equipment, Legs",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY205.png"
+        }
+    },
+    {
+        "name": "Bloodied Oval",
+        "rarity": "common",
+        "mana_cost": "0",
+        "collector_number": "HVY206",
+        "type": "Generic, Equipment, Off-Hand",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY206.png"
+        }
+    },
+    {
+        "name": "Nasty Surprise (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY207",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY207.png"
+        }
+    },
+    {
+        "name": "Pay Up (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY208",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY208.png"
+        }
+    },
+    {
+        "name": "Ripple Away (blue)",
+        "rarity": "mythic",
+        "mana_cost": "3",
+        "collector_number": "HVY209",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY209.png"
+        }
+    },
+    {
+        "name": "Standing Order (red)",
+        "rarity": "mythic",
+        "mana_cost": "1",
+        "collector_number": "HVY210",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY210.png"
+        }
+    },
+    {
+        "name": "Tenacity (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY211",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY211.png"
+        }
+    },
+    {
+        "name": "Seduce Secrets (yellow)",
+        "rarity": "mythic",
+        "mana_cost": "2",
+        "collector_number": "HVY212",
+        "type": "Generic, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY212.png"
+        }
+    },
+    {
+        "name": "Down But Not Out (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY213",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY213.png"
+        }
+    },
+    {
+        "name": "Down But Not Out (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY214",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY214.png"
+        }
+    },
+    {
+        "name": "Down But Not Out (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY215",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY215.png"
+        }
+    },
+    {
+        "name": "Wage Gold (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY216",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY216.png"
+        }
+    },
+    {
+        "name": "Wage Gold (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY217",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY217.png"
+        }
+    },
+    {
+        "name": "Wage Gold (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY218",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY218.png"
+        }
+    },
+    {
+        "name": "Reinforce the Line (red)",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "collector_number": "HVY219",
+        "type": "Generic, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU189.png"
+        }
+    },
+    {
+        "name": "Reinforce the Line (yellow)",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "collector_number": "HVY220",
+        "type": "Generic, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU190.png"
+        }
+    },
+    {
+        "name": "Reinforce the Line (blue)",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "collector_number": "HVY221",
+        "type": "Generic, Instant",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU191.png"
+        }
+    },
+    {
+        "name": "Adrenaline Rush (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY222",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/media/images/MON263.width-450.png"
+        }
+    },
+    {
+        "name": "Adrenaline Rush (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY223",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/media/images/MON264.width-450.png"
+        }
+    },
+    {
+        "name": "Adrenaline Rush (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY224",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/media/images/MON265.width-450.png"
+        }
+    },
+    {
+        "name": "Performance Bonus (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY225",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY225.png"
+        }
+    },
+    {
+        "name": "Performance Bonus (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY226",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY226.png"
+        }
+    },
+    {
+        "name": "Performance Bonus (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY227",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY227.png"
+        }
+    },
+    {
+        "name": "Rally the Rearguard (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY228",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY228.png"
+        }
+    },
+    {
+        "name": "Rally the Rearguard (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY229",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY229.png"
+        }
+    },
+    {
+        "name": "Rally the Rearguard (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY230",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY230.png"
+        }
+    },
+    {
+        "name": "Trade In (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY231",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY231.png"
+        }
+    },
+    {
+        "name": "Trade In (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY232",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY232.png"
+        }
+    },
+    {
+        "name": "Trade In (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY233",
+        "type": "Generic, Action, Attack",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY233.png"
+        }
+    },
+    {
+        "name": "Lunging Press (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY234",
+        "type": "Generic, Attack Reaction",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY234.png"
+        }
+    },
+    {
+        "name": "Money Where Ya Mouth Is (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY235",
+        "type": "Generic, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY235.png"
+        }
+    },
+    {
+        "name": "Money Where Ya Mouth Is (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY236",
+        "type": "Generic, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY236.png"
+        }
+    },
+    {
+        "name": "Money Where Ya Mouth Is (blue)",
+        "rarity": "common",
+        "mana_cost": "3",
+        "collector_number": "HVY237",
+        "type": "Generic, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY237.png"
+        }
+    },
+    {
+        "name": "Starting Stake (yellow)",
+        "rarity": "common",
+        "mana_cost": "2",
+        "collector_number": "HVY238",
+        "type": "Generic, Action",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY238.png"
+        }
+    },
+    {
+        "name": "Test of Strength (red)",
+        "rarity": "common",
+        "mana_cost": "1",
+        "collector_number": "HVY239",
+        "type": "Generic, Block",
+        "image_uris": {
+           "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY239.png"
+        }
+    },
+]
+[Layouts]
+   - dettfjdwdsyh (56335)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - thypmgmfwqni (56290)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - babcsstznfqi (56170)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - ckbbluirhqoe (56117)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - tmdqqyolyhlc (56084)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - uqcyrkvknjmq (56045)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - unbnsjlmkava (15824)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - nkjzycqaqsgp (15678)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - nvtymrbdbtgt (15604)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - bhldevgxuqkk (15580)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - khtuogwvjyyv (15479)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - ocqjqcrvvhwy (15467)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - hwiuqdegvjgx (13335)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - vwyelrwnklhd (13247)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - mldpxksrzigm (13235)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ibtmtwbkfsfw (13216)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - hpdgunqhofbh (13072)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - fvdtnzeaicea (13033)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - bdrxdxhrbwre (11379)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - crenhwwluofk (11359)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - npyzdrnyyjck (11309)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - miexdlgidfna (11279)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - hufkdjicfwwg (11199)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - tpkwgcjivdkk (11131)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - fjaicvuwlxbk (4854)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - whlenyffrvdw (4804)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - xroqpqvlenmy (4803)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - qorxxmxioaot (4800)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - odksfxzicciu (4775)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - egjezkxbxuqd (4772)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - xfdapdwatytn (4770)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - jalmjnzudhdc (4762)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - lexzfmcecnif (4761)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - islreuvsjpnm (4756)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - sitlgchdlnxz (4751)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - sktksluvkvko (4719)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - ddkavpxjfuvv (4717)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - syddrgrloclm (4715)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - wicfsorjvutq (4713)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - inryllxwdmxy (4711)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - sicmqczbopjb (4691)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - sftoermvoocu (4685)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - vzehhuqjblse (4679)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - mswtkqdihjqd (4676)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - pmwbcvjsuxuh (4665)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - boetsbcztmex (4663)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - gvtjngccheng (4657)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - cwylwjairphj (4654)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - wgmktpsjqyop (4644)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - thlkjykqbufw (4643)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - nldspcnggdvh (4638)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - vxiaxhxqackr (4626)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - eafmcpmdrnjd (4623)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - qmfwjkhbwwup (4612)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - kqtujcteauhy (4603)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - iolafqtrmofw (4596)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - nqgfdwnyqonb (4593)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - fnsqibnnbmar (4592)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - ssmqatdiqomz (4589)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - papxsvazcchw (4543)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - bytfzuvsuzkp (3740)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - iuioybrzaovq (3721)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - vysdxuismlzw (3715)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - hqsvyuvpbtkl (3631)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - gkthnsfhomzf (3629)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - hcslbxeecbxx (3580)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - sylxgbygzvbi (3276)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - kcltfuzsdzlh (3227)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - vvvvmnoldruc (3212)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - cuqqwrvrzzgi (3193)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ygiqnfxspbmg (3187)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - pigtdyjlrwta (3184)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ygimqlbwutej (3169)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - vqbrpuzmtbvi (3134)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - ykdteugemuqt (3130)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - axrfjpncndxm (3129)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - avffioovboaq (3107)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - gckkjyeuxzvw (3083)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - ajeoqjdetujn (2689)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - orlfmfqgxyyx (2678)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - lgtharrzrull (2676)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - khqxwwdkccyv (2618)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - exbismnguknv (2608)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - akenntbgjjpk (2545)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - lvhsijuqhhap (1366)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - xtcvekcesjnt (1357)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - iktpmmmcjitb (1332)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - vhssjagzhvwj (1332)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - wuheoerrskfx (1326)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - txouxtyorcjo (1318)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - vsffkmjcymah (1312)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - tqxcwclptamn (1311)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - elffgrygoipl (1311)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - dpvesyewvepm (1307)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - lvhjaayvvalw (1305)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - jdmngmwnkrgy (1302)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - xxuzhtltmjne (1296)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - qsoejeuphohr (1290)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - rznazedmuwbr (1289)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - mzrneqmfqgxn (1287)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - hmflwdhvvpqy (1287)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - nobubixbvnwr (1286)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - xyakbeenocjh (1284)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - lyfdxwlnsfhb (1281)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - ivwvaclnhnki (1281)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - dmevpcqalfwy (1279)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - kgnmtunyamuy (1278)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - mpgdfwtmxlqx (1275)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - qpebmqadgfuf (1273)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - suhibvsbmbsd (1271)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - qxrhpoqneqem (1268)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - myahvuzeaeep (1259)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - qvensucdvlhb (1255)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - bhbjvfdgxvzr (1253)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - qeajhgdketvd (1241)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - bfkaofiuqqqg (1235)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - kdjehjpsuopx (1234)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - egcksgrwitod (1233)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - yohvlnefdxsz (1218)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - kpymtividtlz (1211)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - xsewrrqcifqz (1193)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - qxwqxlocoayg (1148)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - qsnxibmmxhir (1132)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - gqaboavkhjvi (1132)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - xwqjkyxjcqyg (1131)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ieerlnuyxnkc (1130)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - bdwhudtxzoje (1121)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - kpbflqqhchrn (1119)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - tmffwwtziqqi (1119)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - usydkwohvwnc (1117)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ifkpvctfzhww (1115)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - nnyivzhlqotp (1113)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - wmclonkyzxwh (1103)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - iwtkjkqssguk (1102)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ubkainwdqqiw (1100)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - bktxqiujqyiy (1100)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - mlwbzidrcayx (1098)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - fvmelobyrhhc (1097)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - bhrtzcpucbed (1096)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ygntmllrrpif (1093)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - qbnnwhyureap (1088)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - qudhzmocnvgj (1085)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - lszgzgpitmoj (1085)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - bwgobqsbkkhb (1079)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - ahawkhtqzoxc (1079)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - atevxcdlpces (1078)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - xiuupelpqnrf (1074)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - eekorqebctfx (1072)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - jfhsrqycprvf (1070)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - fxrybmuijibz (1069)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - cphrzascevfa (1068)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - djbogzxjcxyj (1068)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - usvrulqnyxjo (1065)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - gqvnyhmvcllw (1054)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - csmykisgmffb (1046)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - yqzuqrcbgasm (1028)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - kvsjmwmxliko (1025)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - ecbkelrtdgdg (1006)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - gboepjzggnel (999)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - tlcsjbpzddmv (989)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - rqwlyoygkjas (988)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - ateepswuycjj (982)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - wutadmumdugg (980)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - rfvvtvmxleuo (972)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - dmbqjsyvyxfc (964)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - ydvwedctgnnm (961)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - sgyhkzdnlhfv (954)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - eachwvxdjxxr (953)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - aqkduncqeflb (953)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - dxhdnwxvwirn (950)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - zhxzzinevxto (949)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - wrykdjzrefpi (948)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - exzxkihkmilc (947)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - qxqmdjnfsnrf (947)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - itxqxauqmned (946)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - flaesnenbkwo (936)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - rezadfmhclyq (934)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - reosjouckzdy (933)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - mvjljexelbse (927)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - ujtfzeodebfe (926)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - bbhymeghrvpu (926)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - glggaafptret (924)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - rxxvmlhxhwmc (921)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - kmymntmucjjm (919)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - xyqyldwseotj (914)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - oufgkqzozdpn (913)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - muuxfqquubdu (910)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - hlrnaxhltscb (903)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - magfrcajtyhd (893)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - hkjzfqnjxqlg (891)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - qzhqyngcazwb (889)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - wknvnuqeqhbp (883)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFCommon
+   - kcjphrwejbyn (793)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - zlufvfdhrdce (783)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - duckzisimhnc (766)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - gapglwbmijsx (758)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - tjdrrnedsjmk (743)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - tgineevrtoyt (735)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - myvzcqnohmra (734)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - udaduzzryisn (734)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jvznafwesrcm (725)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - tdrtxzysknef (721)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - caoxitzceaku (715)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ugnzdfcceeni (711)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - uhbggedrezek (682)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ksocyvdnxnik (665)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ztfupnjlrqtz (656)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - qkqutdwnzthr (622)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ymqojbbbziea (621)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - lscyqeiruozx (545)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - oesiqnslxhan (356)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - bhcxvdlsgrgg (339)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - rjtkkvqudelm (332)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - bvjkaablprph (331)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - arsvthrthvbt (330)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - wybriiucsogo (326)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - axovyxdmgvff (326)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - rzgsajdjhsdy (326)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - poamnivmcjrp (326)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - dbeyagvifqhq (319)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - avazphofjztk (318)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - paxgrdrzybtp (317)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - dzkmbndfgrof (315)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - tfzuwrnxahuz (314)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - jqwucazbqghy (313)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - eawabdnvqulf (312)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - zddhnkjfshlu (306)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - dobspshxjwyw (306)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - gwvljozxgpdi (305)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - piwvvpxticpf (305)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - uadquecfxwxv (304)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - nvgyioxiymfc (304)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - wmbtooseawlh (304)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - jgfbtnfzbwpb (304)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - pxfdtojjlryy (303)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - xnjuvowyiepw (303)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - riuabicnlatv (303)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - zoysvezfazcf (301)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - ohgcvuauwjlz (301)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - ohyvmevasdmj (299)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - beekynlfaccv (298)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - qeawnbbweayz (297)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ygoyrimzzohv (294)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - fgztoqzsmkpu (293)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - mvhvcltixzxp (290)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - egkzrfzjpebe (290)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - ojxqbhoghjfd (290)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - oxudtwzwutsz (286)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - coizeifexeki (286)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - iwzblzgisahw (285)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - pbkoghzonczm (285)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - wnixedtxlyfx (284)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - qfrsxetuxfuw (283)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - rskgrkkjftlx (282)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - zygnyasjwqen (282)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - jlbgotjzmjgi (280)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - epqdoxqxttgk (278)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - ltaeqikjgohl (277)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - dvbfomaqnyjv (277)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - bddlmfvlfphx (277)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ihqbdzahusoi (275)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - lswjdcrxhvys (274)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - gianjvhhduek (274)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - pvdnsibbhttq (272)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ukhlrenlcfma (272)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - epiatgxtgozj (272)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - pdslsbboilvo (269)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - xykkplaqcujh (269)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - mkmtfggjcguh (266)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - upntenrhumpi (265)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - mmrxcghoczpv (265)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - zntoqeosfiyd (264)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - pfwibkjenntg (263)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - koinijkihwgd (263)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - jfsaudkqtenf (262)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - vebexetjvwhq (262)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - aitsymnboksv (260)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - mrvcncpwnaed (260)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - jtdqffbfscyb (260)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - jgmhrmautspe (260)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - nnfexxacjbix (259)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - nfazlsecxood (259)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - zfytfzmbukxu (258)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - antvqwbbuynr (258)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - ziufpkssisrq (257)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - bkuahsglnnqa (257)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - oibvpvglkwwo (257)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - plcgkidmdyzc (257)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - qhcrsjjszbvq (257)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - rfoytsimgpqu (256)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - grpekpdnifie (255)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - mkoiuwhhqezb (253)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - vcoqdjiypqle (253)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - vrzjajbsnkzl (252)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - gvpiulfxiwju (252)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - davwaoedlkgs (251)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - dynnjzjfcsek (251)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - kijamyabmiae (250)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - okyuqpiwhayx (249)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - mdhvwnuqfvhl (249)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - rwdrxtjzzmnl (248)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - rxvgehiiknmz (248)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - wkyonduhszoe (248)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ovhzdvzaawof (247)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - umoerbqnkktc (247)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - ihnfqktmivih (246)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - yspzqrwpfhza (246)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - boohnsgoppaw (245)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - yrrixuowextw (243)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - inlbesfqfzjl (243)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - elvxuamvnsta (243)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - ymweubnwjrxt (243)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - kzcejqdzptty (243)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ugzkmpyqaoeh (242)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ulagtoaqbsyr (241)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - ziwcrbbefrmo (241)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - dilxvoyjfbwy (239)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - oozjeyecozeq (237)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - ixhxwuisngiu (235)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - vmgurlcbinvo (232)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - eambutzqugwc (231)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ihyluywqekjh (230)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - vuwmustbjunp (230)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - hjolcxqicfbj (230)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - xzebozkvtgon (229)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - qcqabcjrfaey (228)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - etqqujpalbqd (228)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ivmwpbdvweoc (227)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - vvhmkuzguaxp (227)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - yspoqmsfvfyy (224)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - oehlbygzbwav (224)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - eiuwhaahbhqh (223)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - pxudguinggdf (222)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFRare
+   - iloqlenbaamw (222)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - wbsajodopouq (222)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - rwobpleoenmy (221)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - khonjwujvqcy (221)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - vdotbuliszhy (220)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - taijwzlyeiwg (220)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ybubbdiscatn (218)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - iqyytwbplwkh (217)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - ineqaibkaekb (216)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - tnqjlhgzfaxm (216)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - cwwlngnuxnac (216)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - bjlppgqbtaxu (215)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - nithreiuznyb (214)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - bkcbllejwppc (213)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - oerzcbzusrzs (210)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - cpbqaofrijgh (209)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - gohfrfeiihyt (209)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - wjursksptlmb (209)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - zadczhigafnx (208)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - svxqqowuupts (198)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - dmsbtullvmhn (177)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFCommon
+   - kaahgraellfj (145)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ptxnzimndpve (143)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - lpedqtpopuqe (143)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ukudkfjslnum (138)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - bhkwtmkinphj (133)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - mjqgfdgrfkoq (131)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       1 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - krcyszxhbnle (86)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - skabfmubcxeb (81)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - xfcysicfvhon (77)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - xsqrywvwbszt (75)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - euocvmntonfm (75)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - rekhlnhsancs (73)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - igegiudmgoez (72)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - yqgqdjmdnjcj (70)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - tzrnulgoduen (70)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - yvcnbqmjfwlv (70)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - smiapjynuruv (70)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - fnwaylxtseld (68)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - vkfipkuaegzu (68)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - wjrlniyytner (68)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - nppppalvfwys (68)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - upjacvrwamxj (67)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ljrllljytmic (67)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - lmmtpiqolxbh (67)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - umerjegapznh (67)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - dpqqxlutmsae (67)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ksiyhfrsrdtv (67)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - bstqvoyoihcx (67)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - zzqhpqcrxvpq (66)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - nwjsrwqgfija (65)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - weqbufzxsptd (65)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - usxmsxkdjptr (65)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - fmebowgybbfs (65)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - upxlkuqtbzej (65)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - jfhtdrnqnrlj (65)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ybymytqstxly (63)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - ygwwwqpowjtf (63)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jlrgpipzlwmb (63)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - tmrxpasyrydq (63)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - iijuzchyoccf (62)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - utqgkuwckfrp (62)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - drrkprpxkmnb (62)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - dudncqbicwpx (61)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - gtwbjlgejmfi (61)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - nzofdrekeurp (61)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - pirednadzkhf (61)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - soghpmjezrqo (61)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - svaakgccpwrn (61)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - weztnvlaqvio (61)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - qszmwcraazea (61)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ysbfjnhdhzox (61)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - idtwyqteivgl (60)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - flvtoyeutlmr (60)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - rukhiowhvykr (60)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - qljcoluirrsv (60)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - zvthrlwqgcdo (59)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - ftsydsxodgro (59)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - aerfwpecqpbl (59)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - fvsxwfoxlvwb (59)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ytpwnyssuplr (59)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jsymzkkbuqlo (59)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - lgohmphxhsit (58)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ezfuxfizutil (58)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - knlrvkjflkad (58)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - aindxqvhahfm (58)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - xoroefviaigo (58)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - ngjkjwsnrvam (58)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - qxpilvgydxrd (58)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jgfujxfpvcsu (57)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - wasjvrawnriv (57)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - srwnbnnrjggp (57)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - dgqplcaxuhyn (57)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - qhmmiweqkpxw (56)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - slyggdseabls (56)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - tcwtxtpwdumr (56)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - oxjnbyxxvdhx (55)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - joopjukhywkn (55)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - hmlfbtdtyzzo (55)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - rheoqxohrdoy (55)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - qjrtlgqwkebs (55)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ilbadtxrjirv (54)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - xdjiusokhpaq (54)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - mppabcekypeb (54)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - mxrwytwvkvgo (53)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - omevegzrwjww (53)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - akyjzbbjtwrk (53)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - lgkcrzuttcsa (52)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ghzzkujvmiyy (52)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ipdhcqbomgjr (52)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - keutvytaueql (52)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - hqmuquagsymh (51)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - fexfvdqiurhg (51)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ijqdxealksjm (50)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - bghvqfjyiwig (50)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - opluuxhtkkwx (50)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ihcscumyeosh (49)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - vhphmijbmxnk (49)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - vhlbcyqzgfkh (49)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - plmhbcbvvyem (48)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - moqngturtyzf (48)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - kmdyyjsesxpc (47)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - prfbovxjfwnh (47)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - abdogbguuzpk (47)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - jeojcfgvfdfy (46)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - pomjcxlwpiht (46)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFRare
+   - zwqyewfoxooy (45)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - lokgxfadsbce (45)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - vulhwstfflhb (44)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - cgntvuammhnb (43)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - gbjgjsryyqzn (43)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - ekivghfzrmpu (42)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - feqhlmncnfxt (40)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - rszxnoioffyt (39)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - cexmdeymfrec (31)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Rare
+       1 RFMajestic
+   - zuokkodpozti (22)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - wmywabbxltbs (19)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ecqujaqefbqn (17)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - cgrgldrjkxya (16)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - pauzbzlwmmot (16)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - twngncmqjcdn (16)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - aidkhmgwgnzp (16)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - orzkqijxnnsy (16)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ljxczxsnclbm (15)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - xofvxjbfbpfa (15)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - lifapmqzjbwk (15)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ndniabqbujcd (14)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - hdjuojnsexxz (13)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - caxlpxgqnhra (13)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - azvyaekvnlpg (13)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - jlupplwzahju (12)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - kvbiccnijbfi (12)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - uicgbyknunxu (12)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - egoshbletxus (12)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ivvrborpfvhp (12)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - euzsuzfkoiuw (12)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - yahgbzcjflko (11)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - xsjaillmbccx (11)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - hlglkaipdqrf (11)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - rdlwqgaqdgal (11)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - xcjlxjngopkw (11)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - rlehwxqavejh (11)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - cabdhvzbxxyh (10)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - ekbtuslllyea (10)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteGuard
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - yzyxwlwfhsaa (10)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteWar
+       2 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - vjufjxfnwrxx (8)
+       1 Brute
+       2 Guardian
+       2 Warrior
+       1 BruteGuard
+       2 BruteWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - oxskermgpnsj (8)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       1 BruteWar
+       2 GuardWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - xwpmbzbhwmct (8)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - aqcukdariqzg (8)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteWar
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - cknfvwojkzcy (6)
+       2 Brute
+       1 Guardian
+       2 Warrior
+       2 BruteGuard
+       1 BruteWar
+       1 Generic
+       2 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+   - hnmsrdylfmiu (5)
+       2 Brute
+       2 Guardian
+       1 Warrior
+       2 BruteGuard
+       1 GuardWar
+       2 Generic
+       1 Equipment
+       1 RareEquip
+       1 Majestic
+       1 RFMajestic
+[Brute]
+3 Assault and Battery (red)
+3 Assault and Battery (yellow)
+3 Assault and Battery (blue)
+4 Bare Fangs (red)
+3 Bare Fangs (yellow)
+3 Bare Fangs (blue)
+3 Pack Hunt (red)
+3 Pack Hunt (yellow)
+3 Pack Hunt (blue)
+3 Pound Town (red)
+3 Pound Town (yellow)
+3 Pound Town (blue)
+4 Wild Ride (red)
+3 Wild Ride (yellow)
+3 Wild Ride (blue)
+3 Bonebreaker Bellow (red)
+3 Bonebreaker Bellow (yellow)
+3 Bonebreaker Bellow (blue)
+4 Smashback Alehorn (blue)
+[Guardian]
+3 Command Respect (red)
+3 Command Respect (yellow)
+3 Command Respect (blue)
+3 Concuss (red)
+3 Concuss (yellow)
+3 Concuss (blue)
+3 Thunk (red)
+4 Thunk (yellow)
+3 Thunk (blue)
+3 Wallop (red)
+3 Wallop (yellow)
+3 Wallop (blue)
+4 Big Bop (red)
+2 Big Bop (yellow)
+3 Big Bop (blue)
+4 Bigger Than Big (red)
+2 Bigger Than Big (yellow)
+3 Bigger Than Big (blue)
+4 Pint of Strong and Stout (blue)
+[Warrior]
+3 Agile Engagement (red)
+3 Agile Engagement (yellow)
+3 Agile Engagement (blue)
+3 Vigorous Engagement (red)
+3 Vigorous Engagement (yellow)
+3 Vigorous Engagement (blue)
+4 Draw Swords (red)
+3 Draw Swords (yellow)
+3 Draw Swords (blue)
+3 Edge Ahead (red)
+3 Edge Ahead (yellow)
+3 Edge Ahead (blue)
+3 Engaged Swiftblade (red)
+3 Engaged Swiftblade (yellow)
+3 Engaged Swiftblade (blue)
+3 Hold 'em (red)
+3 Hold 'em (yellow)
+3 Hold 'em (blue)
+4 Goblet of Bloodrun Wine (blue)
+[BruteGuard]
+4 Mighty Windup (red)
+3 Mighty Windup (yellow)
+4 Mighty Windup (blue)
+4 Rising Power (red)
+3 Rising Power (yellow)
+3 Rising Power (blue)
+4 Wage Might (red)
+3 Wage Might (yellow)
+4 Wage Might (blue)
+3 Lead with Power (red)
+3 Lead with Power (yellow)
+3 Lead with Power (blue)
+[BruteWar]
+4 Agile Windup (red)
+3 Agile Windup (yellow)
+4 Agile Windup (blue)
+4 Rising Speed (red)
+3 Rising Speed (yellow)
+3 Rising Speed (blue)
+4 Wage Agility (red)
+3 Wage Agility (yellow)
+4 Wage Agility (blue)
+3 Lead with Speed (red)
+3 Lead with Speed (yellow)
+3 Lead with Speed (blue)
+[GuardWar]
+4 Rising Energy (red)
+3 Rising Energy (yellow)
+3 Rising Energy (blue)
+4 Vigorous Windup (red)
+3 Vigorous Windup (yellow)
+4 Vigorous Windup (blue)
+4 Wage Vigor (red)
+3 Wage Vigor (yellow)
+4 Wage Vigor (blue)
+3 Lead with Heart (red)
+3 Lead with Heart (yellow)
+3 Lead with Heart (blue)
+[Generic]
+4 Adrenaline Rush (red)
+3 Adrenaline Rush (yellow)
+3 Adrenaline Rush (blue)
+3 Performance Bonus (red)
+3 Performance Bonus (yellow)
+3 Performance Bonus (blue)
+3 Rally the Rearguard (red)
+3 Rally the Rearguard (yellow)
+3 Rally the Rearguard (blue)
+3 Trade In (red)
+3 Trade In (yellow)
+3 Trade In (blue)
+4 Lunging Press (blue)
+3 Money Where Ya Mouth Is (red)
+3 Money Where Ya Mouth Is (yellow)
+3 Money Where Ya Mouth Is (blue)
+5 Starting Stake (yellow)
+4 Test of Strength (red)
+[Equipment]
+4 Raw Meat
+4 Stand Ground
+4 Beckon Applause
+5 Gauntlet of Might
+5 Flat Trackers
+5 Vigor Girth
+2 Glory Seeker
+4 Sheltered Cove
+2 Face Adversity
+3 Confront Adversity
+3 Embrace Adversity
+3 Overcome Adversity
+3 Headliner Helm
+3 Stadium Centerpiece
+3 Ticket Puncher
+3 Grandstand Legplates
+4 Bloodied Oval
+[RareEquip]
+3 Ball Breaker
+3 Mini Meataxe
+3 Knucklehead
+3 Monstrous Veil
+3 Miller's Grindstone
+3 Stonewall Impasse
+3 Golden Glare
+3 Good Time Chapeau
+3 Hot Streak
+3 Parry Blade
+3 Prized Galea
+3 Hood of Red Sand
+[Rare]
+3 Beast Mode (red)
+3 Beast Mode (yellow)
+3 Beast Mode (blue)
+3 Pack Call (red)
+3 Pack Call (yellow)
+3 Pack Call (blue)
+3 Rawhide Rumble (red)
+3 Rawhide Rumble (yellow)
+3 Rawhide Rumble (blue)
+3 Colossal Bearing (red)
+3 Lay Down the Law (red)
+3 Smack of Reality (red)
+3 Over the Top (red)
+3 Over the Top (yellow)
+3 Over the Top (blue)
+3 Stacked in Your Favor (red)
+3 Stacked in Your Favor (yellow)
+3 Stacked in Your Favor (blue)
+3 Cut the Deck (red)
+3 Cut the Deck (yellow)
+3 Cut the Deck (blue)
+3 Fatal Engagement (red)
+3 Fatal Engagement (yellow)
+3 Fatal Engagement (blue)
+3 Take the Upper Hand (red)
+3 Take the Upper Hand (yellow)
+3 Take the Upper Hand (blue)
+3 Clash of Might (red)
+3 Clash of Might (yellow)
+3 Clash of Might (blue)
+3 Battered Not Broken (red)
+3 Test of Might (red)
+3 Wall of Meat and Muscle (red)
+3 Clash of Agility (red)
+3 Clash of Agility (yellow)
+3 Clash of Agility (blue)
+3 Take it on the Chin (red)
+3 Run into Trouble (red)
+3 Test of Agility (red)
+3 Clash of Vigor (red)
+3 Clash of Vigor (yellow)
+3 Clash of Vigor (blue)
+3 Slap-Happy (red)
+3 Hearty Block (red)
+3 Test of Vigor (red)
+3 Down But Not Out (red)
+3 Down But Not Out (yellow)
+3 Down But Not Out (blue)
+3 Wage Gold (red)
+3 Wage Gold (yellow)
+3 Wage Gold (blue)
+3 Reinforce the Line (red)
+3 Reinforce the Line (yellow)
+3 Reinforce the Line (blue)
+[Majestic]
+2 Send Packing (yellow)
+2 Show No Mercy (red)
+2 Cast Bones (red)
+2 Reckless Charge (blue)
+2 No Fear (red)
+2 Bet Big (red)
+2 Primed to Fight (red)
+2 The Golden Son (yellow)
+2 Boast (blue)
+2 Trounce (red)
+2 Blade Flurry (red)
+2 Shift the Tide of Battle (yellow)
+2 Up the Ante (blue)
+2 Commanding Performance (red)
+2 Raise an Army (yellow)
+2 Talk a Big Game (blue)
+2 Runner Runner (red)
+2 Double Down (red)
+2 Nasty Surprise (blue)
+2 Pay Up (red)
+2 Ripple Away (blue)
+2 Standing Order (red)
+2 Tenacity (yellow)
+2 Seduce Secrets (yellow)
+[RFCommon]
+2 Assault and Battery (red)
+2 Assault and Battery (yellow)
+2 Assault and Battery (blue)
+2 Pound Town (red)
+2 Pound Town (yellow)
+2 Pound Town (blue)
+2 Bonebreaker Bellow (red)
+2 Bonebreaker Bellow (yellow)
+2 Bonebreaker Bellow (blue)
+2 Smashback Alehorn (blue)
+2 Command Respect (red)
+2 Command Respect (yellow)
+2 Command Respect (blue)
+2 Concuss (red)
+2 Concuss (yellow)
+2 Concuss (blue)
+2 Thunk (red)
+2 Thunk (yellow)
+2 Thunk (blue)
+2 Wallop (red)
+2 Wallop (yellow)
+2 Wallop (blue)
+2 Big Bop (red)
+2 Big Bop (yellow)
+2 Big Bop (blue)
+2 Bigger Than Big (red)
+2 Bigger Than Big (yellow)
+2 Bigger Than Big (blue)
+2 Pint of Strong and Stout (blue)
+2 Agile Engagement (red)
+2 Agile Engagement (yellow)
+2 Agile Engagement (blue)
+2 Vigorous Engagement (red)
+2 Vigorous Engagement (yellow)
+2 Vigorous Engagement (blue)
+2 Draw Swords (red)
+2 Draw Swords (yellow)
+2 Draw Swords (blue)
+2 Edge Ahead (red)
+2 Edge Ahead (yellow)
+2 Edge Ahead (blue)
+2 Engaged Swiftblade (red)
+2 Engaged Swiftblade (yellow)
+2 Engaged Swiftblade (blue)
+2 Hold 'em (red)
+2 Hold 'em (yellow)
+2 Hold 'em (blue)
+2 Goblet of Bloodrun Wine (blue)
+2 Mighty Windup (red)
+2 Mighty Windup (yellow)
+2 Mighty Windup (blue)
+2 Rising Power (red)
+2 Rising Power (yellow)
+2 Rising Power (blue)
+2 Wage Might (red)
+2 Wage Might (yellow)
+2 Wage Might (blue)
+2 Lead with Power (red)
+2 Lead with Power (yellow)
+2 Lead with Power (blue)
+2 Agile Windup (red)
+2 Agile Windup (yellow)
+2 Agile Windup (blue)
+2 Rising Speed (red)
+2 Rising Speed (yellow)
+2 Rising Speed (blue)
+2 Wage Agility (red)
+2 Wage Agility (yellow)
+2 Wage Agility (blue)
+2 Lead with Speed (red)
+2 Lead with Speed (yellow)
+2 Lead with Speed (blue)
+2 Rising Energy (red)
+2 Rising Energy (yellow)
+2 Rising Energy (blue)
+2 Vigorous Windup (red)
+2 Vigorous Windup (yellow)
+2 Vigorous Windup (blue)
+2 Wage Vigor (red)
+2 Wage Vigor (yellow)
+2 Wage Vigor (blue)
+2 Lead with Heart (red)
+2 Lead with Heart (yellow)
+2 Lead with Heart (blue)
+2 Performance Bonus (red)
+2 Performance Bonus (yellow)
+2 Performance Bonus (blue)
+2 Money Where Ya Mouth Is (red)
+2 Money Where Ya Mouth Is (yellow)
+2 Money Where Ya Mouth Is (blue)
+2 Starting Stake (yellow)
+2 Test of Strength (red)
+[RFRare]
+2 Beast Mode (red)
+2 Beast Mode (yellow)
+2 Beast Mode (blue)
+2 Pack Call (red)
+2 Pack Call (yellow)
+2 Pack Call (blue)
+2 Rawhide Rumble (red)
+2 Rawhide Rumble (yellow)
+2 Rawhide Rumble (blue)
+2 Colossal Bearing (red)
+2 Lay Down the Law (red)
+2 Smack of Reality (red)
+2 Over the Top (red)
+2 Over the Top (yellow)
+2 Over the Top (blue)
+2 Stacked in Your Favor (red)
+2 Stacked in Your Favor (yellow)
+2 Stacked in Your Favor (blue)
+2 Cut the Deck (red)
+2 Cut the Deck (yellow)
+2 Cut the Deck (blue)
+2 Fatal Engagement (red)
+2 Fatal Engagement (yellow)
+2 Fatal Engagement (blue)
+2 Take the Upper Hand (red)
+2 Take the Upper Hand (yellow)
+2 Take the Upper Hand (blue)
+2 Clash of Might (red)
+2 Clash of Might (yellow)
+2 Clash of Might (blue)
+2 Battered Not Broken (red)
+2 Test of Might (red)
+2 Wall of Meat and Muscle (red)
+2 Clash of Agility (red)
+2 Clash of Agility (yellow)
+2 Clash of Agility (blue)
+2 Take it on the Chin (red)
+2 Run into Trouble (red)
+2 Test of Agility (red)
+2 Clash of Vigor (red)
+2 Clash of Vigor (yellow)
+2 Clash of Vigor (blue)
+2 Slap-Happy (red)
+2 Hearty Block (red)
+2 Test of Vigor (red)
+2 Down But Not Out (red)
+2 Down But Not Out (yellow)
+2 Down But Not Out (blue)
+2 Wage Gold (red)
+2 Wage Gold (yellow)
+2 Wage Gold (blue)
+[RFMajestic]
+1 Send Packing (yellow)
+1 Show No Mercy (red)
+1 Cast Bones (red)
+1 Reckless Charge (blue)
+1 No Fear (red)
+1 Bet Big (red)
+1 Primed to Fight (red)
+1 The Golden Son (yellow)
+1 Boast (blue)
+1 Trounce (red)
+1 Blade Flurry (red)
+1 Shift the Tide of Battle (yellow)
+1 Up the Ante (blue)
+1 Commanding Performance (red)
+1 Raise an Army (yellow)
+1 Talk a Big Game (blue)
+1 Runner Runner (red)
+1 Double Down (red)
+1 Nasty Surprise (blue)
+1 Pay Up (red)
+1 Ripple Away (blue)
+1 Standing Order (red)
+1 Tenacity (yellow)
+1 Seduce Secrets (yellow)
