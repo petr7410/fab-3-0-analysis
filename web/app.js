@@ -130,7 +130,7 @@ function setupThemeToggle() {
 // Load settings.json and populate set-select dropdown
 async function loadSettingsAndPopulateDropdown() {
     try {
-        const resp = await fetch('/config/settings.json');
+        const resp = await fetch('./config/settings.json');
         if (!resp.ok) throw new Error("Could not load settings.json");
         settingsData = await resp.json();
 
@@ -174,7 +174,7 @@ function setupFormatSelector() {
 
 // Core Data Loading for Selected Set/Format
 async function loadFormatData(formatId) {
-    const setPath = `/data/${formatId}/analysis/`;
+    const setPath = `./data/${formatId}/analysis/`;
 
     try {
         // Show loaders
@@ -370,7 +370,7 @@ async function selectHero(heroName) {
         }
     });
 
-    const setPath = `/data/${currentFormat}/analysis/`;
+    const setPath = `./data/${currentFormat}/analysis/`;
     const heroFilename = `hero_${heroName.replace(/ /g, "_")}.json`;
 
     try {
@@ -634,7 +634,7 @@ function renderHeroCardsTable() {
 
 // Load Draft Occurrence Table Data
 async function loadDraftAnalysisData() {
-    const setPath = `/data/${currentFormat}/analysis/`;
+    const setPath = `./data/${currentFormat}/analysis/`;
 
     try {
         const resp = await fetch(`${setPath}draft_file_analysis.json`);
@@ -745,7 +745,7 @@ function renderDraftAnalysisTable() {
 
 // Fetch Global Comparisons
 async function loadComparisonData(tabId) {
-    const setPath = `/data/${currentFormat}/analysis/`;
+    const setPath = `./data/${currentFormat}/analysis/`;
     const filename = `${tabId}_comparison.json`;
 
     try {
