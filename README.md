@@ -22,7 +22,7 @@ If you have a draft file for a set that is not available and would like it to be
 Note: This repository contains all necessary data to run it without modifying anything. So you can test outputs before diving deeper into the init.json logic.
 1. Clone or download main branch of this repository.
 2. Navigate to the root folder of this project and run `python run_analysis.py` (use --latest or specify a set (--set OMN) if you don't want to generate data for all sets).
-3. Run an HTTP server of your choice (`python -m http.server`) inside the root folder of this project and access generated data at `http://localhost:8000/web/index.html`
+3. Run an HTTP server of your choice (`python -m http.server`) inside the root folder of this project and access generated data at `http://localhost:8000/docs/index.html`
 
 But if you are only planning to do all of this, then you can simply visit the [GitHub Pages](https://petr7410.github.io/fab-3-0-analysis) of this project.
 
@@ -30,7 +30,7 @@ You can also use your own data:
 1. Go to config/settings.json
 2. Create your own SET, and fill in all necessary fields (you need decks (with included timestamp) and a draft file; filling the rest should be simple)
 3. Navigate to the root folder of this project and run `python run_analysis.py --set SET`
-4. Run an HTTP server of your choice (`python -m http.server`) inside the root folder of this project and access generated data at `http://localhost:8000/web/index.html`, which will also include your SET
+4. Run an HTTP server of your choice (`python -m http.server`) inside the root folder of this project and access generated data at `http://localhost:8000/docs/index.html`, which will also include your SET
 
 ## File Structure
 
@@ -50,7 +50,7 @@ You can also use your own data:
 - `/data_processing`: responsible for adding attributes to data necessary for analysis and additional processing of data.
 - `/utils`: Helper functions.
 
-### `/web`
+### `/docs`
 - Used to properly load and show processed data on a web page.
 
 ## Configuration: `settings.json`
