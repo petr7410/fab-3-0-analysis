@@ -18335,3 +18335,93 @@ Made with love at the FaBrary
 See the full deck @ https://fabrary.net/decks/01KWM0026R6R135GM2W4JS99P2
 
 
+2026-07-04 23:48:12
+Name: New Broscilio Draft deck
+Hero: Oscilio, Scion of the Third Age
+Format: Draft
+
+Arena cards
+1x Constella Waves
+1x Helm of Astral Sanctuary
+1x Starflow Robes
+1x Volzar, Meteor Storm
+
+Deck cards
+2x Comet Collision (red)
+1x Cosmic Flare (red)
+1x Cosmic Suture (red)
+2x Enion Surge (red)
+1x Flittering Forcefield (red)
+3x Meteoric Impact (red)
+1x Nebula Duality (red)
+1x Chromatic Refinement (yellow)
+1x Constella Flowslide (yellow)
+2x Constella Uplift (yellow)
+2x Core Reaction (yellow)
+2x Cosmic Suture (yellow)
+1x Enion Surge (yellow)
+1x Flash Bolt (yellow)
+1x Haven Veil (yellow)
+2x Lightning Overload (yellow)
+2x Meteoric Impact (yellow)
+1x Nebula Duality (yellow)
+2x Comet Collision (blue)
+1x Core Reaction (blue)
+1x Flash Bolt (blue)
+3x Nebula Duality (blue)
+1x Tap Lessons Past (blue)
+1x Tome of Quandaries (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01KWQF331T02K0QXM2NM36AW8S
+
+
+2026-07-10 04:41:21
+Name: New Broscilio Draft deck
+Hero: Oscilio, Scion of the Third Age
+Format: Draft
+
+Arena cards
+1x Constella Waves
+1x Seeker's Gilet
+1x Seeker's Hood
+1x Seeker's Leggings
+1x Volzar, Meteor Storm
+
+Deck cards
+1x Astral Assault (red)
+1x Chromatic Refinement (red)
+1x Cosmic Flare (red)
+1x Cosmic Suture (red)
+2x Enion Surge (red)
+1x Flittering Forcefield (red)
+1x Flittering Spike (red)
+1x Flowing Stormstrike (red)
+1x Haven Veil (red)
+1x Lightning Overload (red)
+1x Meteoric Impact (red)
+2x Nebula Duality (red)
+1x Volatile Fluxor (red)
+1x Arc Ramp (yellow)
+1x Astral Assault (yellow)
+1x Chromatic Refinement (yellow)
+1x Comet Collision (yellow)
+1x Constella Flowslide (yellow)
+1x Core Reaction (yellow)
+1x Cosmic Suture (yellow)
+1x Enion Surge (yellow)
+1x Glide Through Starlight (yellow)
+1x Starworld Warning (yellow)
+1x Static Shelter (yellow)
+1x Astral Assault (blue)
+1x Core Reaction (blue)
+1x Enion Surge (blue)
+2x Lightning Overload (blue)
+1x Meteoric Impact (blue)
+1x Nebula Duality (blue)
+2x Sigil of Astral Flow (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01KX4W0RRVN33TYJ3KS8HPRRE6
+
+
