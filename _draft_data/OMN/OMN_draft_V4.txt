@@ -13,7 +13,7 @@
         "collector_number": "OMN004",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN004.webp"
+            "en": "https://content.fabrary.net/cards/OMN004.webp"
         }
     },
     {
@@ -23,7 +23,7 @@
         "collector_number": "OMN005",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN005.webp"
+            "en": "https://content.fabrary.net/cards/OMN005.webp"
         }
     },
     {
@@ -33,7 +33,7 @@
         "collector_number": "OMN006",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN006.webp"
+            "en": "https://content.fabrary.net/cards/OMN006.webp"
         }
     },
     {
@@ -43,7 +43,7 @@
         "collector_number": "OMN007",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN007.webp"
+            "en": "https://content.fabrary.net/cards/OMN007.webp"
         }
     },
     {
@@ -53,7 +53,7 @@
         "collector_number": "OMN008",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN008.webp"
+            "en": "https://content.fabrary.net/cards/OMN008.webp"
         }
     },
     {
@@ -63,7 +63,7 @@
         "collector_number": "OMN009",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN009.webp"
+            "en": "https://content.fabrary.net/cards/OMN009.webp"
         }
     },
     {
@@ -73,7 +73,7 @@
         "collector_number": "OMN010",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN010.webp"
+            "en": "https://content.fabrary.net/cards/OMN010.webp"
         }
     },
     {
@@ -83,7 +83,7 @@
         "collector_number": "OMN011",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN011.webp"
+            "en": "https://content.fabrary.net/cards/OMN011.webp"
         }
     },
     {
@@ -93,7 +93,7 @@
         "collector_number": "OMN012",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN012.webp"
+            "en": "https://content.fabrary.net/cards/OMN012.webp"
         }
     },
     {
@@ -103,7 +103,7 @@
         "collector_number": "OMN013",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN013.webp"
+            "en": "https://content.fabrary.net/cards/OMN013.webp"
         }
     },
     {
@@ -113,7 +113,7 @@
         "collector_number": "OMN014",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN014.webp"
+            "en": "https://content.fabrary.net/cards/OMN014.webp"
         }
     },
     {
@@ -123,7 +123,7 @@
         "collector_number": "OMN015",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN015.webp"
+            "en": "https://content.fabrary.net/cards/OMN015.webp"
         }
     },
     {
@@ -133,7 +133,7 @@
         "collector_number": "OMN016",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN016.webp"
+            "en": "https://content.fabrary.net/cards/OMN016.webp"
         }
     },
     {
@@ -143,7 +143,7 @@
         "collector_number": "OMN017",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN017.webp"
+            "en": "https://content.fabrary.net/cards/OMN017.webp"
         }
     },
     {
@@ -153,7 +153,7 @@
         "collector_number": "OMN018",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN018.webp"
+            "en": "https://content.fabrary.net/cards/OMN018.webp"
         }
     },
     {
@@ -163,7 +163,7 @@
         "collector_number": "OMN019",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN019.webp"
+            "en": "https://content.fabrary.net/cards/OMN019.webp"
         }
     },
     {
@@ -173,7 +173,7 @@
         "collector_number": "OMN020",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN020.webp"
+            "en": "https://content.fabrary.net/cards/OMN020.webp"
         }
     },
     {
@@ -183,7 +183,7 @@
         "collector_number": "OMN021",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN021.webp"
+            "en": "https://content.fabrary.net/cards/OMN021.webp"
         }
     },
     {
@@ -193,7 +193,7 @@
         "collector_number": "OMN022",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN022.webp"
+            "en": "https://content.fabrary.net/cards/OMN022.webp"
         }
     },
     {
@@ -203,7 +203,7 @@
         "collector_number": "OMN023",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN023.webp"
+            "en": "https://content.fabrary.net/cards/OMN023.webp"
         }
     },
     {
@@ -213,7 +213,7 @@
         "collector_number": "OMN024",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN024.webp"
+            "en": "https://content.fabrary.net/cards/OMN024.webp"
         }
     },
     {
@@ -223,7 +223,7 @@
         "collector_number": "OMN025",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN025.webp"
+            "en": "https://content.fabrary.net/cards/OMN025.webp"
         }
     },
     {
@@ -233,7 +233,7 @@
         "collector_number": "OMN026",
         "type": "Lightning, Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN026.webp"
+            "en": "https://content.fabrary.net/cards/OMN026.webp"
         }
     },
     {
@@ -243,7 +243,7 @@
         "collector_number": "OMN027",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN027.webp"
+            "en": "https://content.fabrary.net/cards/OMN027.webp"
         }
     },
     {
@@ -253,7 +253,7 @@
         "collector_number": "OMN028",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN028.webp"
+            "en": "https://content.fabrary.net/cards/OMN028.webp"
         }
     },
     {
@@ -263,7 +263,7 @@
         "collector_number": "OMN029",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN029.webp"
+            "en": "https://content.fabrary.net/cards/OMN029.webp"
         }
     },
     {
@@ -273,7 +273,7 @@
         "collector_number": "OMN030",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN030.webp"
+            "en": "https://content.fabrary.net/cards/OMN030.webp"
         }
     },
     {
@@ -283,7 +283,7 @@
         "collector_number": "OMN031",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN031.webp"
+            "en": "https://content.fabrary.net/cards/OMN031.webp"
         }
     },
     {
@@ -293,7 +293,7 @@
         "collector_number": "OMN032",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN032.webp"
+            "en": "https://content.fabrary.net/cards/OMN032.webp"
         }
     },
     {
@@ -303,7 +303,7 @@
         "collector_number": "OMN033",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN033.webp"
+            "en": "https://content.fabrary.net/cards/OMN033.webp"
         }
     },
     {
@@ -313,7 +313,7 @@
         "collector_number": "OMN034",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN034.webp"
+            "en": "https://content.fabrary.net/cards/OMN034.webp"
         }
     },
     {
@@ -323,7 +323,7 @@
         "collector_number": "OMN035",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN035.webp"
+            "en": "https://content.fabrary.net/cards/OMN035.webp"
         }
     },
     {
@@ -333,7 +333,7 @@
         "collector_number": "OMN036",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN036.webp"
+            "en": "https://content.fabrary.net/cards/OMN036.webp"
         }
     },
     {
@@ -343,7 +343,7 @@
         "collector_number": "OMN037",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN037.webp"
+            "en": "https://content.fabrary.net/cards/OMN037.webp"
         }
     },
     {
@@ -353,7 +353,7 @@
         "collector_number": "OMN038",
         "type": "Lightning, Illusionist, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN038.webp"
+            "en": "https://content.fabrary.net/cards/OMN038.webp"
         }
     },
     {
@@ -363,7 +363,7 @@
         "collector_number": "OMN039",
         "type": "Illusionist, Equipment, Arms",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN039.webp"
+            "en": "https://content.fabrary.net/cards/OMN039.webp"
         }
     },
     {
@@ -373,7 +373,7 @@
         "collector_number": "OMN040",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN040.webp"
+            "en": "https://content.fabrary.net/cards/OMN040.webp"
         }
     },
     {
@@ -383,7 +383,7 @@
         "collector_number": "OMN041",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN041.webp"
+            "en": "https://content.fabrary.net/cards/OMN041.webp"
         }
     },
     {
@@ -393,7 +393,7 @@
         "collector_number": "OMN042",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN042.webp"
+            "en": "https://content.fabrary.net/cards/OMN042.webp"
         }
     },
     {
@@ -403,7 +403,7 @@
         "collector_number": "OMN043",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN043.webp"
+            "en": "https://content.fabrary.net/cards/OMN043.webp"
         }
     },
     {
@@ -413,7 +413,7 @@
         "collector_number": "OMN044",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN044.webp"
+            "en": "https://content.fabrary.net/cards/OMN044.webp"
         }
     },
     {
@@ -423,7 +423,7 @@
         "collector_number": "OMN045",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN045.webp"
+            "en": "https://content.fabrary.net/cards/OMN045.webp"
         }
     },
     {
@@ -433,7 +433,7 @@
         "collector_number": "OMN046",
         "type": "Illusionist, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN046.webp"
+            "en": "https://content.fabrary.net/cards/OMN046.webp"
         }
     },
     {
@@ -443,7 +443,7 @@
         "collector_number": "OMN050",
         "type": "Lightning, Runeblade, Equipment, Arms",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN050.webp"
+            "en": "https://content.fabrary.net/cards/OMN050.webp"
         }
     },
     {
@@ -453,7 +453,7 @@
         "collector_number": "OMN051",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN051.webp"
+            "en": "https://content.fabrary.net/cards/OMN051.webp"
         }
     },
     {
@@ -463,7 +463,7 @@
         "collector_number": "OMN052",
         "type": "Lightning, Runeblade, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN052.webp"
+            "en": "https://content.fabrary.net/cards/OMN052.webp"
         }
     },
     {
@@ -473,7 +473,7 @@
         "collector_number": "OMN053",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN053.webp"
+            "en": "https://content.fabrary.net/cards/OMN053.webp"
         }
     },
     {
@@ -483,7 +483,7 @@
         "collector_number": "OMN054",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN054.webp"
+            "en": "https://content.fabrary.net/cards/OMN054.webp"
         }
     },
     {
@@ -493,7 +493,7 @@
         "collector_number": "OMN055",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN055.webp"
+            "en": "https://content.fabrary.net/cards/OMN055.webp"
         }
     },
     {
@@ -503,7 +503,7 @@
         "collector_number": "OMN056",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN056.webp"
+            "en": "https://content.fabrary.net/cards/OMN056.webp"
         }
     },
     {
@@ -513,7 +513,7 @@
         "collector_number": "OMN057",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN057.webp"
+            "en": "https://content.fabrary.net/cards/OMN057.webp"
         }
     },
     {
@@ -523,7 +523,7 @@
         "collector_number": "OMN058",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN058.webp"
+            "en": "https://content.fabrary.net/cards/OMN058.webp"
         }
     },
     {
@@ -533,7 +533,7 @@
         "collector_number": "OMN059",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN059.webp"
+            "en": "https://content.fabrary.net/cards/OMN059.webp"
         }
     },
     {
@@ -543,7 +543,7 @@
         "collector_number": "OMN060",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN060.webp"
+            "en": "https://content.fabrary.net/cards/OMN060.webp"
         }
     },
     {
@@ -553,7 +553,7 @@
         "collector_number": "OMN061",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN061.webp"
+            "en": "https://content.fabrary.net/cards/OMN061.webp"
         }
     },
     {
@@ -563,7 +563,7 @@
         "collector_number": "OMN062",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN062.webp"
+            "en": "https://content.fabrary.net/cards/OMN062.webp"
         }
     },
     {
@@ -573,7 +573,7 @@
         "collector_number": "OMN063",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN063.webp"
+            "en": "https://content.fabrary.net/cards/OMN063.webp"
         }
     },
     {
@@ -583,7 +583,7 @@
         "collector_number": "OMN064",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN064.webp"
+            "en": "https://content.fabrary.net/cards/OMN064.webp"
         }
     },
     {
@@ -593,7 +593,7 @@
         "collector_number": "OMN065",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN065.webp"
+            "en": "https://content.fabrary.net/cards/OMN065.webp"
         }
     },
     {
@@ -603,7 +603,7 @@
         "collector_number": "OMN066",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN066.webp"
+            "en": "https://content.fabrary.net/cards/OMN066.webp"
         }
     },
     {
@@ -613,7 +613,7 @@
         "collector_number": "OMN067",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN067.webp"
+            "en": "https://content.fabrary.net/cards/OMN067.webp"
         }
     },
     {
@@ -623,7 +623,7 @@
         "collector_number": "OMN068",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN068.webp"
+            "en": "https://content.fabrary.net/cards/OMN068.webp"
         }
     },
     {
@@ -633,7 +633,7 @@
         "collector_number": "OMN069",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN069.webp"
+            "en": "https://content.fabrary.net/cards/OMN069.webp"
         }
     },
     {
@@ -643,7 +643,7 @@
         "collector_number": "OMN070",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN070.webp"
+            "en": "https://content.fabrary.net/cards/OMN070.webp"
         }
     },
     {
@@ -653,7 +653,7 @@
         "collector_number": "OMN071",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN071.webp"
+            "en": "https://content.fabrary.net/cards/OMN071.webp"
         }
     },
     {
@@ -663,7 +663,7 @@
         "collector_number": "OMN072",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN072.webp"
+            "en": "https://content.fabrary.net/cards/OMN072.webp"
         }
     },
     {
@@ -673,7 +673,7 @@
         "collector_number": "OMN073",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN073.webp"
+            "en": "https://content.fabrary.net/cards/OMN073.webp"
         }
     },
     {
@@ -683,7 +683,7 @@
         "collector_number": "OMN074",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN074.webp"
+            "en": "https://content.fabrary.net/cards/OMN074.webp"
         }
     },
     {
@@ -693,7 +693,7 @@
         "collector_number": "OMN075",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN075.webp"
+            "en": "https://content.fabrary.net/cards/OMN075.webp"
         }
     },
     {
@@ -703,7 +703,7 @@
         "collector_number": "OMN076",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN076.webp"
+            "en": "https://content.fabrary.net/cards/OMN076.webp"
         }
     },
     {
@@ -713,7 +713,7 @@
         "collector_number": "OMN077",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN077.webp"
+            "en": "https://content.fabrary.net/cards/OMN077.webp"
         }
     },
     {
@@ -723,7 +723,7 @@
         "collector_number": "OMN078",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN078.webp"
+            "en": "https://content.fabrary.net/cards/OMN078.webp"
         }
     },
     {
@@ -733,7 +733,7 @@
         "collector_number": "OMN079",
         "type": "Lightning, Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN079.webp"
+            "en": "https://content.fabrary.net/cards/OMN079.webp"
         }
     },
     {
@@ -743,7 +743,7 @@
         "collector_number": "OMN080",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN080.webp"
+            "en": "https://content.fabrary.net/cards/OMN080.webp"
         }
     },
     {
@@ -753,7 +753,7 @@
         "collector_number": "OMN081",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN081.webp"
+            "en": "https://content.fabrary.net/cards/OMN081.webp"
         }
     },
     {
@@ -763,7 +763,7 @@
         "collector_number": "OMN082",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN082.webp"
+            "en": "https://content.fabrary.net/cards/OMN082.webp"
         }
     },
     {
@@ -773,7 +773,7 @@
         "collector_number": "OMN083",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN083.webp"
+            "en": "https://content.fabrary.net/cards/OMN083.webp"
         }
     },
     {
@@ -783,7 +783,7 @@
         "collector_number": "OMN084",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN084.webp"
+            "en": "https://content.fabrary.net/cards/OMN084.webp"
         }
     },
     {
@@ -793,7 +793,7 @@
         "collector_number": "OMN085",
         "type": "Lightning, Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN085.webp"
+            "en": "https://content.fabrary.net/cards/OMN085.webp"
         }
     },
     {
@@ -803,7 +803,7 @@
         "collector_number": "OMN087",
         "type": "Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN087.webp"
+            "en": "https://content.fabrary.net/cards/OMN087.webp"
         }
     },
     {
@@ -813,7 +813,7 @@
         "collector_number": "OMN088",
         "type": "Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN088.webp"
+            "en": "https://content.fabrary.net/cards/OMN088.webp"
         }
     },
     {
@@ -823,7 +823,7 @@
         "collector_number": "OMN089",
         "type": "Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN089.webp"
+            "en": "https://content.fabrary.net/cards/OMN089.webp"
         }
     },
     {
@@ -833,7 +833,7 @@
         "collector_number": "OMN090",
         "type": "Runeblade, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN090.webp"
+            "en": "https://content.fabrary.net/cards/OMN090.webp"
         }
     },
     {
@@ -843,7 +843,7 @@
         "collector_number": "OMN091",
         "type": "Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN091.webp"
+            "en": "https://content.fabrary.net/cards/OMN091.webp"
         }
     },
     {
@@ -853,7 +853,7 @@
         "collector_number": "OMN092",
         "type": "Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN092.webp"
+            "en": "https://content.fabrary.net/cards/OMN092.webp"
         }
     },
     {
@@ -863,7 +863,7 @@
         "collector_number": "OMN093",
         "type": "Runeblade, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN093.webp"
+            "en": "https://content.fabrary.net/cards/OMN093.webp"
         }
     },
     {
@@ -873,7 +873,7 @@
         "collector_number": "OMN097",
         "type": "Lightning, Wizard, Equipment, Arms",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN097.webp"
+            "en": "https://content.fabrary.net/cards/OMN097.webp"
         }
     },
     {
@@ -883,7 +883,7 @@
         "collector_number": "OMN098",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN098.webp"
+            "en": "https://content.fabrary.net/cards/OMN098.webp"
         }
     },
     {
@@ -893,7 +893,7 @@
         "collector_number": "OMN099",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN099.webp"
+            "en": "https://content.fabrary.net/cards/OMN099.webp"
         }
     },
     {
@@ -903,7 +903,7 @@
         "collector_number": "OMN100",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN100.webp"
+            "en": "https://content.fabrary.net/cards/OMN100.webp"
         }
     },
     {
@@ -913,7 +913,7 @@
         "collector_number": "OMN101",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN101.webp"
+            "en": "https://content.fabrary.net/cards/OMN101.webp"
         }
     },
     {
@@ -923,7 +923,7 @@
         "collector_number": "OMN102",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN102.webp"
+            "en": "https://content.fabrary.net/cards/OMN102.webp"
         }
     },
     {
@@ -933,7 +933,7 @@
         "collector_number": "OMN103",
         "type": "Lightning, Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN103.webp"
+            "en": "https://content.fabrary.net/cards/OMN103.webp"
         }
     },
     {
@@ -943,7 +943,7 @@
         "collector_number": "OMN104",
         "type": "Lightning, Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN104.webp"
+            "en": "https://content.fabrary.net/cards/OMN104.webp"
         }
     },
     {
@@ -953,7 +953,7 @@
         "collector_number": "OMN105",
         "type": "Lightning, Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN105.webp"
+            "en": "https://content.fabrary.net/cards/OMN105.webp"
         }
     },
     {
@@ -963,7 +963,7 @@
         "collector_number": "OMN106",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN106.webp"
+            "en": "https://content.fabrary.net/cards/OMN106.webp"
         }
     },
     {
@@ -973,7 +973,7 @@
         "collector_number": "OMN107",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN107.webp"
+            "en": "https://content.fabrary.net/cards/OMN107.webp"
         }
     },
     {
@@ -983,7 +983,7 @@
         "collector_number": "OMN108",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN108.webp"
+            "en": "https://content.fabrary.net/cards/OMN108.webp"
         }
     },
     {
@@ -993,7 +993,7 @@
         "collector_number": "OMN109",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN109.webp"
+            "en": "https://content.fabrary.net/cards/OMN109.webp"
         }
     },
     {
@@ -1003,7 +1003,7 @@
         "collector_number": "OMN110",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN110.webp"
+            "en": "https://content.fabrary.net/cards/OMN110.webp"
         }
     },
     {
@@ -1013,7 +1013,7 @@
         "collector_number": "OMN111",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN111.webp"
+            "en": "https://content.fabrary.net/cards/OMN111.webp"
         }
     },
     {
@@ -1023,7 +1023,7 @@
         "collector_number": "OMN112",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN112.webp"
+            "en": "https://content.fabrary.net/cards/OMN112.webp"
         }
     },
     {
@@ -1033,7 +1033,7 @@
         "collector_number": "OMN113",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN113.webp"
+            "en": "https://content.fabrary.net/cards/OMN113.webp"
         }
     },
     {
@@ -1043,7 +1043,7 @@
         "collector_number": "OMN114",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN114.webp"
+            "en": "https://content.fabrary.net/cards/OMN114.webp"
         }
     },
     {
@@ -1053,7 +1053,7 @@
         "collector_number": "OMN115",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN115.webp"
+            "en": "https://content.fabrary.net/cards/OMN115.webp"
         }
     },
     {
@@ -1063,7 +1063,7 @@
         "collector_number": "OMN116",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN116.webp"
+            "en": "https://content.fabrary.net/cards/OMN116.webp"
         }
     },
     {
@@ -1073,7 +1073,7 @@
         "collector_number": "OMN117",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN117.webp"
+            "en": "https://content.fabrary.net/cards/OMN117.webp"
         }
     },
     {
@@ -1083,7 +1083,7 @@
         "collector_number": "OMN118",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN118.webp"
+            "en": "https://content.fabrary.net/cards/OMN118.webp"
         }
     },
     {
@@ -1093,7 +1093,7 @@
         "collector_number": "OMN119",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN119.webp"
+            "en": "https://content.fabrary.net/cards/OMN119.webp"
         }
     },
     {
@@ -1103,7 +1103,7 @@
         "collector_number": "OMN120",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN120.webp"
+            "en": "https://content.fabrary.net/cards/OMN120.webp"
         }
     },
     {
@@ -1113,7 +1113,7 @@
         "collector_number": "OMN121",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN121.webp"
+            "en": "https://content.fabrary.net/cards/OMN121.webp"
         }
     },
     {
@@ -1123,7 +1123,7 @@
         "collector_number": "OMN122",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN122.webp"
+            "en": "https://content.fabrary.net/cards/OMN122.webp"
         }
     },
     {
@@ -1133,7 +1133,7 @@
         "collector_number": "OMN123",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN123.webp"
+            "en": "https://content.fabrary.net/cards/OMN123.webp"
         }
     },
     {
@@ -1143,7 +1143,7 @@
         "collector_number": "OMN124",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN124.webp"
+            "en": "https://content.fabrary.net/cards/OMN124.webp"
         }
     },
     {
@@ -1153,7 +1153,7 @@
         "collector_number": "OMN125",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN125.webp"
+            "en": "https://content.fabrary.net/cards/OMN125.webp"
         }
     },
     {
@@ -1163,7 +1163,7 @@
         "collector_number": "OMN126",
         "type": "Lightning, Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN126.webp"
+            "en": "https://content.fabrary.net/cards/OMN126.webp"
         }
     },
     {
@@ -1173,7 +1173,7 @@
         "collector_number": "OMN127",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN127.webp"
+            "en": "https://content.fabrary.net/cards/OMN127.webp"
         }
     },
     {
@@ -1183,7 +1183,7 @@
         "collector_number": "OMN128",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN128.webp"
+            "en": "https://content.fabrary.net/cards/OMN128.webp"
         }
     },
     {
@@ -1193,7 +1193,7 @@
         "collector_number": "OMN129",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN129.webp"
+            "en": "https://content.fabrary.net/cards/OMN129.webp"
         }
     },
     {
@@ -1203,7 +1203,7 @@
         "collector_number": "OMN130",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN130.webp"
+            "en": "https://content.fabrary.net/cards/OMN130.webp"
         }
     },
     {
@@ -1213,7 +1213,7 @@
         "collector_number": "OMN131",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN131.webp"
+            "en": "https://content.fabrary.net/cards/OMN131.webp"
         }
     },
     {
@@ -1223,7 +1223,7 @@
         "collector_number": "OMN132",
         "type": "Lightning, Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN132.webp"
+            "en": "https://content.fabrary.net/cards/OMN132.webp"
         }
     },
     {
@@ -1233,7 +1233,7 @@
         "collector_number": "OMN133",
         "type": "Wizard, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN133.webp"
+            "en": "https://content.fabrary.net/cards/OMN133.webp"
         }
     },
     {
@@ -1243,7 +1243,7 @@
         "collector_number": "OMN134",
         "type": "Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN134.webp"
+            "en": "https://content.fabrary.net/cards/OMN134.webp"
         }
     },
     {
@@ -1253,7 +1253,7 @@
         "collector_number": "OMN135",
         "type": "Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN135.webp"
+            "en": "https://content.fabrary.net/cards/OMN135.webp"
         }
     },
     {
@@ -1263,7 +1263,7 @@
         "collector_number": "OMN136",
         "type": "Wizard, Action",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN136.webp"
+            "en": "https://content.fabrary.net/cards/OMN136.webp"
         }
     },
     {
@@ -1273,7 +1273,7 @@
         "collector_number": "OMN137",
         "type": "Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN137.webp"
+            "en": "https://content.fabrary.net/cards/OMN137.webp"
         }
     },
     {
@@ -1283,7 +1283,7 @@
         "collector_number": "OMN138",
         "type": "Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN138.webp"
+            "en": "https://content.fabrary.net/cards/OMN138.webp"
         }
     },
     {
@@ -1293,7 +1293,7 @@
         "collector_number": "OMN139",
         "type": "Wizard, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN139.webp"
+            "en": "https://content.fabrary.net/cards/OMN139.webp"
         }
     },
     {
@@ -1303,7 +1303,7 @@
         "collector_number": "OMN142",
         "type": "Lightning, Equipment, Head",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN142.webp"
+            "en": "https://content.fabrary.net/cards/OMN142.webp"
         }
     },
     {
@@ -1313,7 +1313,7 @@
         "collector_number": "OMN143",
         "type": "Lightning, Equipment, Chest",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN143.webp"
+            "en": "https://content.fabrary.net/cards/OMN143.webp"
         }
     },
     {
@@ -1323,7 +1323,7 @@
         "collector_number": "OMN144",
         "type": "Lightning, Equipment, Legs",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN144.webp"
+            "en": "https://content.fabrary.net/cards/OMN144.webp"
         }
     },
     {
@@ -1333,7 +1333,7 @@
         "collector_number": "OMN145",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN145.webp"
+            "en": "https://content.fabrary.net/cards/OMN145.webp"
         }
     },
     {
@@ -1343,7 +1343,7 @@
         "collector_number": "OMN146",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN146.webp"
+            "en": "https://content.fabrary.net/cards/OMN146.webp"
         }
     },
     {
@@ -1353,7 +1353,7 @@
         "collector_number": "OMN147",
         "type": "Lightning, Defense, Reaction",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN147.webp"
+            "en": "https://content.fabrary.net/cards/OMN147.webp"
         }
     },
     {
@@ -1363,7 +1363,7 @@
         "collector_number": "OMN148",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN148.webp"
+            "en": "https://content.fabrary.net/cards/OMN148.webp"
         }
     },
     {
@@ -1373,7 +1373,7 @@
         "collector_number": "OMN149",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN149.webp"
+            "en": "https://content.fabrary.net/cards/OMN149.webp"
         }
     },
     {
@@ -1383,7 +1383,7 @@
         "collector_number": "OMN150",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN150.webp"
+            "en": "https://content.fabrary.net/cards/OMN150.webp"
         }
     },
     {
@@ -1393,7 +1393,7 @@
         "collector_number": "OMN151",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN151.webp"
+            "en": "https://content.fabrary.net/cards/OMN151.webp"
         }
     },
     {
@@ -1403,7 +1403,7 @@
         "collector_number": "OMN152",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN152.webp"
+            "en": "https://content.fabrary.net/cards/OMN152.webp"
         }
     },
     {
@@ -1413,7 +1413,7 @@
         "collector_number": "OMN153",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN153.webp"
+            "en": "https://content.fabrary.net/cards/OMN153.webp"
         }
     },
     {
@@ -1423,7 +1423,7 @@
         "collector_number": "OMN154",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN154.webp"
+            "en": "https://content.fabrary.net/cards/OMN154.webp"
         }
     },
     {
@@ -1433,7 +1433,7 @@
         "collector_number": "OMN155",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN155.webp"
+            "en": "https://content.fabrary.net/cards/OMN155.webp"
         }
     },
     {
@@ -1443,7 +1443,7 @@
         "collector_number": "OMN156",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN156.webp"
+            "en": "https://content.fabrary.net/cards/OMN156.webp"
         }
     },
     {
@@ -1453,7 +1453,7 @@
         "collector_number": "OMN157",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN157.webp"
+            "en": "https://content.fabrary.net/cards/OMN157.webp"
         }
     },
     {
@@ -1463,7 +1463,7 @@
         "collector_number": "OMN158",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN158.webp"
+            "en": "https://content.fabrary.net/cards/OMN158.webp"
         }
     },
     {
@@ -1473,7 +1473,7 @@
         "collector_number": "OMN159",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN159.webp"
+            "en": "https://content.fabrary.net/cards/OMN159.webp"
         }
     },
     {
@@ -1483,7 +1483,7 @@
         "collector_number": "OMN160",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN160.webp"
+            "en": "https://content.fabrary.net/cards/OMN160.webp"
         }
     },
     {
@@ -1493,7 +1493,7 @@
         "collector_number": "OMN161",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN161.webp"
+            "en": "https://content.fabrary.net/cards/OMN161.webp"
         }
     },
     {
@@ -1503,7 +1503,7 @@
         "collector_number": "OMN162",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN162.webp"
+            "en": "https://content.fabrary.net/cards/OMN162.webp"
         }
     },
     {
@@ -1513,7 +1513,7 @@
         "collector_number": "OMN163",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN163.webp"
+            "en": "https://content.fabrary.net/cards/OMN163.webp"
         }
     },
     {
@@ -1523,7 +1523,7 @@
         "collector_number": "OMN164",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN164.webp"
+            "en": "https://content.fabrary.net/cards/OMN164.webp"
         }
     },
     {
@@ -1533,7 +1533,7 @@
         "collector_number": "OMN165",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN165.webp"
+            "en": "https://content.fabrary.net/cards/OMN165.webp"
         }
     },
     {
@@ -1543,7 +1543,7 @@
         "collector_number": "OMN166",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN166.webp"
+            "en": "https://content.fabrary.net/cards/OMN166.webp"
         }
     },
     {
@@ -1553,7 +1553,7 @@
         "collector_number": "OMN167",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN167.webp"
+            "en": "https://content.fabrary.net/cards/OMN167.webp"
         }
     },
     {
@@ -1563,7 +1563,7 @@
         "collector_number": "OMN168",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN168.webp"
+            "en": "https://content.fabrary.net/cards/OMN168.webp"
         }
     },
     {
@@ -1573,7 +1573,7 @@
         "collector_number": "OMN169",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN169.webp"
+            "en": "https://content.fabrary.net/cards/OMN169.webp"
         }
     },
     {
@@ -1583,7 +1583,7 @@
         "collector_number": "OMN170",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN170.webp"
+            "en": "https://content.fabrary.net/cards/OMN170.webp"
         }
     },
     {
@@ -1593,7 +1593,7 @@
         "collector_number": "OMN171",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN171.webp"
+            "en": "https://content.fabrary.net/cards/OMN171.webp"
         }
     },
     {
@@ -1603,7 +1603,7 @@
         "collector_number": "OMN172",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN172.webp"
+            "en": "https://content.fabrary.net/cards/OMN172.webp"
         }
     },
     {
@@ -1613,7 +1613,7 @@
         "collector_number": "OMN173",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN173.webp"
+            "en": "https://content.fabrary.net/cards/OMN173.webp"
         }
     },
     {
@@ -1623,7 +1623,7 @@
         "collector_number": "OMN174",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN174.webp"
+            "en": "https://content.fabrary.net/cards/OMN174.webp"
         }
     },
     {
@@ -1633,7 +1633,7 @@
         "collector_number": "OMN175",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN175.webp"
+            "en": "https://content.fabrary.net/cards/OMN175.webp"
         }
     },
     {
@@ -1643,7 +1643,7 @@
         "collector_number": "OMN176",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN176.webp"
+            "en": "https://content.fabrary.net/cards/OMN176.webp"
         }
     },
     {
@@ -1653,7 +1653,7 @@
         "collector_number": "OMN177",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN177.webp"
+            "en": "https://content.fabrary.net/cards/OMN177.webp"
         }
     },
     {
@@ -1663,7 +1663,7 @@
         "collector_number": "OMN178",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN178.webp"
+            "en": "https://content.fabrary.net/cards/OMN178.webp"
         }
     },
     {
@@ -1673,7 +1673,7 @@
         "collector_number": "OMN179",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN179.webp"
+            "en": "https://content.fabrary.net/cards/OMN179.webp"
         }
     },
     {
@@ -1683,7 +1683,7 @@
         "collector_number": "OMN180",
         "type": "Lightning, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN180.webp"
+            "en": "https://content.fabrary.net/cards/OMN180.webp"
         }
     },
     {
@@ -1693,7 +1693,7 @@
         "collector_number": "OMN181",
         "type": "Lightning, Defense, Reaction",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN181.webp"
+            "en": "https://content.fabrary.net/cards/OMN181.webp"
         }
     },
     {
@@ -1703,7 +1703,7 @@
         "collector_number": "OMN182",
         "type": "Lightning, Defense, Reaction",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN182.webp"
+            "en": "https://content.fabrary.net/cards/OMN182.webp"
         }
     },
     {
@@ -1713,7 +1713,7 @@
         "collector_number": "OMN183",
         "type": "Lightning, Defense, Reaction",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN183.webp"
+            "en": "https://content.fabrary.net/cards/OMN183.webp"
         }
     },
     {
@@ -1723,7 +1723,7 @@
         "collector_number": "OMN184",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN184.webp"
+            "en": "https://content.fabrary.net/cards/OMN184.webp"
         }
     },
     {
@@ -1733,7 +1733,7 @@
         "collector_number": "OMN185",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN185.webp"
+            "en": "https://content.fabrary.net/cards/OMN185.webp"
         }
     },
     {
@@ -1743,7 +1743,7 @@
         "collector_number": "OMN186",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN186.webp"
+            "en": "https://content.fabrary.net/cards/OMN186.webp"
         }
     },
     {
@@ -1753,7 +1753,7 @@
         "collector_number": "OMN187",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN187.webp"
+            "en": "https://content.fabrary.net/cards/OMN187.webp"
         }
     },
     {
@@ -1763,7 +1763,7 @@
         "collector_number": "OMN188",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN188.webp"
+            "en": "https://content.fabrary.net/cards/OMN188.webp"
         }
     },
     {
@@ -1773,7 +1773,7 @@
         "collector_number": "OMN189",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN189.webp"
+            "en": "https://content.fabrary.net/cards/OMN189.webp"
         }
     },
     {
@@ -1783,7 +1783,7 @@
         "collector_number": "OMN190",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN190.webp"
+            "en": "https://content.fabrary.net/cards/OMN190.webp"
         }
     },
     {
@@ -1793,7 +1793,7 @@
         "collector_number": "OMN191",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN191.webp"
+            "en": "https://content.fabrary.net/cards/OMN191.webp"
         }
     },
     {
@@ -1803,7 +1803,7 @@
         "collector_number": "OMN192",
         "type": "Lightning, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN192.webp"
+            "en": "https://content.fabrary.net/cards/OMN192.webp"
         }
     },
     {
@@ -1813,7 +1813,7 @@
         "collector_number": "OMN193",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN193.webp"
+            "en": "https://content.fabrary.net/cards/OMN193.webp"
         }
     },
     {
@@ -1823,7 +1823,7 @@
         "collector_number": "OMN194",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN194.webp"
+            "en": "https://content.fabrary.net/cards/OMN194.webp"
         }
     },
     {
@@ -1833,7 +1833,7 @@
         "collector_number": "OMN195",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN195.webp"
+            "en": "https://content.fabrary.net/cards/OMN195.webp"
         }
     },
     {
@@ -1843,7 +1843,7 @@
         "collector_number": "OMN196",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN196.webp"
+            "en": "https://content.fabrary.net/cards/OMN196.webp"
         }
     },
     {
@@ -1853,7 +1853,7 @@
         "collector_number": "OMN197",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN197.webp"
+            "en": "https://content.fabrary.net/cards/OMN197.webp"
         }
     },
     {
@@ -1863,7 +1863,7 @@
         "collector_number": "OMN198",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN198.webp"
+            "en": "https://content.fabrary.net/cards/OMN198.webp"
         }
     },
     {
@@ -1873,7 +1873,7 @@
         "collector_number": "OMN199",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN199.webp"
+            "en": "https://content.fabrary.net/cards/OMN199.webp"
         }
     },
     {
@@ -1883,7 +1883,7 @@
         "collector_number": "OMN200",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN200.webp"
+            "en": "https://content.fabrary.net/cards/OMN200.webp"
         }
     },
     {
@@ -1893,7 +1893,7 @@
         "collector_number": "OMN201",
         "type": "Lightning, Instant, Aura",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN201.webp"
+            "en": "https://content.fabrary.net/cards/OMN201.webp"
         }
     },
     {
@@ -1903,7 +1903,7 @@
         "collector_number": "OMN205",
         "type": "Generic, Equipment, Head",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN205.webp"
+            "en": "https://content.fabrary.net/cards/OMN205.webp"
         }
     },
     {
@@ -1913,7 +1913,7 @@
         "collector_number": "OMN206",
         "type": "Generic, Equipment, Chest",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN206.webp"
+            "en": "https://content.fabrary.net/cards/OMN206.webp"
         }
     },
     {
@@ -1923,7 +1923,7 @@
         "collector_number": "OMN207",
         "type": "Generic, Equipment, Arms",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN207.webp"
+            "en": "https://content.fabrary.net/cards/OMN207.webp"
         }
     },
     {
@@ -1933,7 +1933,7 @@
         "collector_number": "OMN208",
         "type": "Generic, Equipment, Legs",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN208.webp"
+            "en": "https://content.fabrary.net/cards/OMN208.webp"
         }
     },
     {
@@ -1943,7 +1943,7 @@
         "collector_number": "OMN209",
         "type": "Generic, Equipment, Head",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN209.webp"
+            "en": "https://content.fabrary.net/cards/OMN209.webp"
         }
     },
     {
@@ -1953,7 +1953,7 @@
         "collector_number": "OMN210",
         "type": "Generic, Equipment, Chest",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN210.webp"
+            "en": "https://content.fabrary.net/cards/OMN210.webp"
         }
     },
     {
@@ -1963,7 +1963,7 @@
         "collector_number": "OMN211",
         "type": "Generic, Equipment, Arms",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN211.webp"
+            "en": "https://content.fabrary.net/cards/OMN211.webp"
         }
     },
     {
@@ -1973,7 +1973,7 @@
         "collector_number": "OMN212",
         "type": "Generic, Equipment, Legs",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN212.webp"
+            "en": "https://content.fabrary.net/cards/OMN212.webp"
         }
     },
     {
@@ -1983,7 +1983,7 @@
         "collector_number": "OMN213",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN213.webp"
+            "en": "https://content.fabrary.net/cards/OMN213.webp"
         }
     },
     {
@@ -1993,7 +1993,7 @@
         "collector_number": "OMN214",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN214.webp"
+            "en": "https://content.fabrary.net/cards/OMN214.webp"
         }
     },
     {
@@ -2003,7 +2003,7 @@
         "collector_number": "OMN215",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN215.webp"
+            "en": "https://content.fabrary.net/cards/OMN215.webp"
         }
     },
     {
@@ -2013,7 +2013,7 @@
         "collector_number": "OMN216",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN216.webp"
+            "en": "https://content.fabrary.net/cards/OMN216.webp"
         }
     },
     {
@@ -2023,7 +2023,7 @@
         "collector_number": "OMN217",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN217.webp"
+            "en": "https://content.fabrary.net/cards/OMN217.webp"
         }
     },
     {
@@ -2033,7 +2033,7 @@
         "collector_number": "OMN218",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN218.webp"
+            "en": "https://content.fabrary.net/cards/OMN218.webp"
         }
     },
     {
@@ -2043,7 +2043,7 @@
         "collector_number": "OMN219",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN219.webp"
+            "en": "https://content.fabrary.net/cards/OMN219.webp"
         }
     },
     {
@@ -2053,7 +2053,7 @@
         "collector_number": "OMN220",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN220.webp"
+            "en": "https://content.fabrary.net/cards/OMN220.webp"
         }
     },
     {
@@ -2063,7 +2063,7 @@
         "collector_number": "OMN221",
         "type": "Generic, Action, Attack",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN221.webp"
+            "en": "https://content.fabrary.net/cards/OMN221.webp"
         }
     },
     {
@@ -2073,7 +2073,7 @@
         "collector_number": "OMN222",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN222.webp"
+            "en": "https://content.fabrary.net/cards/OMN222.webp"
         }
     },
     {
@@ -2083,7 +2083,7 @@
         "collector_number": "OMN223",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN223.webp"
+            "en": "https://content.fabrary.net/cards/OMN223.webp"
         }
     },
     {
@@ -2093,7 +2093,7 @@
         "collector_number": "OMN224",
         "type": "Generic, Instant",
         "image_uris": {
-            "en": "https://prod-content.fabrary.io/cards/OMN224.webp"
+            "en": "https://content.fabrary.net/cards/OMN224.webp"
         }
     }
 ]

@@ -13,7 +13,7 @@
         "collector_number": "SUP003",
         "type": "Revered, Brute, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP003.webp"
+           "en": "https://content.fabrary.net/cards/SUP003.webp"
         }
     },
     {
@@ -23,7 +23,7 @@
         "collector_number": "SUP004",
         "type": "Revered, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP004.webp"
+           "en": "https://content.fabrary.net/cards/SUP004.webp"
         }
     },
     {
@@ -33,7 +33,7 @@
         "collector_number": "SUP005",
         "type": "Revered, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP005.webp"
+           "en": "https://content.fabrary.net/cards/SUP005.webp"
         }
     },
     {
@@ -43,7 +43,7 @@
         "collector_number": "SUP006",
         "type": "Revered, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP006.webp"
+           "en": "https://content.fabrary.net/cards/SUP006.webp"
         }
     },
     {
@@ -53,7 +53,7 @@
         "collector_number": "SUP007",
         "type": "Revered, Brute, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP007.webp"
+           "en": "https://content.fabrary.net/cards/SUP007.webp"
         }
     },
     {
@@ -63,7 +63,7 @@
         "collector_number": "SUP008",
         "type": "Revered, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP008.webp"
+           "en": "https://content.fabrary.net/cards/SUP008.webp"
         }
     },
     {
@@ -73,7 +73,7 @@
         "collector_number": "SUP011",
         "type": "Revered, Guardian, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP011.webp"
+           "en": "https://content.fabrary.net/cards/SUP011.webp"
         }
     },
     {
@@ -83,7 +83,7 @@
         "collector_number": "SUP012",
         "type": "Revered, Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP012.webp"
+           "en": "https://content.fabrary.net/cards/SUP012.webp"
         }
     },
     {
@@ -93,7 +93,7 @@
         "collector_number": "SUP013",
         "type": "Revered, Guardian, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP013.webp"
+           "en": "https://content.fabrary.net/cards/SUP013.webp"
         }
     },
     {
@@ -103,7 +103,7 @@
         "collector_number": "SUP014",
         "type": "Revered, Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP014.webp"
+           "en": "https://content.fabrary.net/cards/SUP014.webp"
         }
     },
     {
@@ -113,7 +113,7 @@
         "collector_number": "SUP015",
         "type": "Revered, Guardian, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP015.webp"
+           "en": "https://content.fabrary.net/cards/SUP015.webp"
         }
     },
     {
@@ -123,7 +123,7 @@
         "collector_number": "SUP016",
         "type": "Revered, Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP016.webp"
+           "en": "https://content.fabrary.net/cards/SUP016.webp"
         }
     },
     {
@@ -133,7 +133,7 @@
         "collector_number": "SUP017",
         "type": "Revered, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP017.webp"
+           "en": "https://content.fabrary.net/cards/SUP017.webp"
         }
     },
     {
@@ -143,7 +143,7 @@
         "collector_number": "SUP018",
         "type": "Revered, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP018.webp"
+           "en": "https://content.fabrary.net/cards/SUP018.webp"
         }
     },
     {
@@ -153,7 +153,7 @@
         "collector_number": "SUP019",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP019.webp"
+           "en": "https://content.fabrary.net/cards/SUP019.webp"
         }
     },
     {
@@ -163,7 +163,7 @@
         "collector_number": "SUP020",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP020.webp"
+           "en": "https://content.fabrary.net/cards/SUP020.webp"
         }
     },
     {
@@ -173,7 +173,7 @@
         "collector_number": "SUP021",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP021.webp"
+           "en": "https://content.fabrary.net/cards/SUP021.webp"
         }
     },
     {
@@ -183,7 +183,7 @@
         "collector_number": "SUP022",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP022.webp"
+           "en": "https://content.fabrary.net/cards/SUP022.webp"
         }
     },
     {
@@ -193,7 +193,7 @@
         "collector_number": "SUP023",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP023.webp"
+           "en": "https://content.fabrary.net/cards/SUP023.webp"
         }
     },
     {
@@ -203,7 +203,7 @@
         "collector_number": "SUP024",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP024.webp"
+           "en": "https://content.fabrary.net/cards/SUP024.webp"
         }
     },
     {
@@ -213,7 +213,7 @@
         "collector_number": "SUP025",
         "type": "Revered, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP025.webp"
+           "en": "https://content.fabrary.net/cards/SUP025.webp"
         }
     },
     {
@@ -223,7 +223,7 @@
         "collector_number": "SUP026",
         "type": "Revered, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP026.webp"
+           "en": "https://content.fabrary.net/cards/SUP026.webp"
         }
     },
     {
@@ -233,7 +233,7 @@
         "collector_number": "SUP027",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP027.webp"
+           "en": "https://content.fabrary.net/cards/SUP027.webp"
         }
     },
     {
@@ -243,7 +243,7 @@
         "collector_number": "SUP028",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP028.webp"
+           "en": "https://content.fabrary.net/cards/SUP028.webp"
         }
     },
     {
@@ -253,7 +253,7 @@
         "collector_number": "SUP029",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP029.webp"
+           "en": "https://content.fabrary.net/cards/SUP029.webp"
         }
     },
     {
@@ -263,7 +263,7 @@
         "collector_number": "SUP030",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP030.webp"
+           "en": "https://content.fabrary.net/cards/SUP030.webp"
         }
     },
     {
@@ -273,7 +273,7 @@
         "collector_number": "SUP031",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP031.webp"
+           "en": "https://content.fabrary.net/cards/SUP031.webp"
         }
     },
     {
@@ -283,7 +283,7 @@
         "collector_number": "SUP032",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP032.webp"
+           "en": "https://content.fabrary.net/cards/SUP032.webp"
         }
     },
     {
@@ -293,7 +293,7 @@
         "collector_number": "SUP033",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP033.webp"
+           "en": "https://content.fabrary.net/cards/SUP033.webp"
         }
     },
     {
@@ -303,7 +303,7 @@
         "collector_number": "SUP034",
         "type": "Revered, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP034.webp"
+           "en": "https://content.fabrary.net/cards/SUP034.webp"
         }
     },
     {
@@ -313,7 +313,7 @@
         "collector_number": "SUP035",
         "type": "Revered, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP035.webp"
+           "en": "https://content.fabrary.net/cards/SUP035.webp"
         }
     },
     {
@@ -323,7 +323,7 @@
         "collector_number": "SUP036",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP036.webp"
+           "en": "https://content.fabrary.net/cards/SUP036.webp"
         }
     },
     {
@@ -333,7 +333,7 @@
         "collector_number": "SUP037",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP037.webp"
+           "en": "https://content.fabrary.net/cards/SUP037.webp"
         }
     },
     {
@@ -343,7 +343,7 @@
         "collector_number": "SUP038",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP038.webp"
+           "en": "https://content.fabrary.net/cards/SUP038.webp"
         }
     },
     {
@@ -353,7 +353,7 @@
         "collector_number": "SUP039",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP039.webp"
+           "en": "https://content.fabrary.net/cards/SUP039.webp"
         }
     },
     {
@@ -363,7 +363,7 @@
         "collector_number": "SUP040",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP040.webp"
+           "en": "https://content.fabrary.net/cards/SUP040.webp"
         }
     },
     {
@@ -373,7 +373,7 @@
         "collector_number": "SUP041",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP041.webp"
+           "en": "https://content.fabrary.net/cards/SUP041.webp"
         }
     },
     {
@@ -383,7 +383,7 @@
         "collector_number": "SUP042",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP042.webp"
+           "en": "https://content.fabrary.net/cards/SUP042.webp"
         }
     },
     {
@@ -393,7 +393,7 @@
         "collector_number": "SUP043",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP043.webp"
+           "en": "https://content.fabrary.net/cards/SUP043.webp"
         }
     },
     {
@@ -403,7 +403,7 @@
         "collector_number": "SUP044",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP044.webp"
+           "en": "https://content.fabrary.net/cards/SUP044.webp"
         }
     },
     {
@@ -413,7 +413,7 @@
         "collector_number": "SUP045",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP045.webp"
+           "en": "https://content.fabrary.net/cards/SUP045.webp"
         }
     },
     {
@@ -423,7 +423,7 @@
         "collector_number": "SUP046",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP046.webp"
+           "en": "https://content.fabrary.net/cards/SUP046.webp"
         }
     },
     {
@@ -433,7 +433,7 @@
         "collector_number": "SUP047",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP047.webp"
+           "en": "https://content.fabrary.net/cards/SUP047.webp"
         }
     },
     {
@@ -443,7 +443,7 @@
         "collector_number": "SUP048",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP048.webp"
+           "en": "https://content.fabrary.net/cards/SUP048.webp"
         }
     },
     {
@@ -453,7 +453,7 @@
         "collector_number": "SUP049",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP049.webp"
+           "en": "https://content.fabrary.net/cards/SUP049.webp"
         }
     },
     {
@@ -463,7 +463,7 @@
         "collector_number": "SUP050",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP050.webp"
+           "en": "https://content.fabrary.net/cards/SUP050.webp"
         }
     },
     {
@@ -473,7 +473,7 @@
         "collector_number": "SUP051",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP051.webp"
+           "en": "https://content.fabrary.net/cards/SUP051.webp"
         }
     },
     {
@@ -483,7 +483,7 @@
         "collector_number": "SUP052",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP052.webp"
+           "en": "https://content.fabrary.net/cards/SUP052.webp"
         }
     },
     {
@@ -493,7 +493,7 @@
         "collector_number": "SUP053",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP053.webp"
+           "en": "https://content.fabrary.net/cards/SUP053.webp"
         }
     },
     {
@@ -503,7 +503,7 @@
         "collector_number": "SUP054",
         "type": "Revered, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP054.webp"
+           "en": "https://content.fabrary.net/cards/SUP054.webp"
         }
     },
     {
@@ -513,7 +513,7 @@
         "collector_number": "SUP055",
         "type": "Revered, Action, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP055.webp"
+           "en": "https://content.fabrary.net/cards/SUP055.webp"
         }
     },
     {
@@ -523,7 +523,7 @@
         "collector_number": "SUP056",
         "type": "Revered, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP056.webp"
+           "en": "https://content.fabrary.net/cards/SUP056.webp"
         }
     },
     {
@@ -533,7 +533,7 @@
         "collector_number": "SUP057",
         "type": "Revered, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP057.webp"
+           "en": "https://content.fabrary.net/cards/SUP057.webp"
         }
     },
     {
@@ -543,7 +543,7 @@
         "collector_number": "SUP058",
         "type": "Revered, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP058.webp"
+           "en": "https://content.fabrary.net/cards/SUP058.webp"
         }
     },
     {
@@ -553,7 +553,7 @@
         "collector_number": "SUP059",
         "type": "Revered, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP059.webp"
+           "en": "https://content.fabrary.net/cards/SUP059.webp"
         }
     },
     {
@@ -563,7 +563,7 @@
         "collector_number": "SUP060",
         "type": "Revered, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP060.webp"
+           "en": "https://content.fabrary.net/cards/SUP060.webp"
         }
     },
     {
@@ -573,7 +573,7 @@
         "collector_number": "SUP061",
         "type": "Revered, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP061.webp"
+           "en": "https://content.fabrary.net/cards/SUP061.webp"
         }
     },
     {
@@ -583,7 +583,7 @@
         "collector_number": "SUP062",
         "type": "Revered, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP062.webp"
+           "en": "https://content.fabrary.net/cards/SUP062.webp"
         }
     },
     {
@@ -593,7 +593,7 @@
         "collector_number": "SUP065",
         "type": "Reviled, Brute, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP065.webp"
+           "en": "https://content.fabrary.net/cards/SUP065.webp"
         }
     },
     {
@@ -603,7 +603,7 @@
         "collector_number": "SUP066",
         "type": "Reviled, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP066.webp"
+           "en": "https://content.fabrary.net/cards/SUP066.webp"
         }
     },
     {
@@ -613,7 +613,7 @@
         "collector_number": "SUP067",
         "type": "Reviled, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP067.webp"
+           "en": "https://content.fabrary.net/cards/SUP067.webp"
         }
     },
     {
@@ -623,7 +623,7 @@
         "collector_number": "SUP068",
         "type": "Reviled, Brute, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP068.webp"
+           "en": "https://content.fabrary.net/cards/SUP068.webp"
         }
     },
     {
@@ -633,7 +633,7 @@
         "collector_number": "SUP069",
         "type": "Reviled, Brute, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP069.webp"
+           "en": "https://content.fabrary.net/cards/SUP069.webp"
         }
     },
     {
@@ -643,7 +643,7 @@
         "collector_number": "SUP070",
         "type": "Reviled, Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP070.webp"
+           "en": "https://content.fabrary.net/cards/SUP070.webp"
         }
     },
     {
@@ -653,7 +653,7 @@
         "collector_number": "SUP073",
         "type": "Reviled, Guardian, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP073.webp"
+           "en": "https://content.fabrary.net/cards/SUP073.webp"
         }
     },
     {
@@ -663,7 +663,7 @@
         "collector_number": "SUP074",
         "type": "Reviled, Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP074.webp"
+           "en": "https://content.fabrary.net/cards/SUP074.webp"
         }
     },
     {
@@ -673,7 +673,7 @@
         "collector_number": "SUP075",
         "type": "Reviled, Guardian, Action, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP075.webp"
+           "en": "https://content.fabrary.net/cards/SUP075.webp"
         }
     },
     {
@@ -683,7 +683,7 @@
         "collector_number": "SUP076",
         "type": "Reviled, Guardian, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP076.webp"
+           "en": "https://content.fabrary.net/cards/SUP076.webp"
         }
     },
     {
@@ -693,7 +693,7 @@
         "collector_number": "SUP077",
         "type": "Reviled, Guardian, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP077.webp"
+           "en": "https://content.fabrary.net/cards/SUP077.webp"
         }
     },
     {
@@ -703,7 +703,7 @@
         "collector_number": "SUP078",
         "type": "Reviled, Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP078.webp"
+           "en": "https://content.fabrary.net/cards/SUP078.webp"
         }
     },
     {
@@ -713,7 +713,7 @@
         "collector_number": "SUP079",
         "type": "Reviled, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP079.webp"
+           "en": "https://content.fabrary.net/cards/SUP079.webp"
         }
     },
     {
@@ -723,7 +723,7 @@
         "collector_number": "SUP080",
         "type": "Reviled, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP080.webp"
+           "en": "https://content.fabrary.net/cards/SUP080.webp"
         }
     },
     {
@@ -733,7 +733,7 @@
         "collector_number": "SUP081",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP081.webp"
+           "en": "https://content.fabrary.net/cards/SUP081.webp"
         }
     },
     {
@@ -743,7 +743,7 @@
         "collector_number": "SUP082",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP082.webp"
+           "en": "https://content.fabrary.net/cards/SUP082.webp"
         }
     },
     {
@@ -753,7 +753,7 @@
         "collector_number": "SUP083",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP083.webp"
+           "en": "https://content.fabrary.net/cards/SUP083.webp"
         }
     },
     {
@@ -763,7 +763,7 @@
         "collector_number": "SUP084",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP084.webp"
+           "en": "https://content.fabrary.net/cards/SUP084.webp"
         }
     },
     {
@@ -773,7 +773,7 @@
         "collector_number": "SUP085",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP085.webp"
+           "en": "https://content.fabrary.net/cards/SUP085.webp"
         }
     },
     {
@@ -783,7 +783,7 @@
         "collector_number": "SUP086",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP086.webp"
+           "en": "https://content.fabrary.net/cards/SUP086.webp"
         }
     },
     {
@@ -793,7 +793,7 @@
         "collector_number": "SUP087",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP087.webp"
+           "en": "https://content.fabrary.net/cards/SUP087.webp"
         }
     },
     {
@@ -803,7 +803,7 @@
         "collector_number": "SUP088",
         "type": "Reviled, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP088.webp"
+           "en": "https://content.fabrary.net/cards/SUP088.webp"
         }
     },
     {
@@ -813,7 +813,7 @@
         "collector_number": "SUP089",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP089.webp"
+           "en": "https://content.fabrary.net/cards/SUP089.webp"
         }
     },
     {
@@ -823,7 +823,7 @@
         "collector_number": "SUP090",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP090.webp"
+           "en": "https://content.fabrary.net/cards/SUP090.webp"
         }
     },
     {
@@ -833,7 +833,7 @@
         "collector_number": "SUP091",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP091.webp"
+           "en": "https://content.fabrary.net/cards/SUP091.webp"
         }
     },
     {
@@ -843,7 +843,7 @@
         "collector_number": "SUP092",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP092.webp"
+           "en": "https://content.fabrary.net/cards/SUP092.webp"
         }
     },
     {
@@ -853,7 +853,7 @@
         "collector_number": "SUP093",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP093.webp"
+           "en": "https://content.fabrary.net/cards/SUP093.webp"
         }
     },
     {
@@ -863,7 +863,7 @@
         "collector_number": "SUP094",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP094.webp"
+           "en": "https://content.fabrary.net/cards/SUP094.webp"
         }
     },
     {
@@ -873,7 +873,7 @@
         "collector_number": "SUP095",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP095.webp"
+           "en": "https://content.fabrary.net/cards/SUP095.webp"
         }
     },
     {
@@ -883,7 +883,7 @@
         "collector_number": "SUP096",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP096.webp"
+           "en": "https://content.fabrary.net/cards/SUP096.webp"
         }
     },
     {
@@ -893,7 +893,7 @@
         "collector_number": "SUP097",
         "type": "Reviled, Instant, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP097.webp"
+           "en": "https://content.fabrary.net/cards/SUP097.webp"
         }
     },
     {
@@ -903,7 +903,7 @@
         "collector_number": "SUP098",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP098.webp"
+           "en": "https://content.fabrary.net/cards/SUP098.webp"
         }
     },
     {
@@ -913,7 +913,7 @@
         "collector_number": "SUP099",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP099.webp"
+           "en": "https://content.fabrary.net/cards/SUP099.webp"
         }
     },
     {
@@ -923,7 +923,7 @@
         "collector_number": "SUP100",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP100.webp"
+           "en": "https://content.fabrary.net/cards/SUP100.webp"
         }
     },
     {
@@ -933,7 +933,7 @@
         "collector_number": "SUP101",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP101.webp"
+           "en": "https://content.fabrary.net/cards/SUP101.webp"
         }
     },
     {
@@ -943,7 +943,7 @@
         "collector_number": "SUP102",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP102.webp"
+           "en": "https://content.fabrary.net/cards/SUP102.webp"
         }
     },
     {
@@ -953,7 +953,7 @@
         "collector_number": "SUP103",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP103.webp"
+           "en": "https://content.fabrary.net/cards/SUP103.webp"
         }
     },
     {
@@ -963,7 +963,7 @@
         "collector_number": "SUP104",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP104.webp"
+           "en": "https://content.fabrary.net/cards/SUP104.webp"
         }
     },
     {
@@ -973,7 +973,7 @@
         "collector_number": "SUP105",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP105.webp"
+           "en": "https://content.fabrary.net/cards/SUP105.webp"
         }
     },
     {
@@ -983,7 +983,7 @@
         "collector_number": "SUP106",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP106.webp"
+           "en": "https://content.fabrary.net/cards/SUP106.webp"
         }
     },
     {
@@ -993,7 +993,7 @@
         "collector_number": "SUP107",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP107.webp"
+           "en": "https://content.fabrary.net/cards/SUP107.webp"
         }
     },
     {
@@ -1003,7 +1003,7 @@
         "collector_number": "SUP108",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP108.webp"
+           "en": "https://content.fabrary.net/cards/SUP108.webp"
         }
     },
     {
@@ -1013,7 +1013,7 @@
         "collector_number": "SUP109",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP109.webp"
+           "en": "https://content.fabrary.net/cards/SUP109.webp"
         }
     },
     {
@@ -1023,7 +1023,7 @@
         "collector_number": "SUP110",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP110.webp"
+           "en": "https://content.fabrary.net/cards/SUP110.webp"
         }
     },
     {
@@ -1033,7 +1033,7 @@
         "collector_number": "SUP111",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP111.webp"
+           "en": "https://content.fabrary.net/cards/SUP111.webp"
         }
     },
     {
@@ -1043,7 +1043,7 @@
         "collector_number": "SUP112",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP112.webp"
+           "en": "https://content.fabrary.net/cards/SUP112.webp"
         }
     },
     {
@@ -1053,7 +1053,7 @@
         "collector_number": "SUP113",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP113.webp"
+           "en": "https://content.fabrary.net/cards/SUP113.webp"
         }
     },
     {
@@ -1063,7 +1063,7 @@
         "collector_number": "SUP114",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP114.webp"
+           "en": "https://content.fabrary.net/cards/SUP114.webp"
         }
     },
     {
@@ -1073,7 +1073,7 @@
         "collector_number": "SUP115",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP115.webp"
+           "en": "https://content.fabrary.net/cards/SUP115.webp"
         }
     },
     {
@@ -1083,7 +1083,7 @@
         "collector_number": "SUP116",
         "type": "Reviled, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP116.webp"
+           "en": "https://content.fabrary.net/cards/SUP116.webp"
         }
     },
     {
@@ -1093,7 +1093,7 @@
         "collector_number": "SUP117",
         "type": "Reviled, Action, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP117.webp"
+           "en": "https://content.fabrary.net/cards/SUP117.webp"
         }
     },
     {
@@ -1103,7 +1103,7 @@
         "collector_number": "SUP118",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP118.webp"
+           "en": "https://content.fabrary.net/cards/SUP118.webp"
         }
     },
     {
@@ -1113,7 +1113,7 @@
         "collector_number": "SUP119",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP119.webp"
+           "en": "https://content.fabrary.net/cards/SUP119.webp"
         }
     },
     {
@@ -1123,7 +1123,7 @@
         "collector_number": "SUP120",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP120.webp"
+           "en": "https://content.fabrary.net/cards/SUP120.webp"
         }
     },
     {
@@ -1133,7 +1133,7 @@
         "collector_number": "SUP121",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP121.webp"
+           "en": "https://content.fabrary.net/cards/SUP121.webp"
         }
     },
     {
@@ -1143,7 +1143,7 @@
         "collector_number": "SUP122",
         "type": "Reviled, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP122.webp"
+           "en": "https://content.fabrary.net/cards/SUP122.webp"
         }
     },
     {
@@ -1153,7 +1153,7 @@
         "collector_number": "SUP123",
         "type": "Reviled, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP123.webp"
+           "en": "https://content.fabrary.net/cards/SUP123.webp"
         }
     },
     {
@@ -1163,7 +1163,7 @@
         "collector_number": "SUP124",
         "type": "Reviled, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP124.webp"
+           "en": "https://content.fabrary.net/cards/SUP124.webp"
         }
     },
     {
@@ -1173,7 +1173,7 @@
         "collector_number": "SUP126",
         "type": "Brute, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP126.webp"
+           "en": "https://content.fabrary.net/cards/SUP126.webp"
         }
     },
     {
@@ -1183,7 +1183,7 @@
         "collector_number": "SUP127",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP127.webp"
+           "en": "https://content.fabrary.net/cards/SUP127.webp"
         }
     },
     {
@@ -1193,7 +1193,7 @@
         "collector_number": "SUP128",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP128.webp"
+           "en": "https://content.fabrary.net/cards/SUP128.webp"
         }
     },
     {
@@ -1203,7 +1203,7 @@
         "collector_number": "SUP129",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP129.webp"
+           "en": "https://content.fabrary.net/cards/SUP129.webp"
         }
     },
     {
@@ -1213,7 +1213,7 @@
         "collector_number": "SUP130",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP130.webp"
+           "en": "https://content.fabrary.net/cards/SUP130.webp"
         }
     },
     {
@@ -1223,7 +1223,7 @@
         "collector_number": "SUP131",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP131.webp"
+           "en": "https://content.fabrary.net/cards/SUP131.webp"
         }
     },
     {
@@ -1233,7 +1233,7 @@
         "collector_number": "SUP132",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP132.webp"
+           "en": "https://content.fabrary.net/cards/SUP132.webp"
         }
     },
     {
@@ -1243,7 +1243,7 @@
         "collector_number": "SUP133",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP133.webp"
+           "en": "https://content.fabrary.net/cards/SUP133.webp"
         }
     },
     {
@@ -1253,7 +1253,7 @@
         "collector_number": "SUP134",
         "type": "Brute, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP134.webp"
+           "en": "https://content.fabrary.net/cards/SUP134.webp"
         }
     },
     {
@@ -1263,7 +1263,7 @@
         "collector_number": "SUP135",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP135.webp"
+           "en": "https://content.fabrary.net/cards/SUP135.webp"
         }
     },
     {
@@ -1273,7 +1273,7 @@
         "collector_number": "SUP136",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP136.webp"
+           "en": "https://content.fabrary.net/cards/SUP136.webp"
         }
     },
     {
@@ -1283,7 +1283,7 @@
         "collector_number": "SUP137",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP137.webp"
+           "en": "https://content.fabrary.net/cards/SUP137.webp"
         }
     },
     {
@@ -1293,7 +1293,7 @@
         "collector_number": "SUP138",
         "type": "Brute, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP138.webp"
+           "en": "https://content.fabrary.net/cards/SUP138.webp"
         }
     },
     {
@@ -1303,7 +1303,7 @@
         "collector_number": "SUP139",
         "type": "Brute, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP139.webp"
+           "en": "https://content.fabrary.net/cards/SUP139.webp"
         }
     },
     {
@@ -1313,7 +1313,7 @@
         "collector_number": "SUP140",
         "type": "Brute, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP140.webp"
+           "en": "https://content.fabrary.net/cards/SUP140.webp"
         }
     },
     {
@@ -1323,7 +1323,7 @@
         "collector_number": "SUP141",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP141.webp"
+           "en": "https://content.fabrary.net/cards/SUP141.webp"
         }
     },
     {
@@ -1333,7 +1333,7 @@
         "collector_number": "SUP142",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP142.webp"
+           "en": "https://content.fabrary.net/cards/SUP142.webp"
         }
     },
     {
@@ -1343,7 +1343,7 @@
         "collector_number": "SUP143",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP143.webp"
+           "en": "https://content.fabrary.net/cards/SUP143.webp"
         }
     },
     {
@@ -1353,7 +1353,7 @@
         "collector_number": "SUP144",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP144.webp"
+           "en": "https://content.fabrary.net/cards/SUP144.webp"
         }
     },
     {
@@ -1363,7 +1363,7 @@
         "collector_number": "SUP145",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP145.webp"
+           "en": "https://content.fabrary.net/cards/SUP145.webp"
         }
     },
     {
@@ -1373,7 +1373,7 @@
         "collector_number": "SUP146",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP146.webp"
+           "en": "https://content.fabrary.net/cards/SUP146.webp"
         }
     },
     {
@@ -1383,7 +1383,7 @@
         "collector_number": "SUP147",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP147.webp"
+           "en": "https://content.fabrary.net/cards/SUP147.webp"
         }
     },
     {
@@ -1393,7 +1393,7 @@
         "collector_number": "SUP148",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP148.webp"
+           "en": "https://content.fabrary.net/cards/SUP148.webp"
         }
     },
     {
@@ -1403,7 +1403,7 @@
         "collector_number": "SUP149",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP149.webp"
+           "en": "https://content.fabrary.net/cards/SUP149.webp"
         }
     },
     {
@@ -1413,7 +1413,7 @@
         "collector_number": "SUP150",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP150.webp"
+           "en": "https://content.fabrary.net/cards/SUP150.webp"
         }
     },
     {
@@ -1423,7 +1423,7 @@
         "collector_number": "SUP151",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP151.webp"
+           "en": "https://content.fabrary.net/cards/SUP151.webp"
         }
     },
     {
@@ -1433,7 +1433,7 @@
         "collector_number": "SUP152",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP152.webp"
+           "en": "https://content.fabrary.net/cards/SUP152.webp"
         }
     },
     {
@@ -1443,7 +1443,7 @@
         "collector_number": "SUP153",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP153.webp"
+           "en": "https://content.fabrary.net/cards/SUP153.webp"
         }
     },
     {
@@ -1453,7 +1453,7 @@
         "collector_number": "SUP154",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP154.webp"
+           "en": "https://content.fabrary.net/cards/SUP154.webp"
         }
     },
     {
@@ -1463,7 +1463,7 @@
         "collector_number": "SUP155",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP155.webp"
+           "en": "https://content.fabrary.net/cards/SUP155.webp"
         }
     },
     {
@@ -1473,7 +1473,7 @@
         "collector_number": "SUP156",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP156.webp"
+           "en": "https://content.fabrary.net/cards/SUP156.webp"
         }
     },
     {
@@ -1483,7 +1483,7 @@
         "collector_number": "SUP157",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP157.webp"
+           "en": "https://content.fabrary.net/cards/SUP157.webp"
         }
     },
     {
@@ -1493,7 +1493,7 @@
         "collector_number": "SUP158",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP158.webp"
+           "en": "https://content.fabrary.net/cards/SUP158.webp"
         }
     },
     {
@@ -1503,7 +1503,7 @@
         "collector_number": "SUP159",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP159.webp"
+           "en": "https://content.fabrary.net/cards/SUP159.webp"
         }
     },
     {
@@ -1513,7 +1513,7 @@
         "collector_number": "SUP160",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP160.webp"
+           "en": "https://content.fabrary.net/cards/SUP160.webp"
         }
     },
     {
@@ -1523,7 +1523,7 @@
         "collector_number": "SUP161",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP161.webp"
+           "en": "https://content.fabrary.net/cards/SUP161.webp"
         }
     },
     {
@@ -1533,7 +1533,7 @@
         "collector_number": "SUP162",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP162.webp"
+           "en": "https://content.fabrary.net/cards/SUP162.webp"
         }
     },
     {
@@ -1543,7 +1543,7 @@
         "collector_number": "SUP163",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP163.webp"
+           "en": "https://content.fabrary.net/cards/SUP163.webp"
         }
     },
     {
@@ -1553,7 +1553,7 @@
         "collector_number": "SUP164",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP164.webp"
+           "en": "https://content.fabrary.net/cards/SUP164.webp"
         }
     },
     {
@@ -1563,7 +1563,7 @@
         "collector_number": "SUP165",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP165.webp"
+           "en": "https://content.fabrary.net/cards/SUP165.webp"
         }
     },
     {
@@ -1573,7 +1573,7 @@
         "collector_number": "SUP166",
         "type": "Brute, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP166.webp"
+           "en": "https://content.fabrary.net/cards/SUP166.webp"
         }
     },
     {
@@ -1583,7 +1583,7 @@
         "collector_number": "SUP167",
         "type": "Brute, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP167.webp"
+           "en": "https://content.fabrary.net/cards/SUP167.webp"
         }
     },
     {
@@ -1593,7 +1593,7 @@
         "collector_number": "SUP169",
         "type": "Guardian, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP169.webp"
+           "en": "https://content.fabrary.net/cards/SUP169.webp"
         }
     },
     {
@@ -1603,7 +1603,7 @@
         "collector_number": "SUP170",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP170.webp"
+           "en": "https://content.fabrary.net/cards/SUP170.webp"
         }
     },
     {
@@ -1613,7 +1613,7 @@
         "collector_number": "SUP171",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP171.webp"
+           "en": "https://content.fabrary.net/cards/SUP171.webp"
         }
     },
     {
@@ -1623,7 +1623,7 @@
         "collector_number": "SUP172",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP172.webp"
+           "en": "https://content.fabrary.net/cards/SUP172.webp"
         }
     },
     {
@@ -1633,7 +1633,7 @@
         "collector_number": "SUP173",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP173.webp"
+           "en": "https://content.fabrary.net/cards/SUP173.webp"
         }
     },
     {
@@ -1643,7 +1643,7 @@
         "collector_number": "SUP174",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP174.webp"
+           "en": "https://content.fabrary.net/cards/SUP174.webp"
         }
     },
     {
@@ -1653,7 +1653,7 @@
         "collector_number": "SUP175",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP175.webp"
+           "en": "https://content.fabrary.net/cards/SUP175.webp"
         }
     },
     {
@@ -1663,7 +1663,7 @@
         "collector_number": "SUP176",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP176.webp"
+           "en": "https://content.fabrary.net/cards/SUP176.webp"
         }
     },
     {
@@ -1673,7 +1673,7 @@
         "collector_number": "SUP177",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP177.webp"
+           "en": "https://content.fabrary.net/cards/SUP177.webp"
         }
     },
     {
@@ -1683,7 +1683,7 @@
         "collector_number": "SUP178",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP178.webp"
+           "en": "https://content.fabrary.net/cards/SUP178.webp"
         }
     },
     {
@@ -1693,7 +1693,7 @@
         "collector_number": "SUP179",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP179.webp"
+           "en": "https://content.fabrary.net/cards/SUP179.webp"
         }
     },
     {
@@ -1703,7 +1703,7 @@
         "collector_number": "SUP180",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP180.webp"
+           "en": "https://content.fabrary.net/cards/SUP180.webp"
         }
     },
     {
@@ -1713,7 +1713,7 @@
         "collector_number": "SUP181",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP181.webp"
+           "en": "https://content.fabrary.net/cards/SUP181.webp"
         }
     },
     {
@@ -1723,7 +1723,7 @@
         "collector_number": "SUP182",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP182.webp"
+           "en": "https://content.fabrary.net/cards/SUP182.webp"
         }
     },
     {
@@ -1733,7 +1733,7 @@
         "collector_number": "SUP183",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP183.webp"
+           "en": "https://content.fabrary.net/cards/SUP183.webp"
         }
     },
     {
@@ -1743,7 +1743,7 @@
         "collector_number": "SUP184",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP184.webp"
+           "en": "https://content.fabrary.net/cards/SUP184.webp"
         }
     },
     {
@@ -1753,7 +1753,7 @@
         "collector_number": "SUP185",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP185.webp"
+           "en": "https://content.fabrary.net/cards/SUP185.webp"
         }
     },
     {
@@ -1763,7 +1763,7 @@
         "collector_number": "SUP186",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP186.webp"
+           "en": "https://content.fabrary.net/cards/SUP186.webp"
         }
     },
     {
@@ -1773,7 +1773,7 @@
         "collector_number": "SUP187",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP187.webp"
+           "en": "https://content.fabrary.net/cards/SUP187.webp"
         }
     },
     {
@@ -1783,7 +1783,7 @@
         "collector_number": "SUP188",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP188.webp"
+           "en": "https://content.fabrary.net/cards/SUP188.webp"
         }
     },
     {
@@ -1793,7 +1793,7 @@
         "collector_number": "SUP189",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP189.webp"
+           "en": "https://content.fabrary.net/cards/SUP189.webp"
         }
     },
     {
@@ -1803,7 +1803,7 @@
         "collector_number": "SUP190",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP190.webp"
+           "en": "https://content.fabrary.net/cards/SUP190.webp"
         }
     },
     {
@@ -1813,7 +1813,7 @@
         "collector_number": "SUP191",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP191.webp"
+           "en": "https://content.fabrary.net/cards/SUP191.webp"
         }
     },
     {
@@ -1823,7 +1823,7 @@
         "collector_number": "SUP192",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP192.webp"
+           "en": "https://content.fabrary.net/cards/SUP192.webp"
         }
     },
     {
@@ -1833,7 +1833,7 @@
         "collector_number": "SUP193",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP193.webp"
+           "en": "https://content.fabrary.net/cards/SUP193.webp"
         }
     },
     {
@@ -1843,7 +1843,7 @@
         "collector_number": "SUP194",
         "type": "Guardian, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP194.webp"
+           "en": "https://content.fabrary.net/cards/SUP194.webp"
         }
     },
     {
@@ -1853,7 +1853,7 @@
         "collector_number": "SUP195",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP195.webp"
+           "en": "https://content.fabrary.net/cards/SUP195.webp"
         }
     },
     {
@@ -1863,7 +1863,7 @@
         "collector_number": "SUP196",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP196.webp"
+           "en": "https://content.fabrary.net/cards/SUP196.webp"
         }
     },
     {
@@ -1873,7 +1873,7 @@
         "collector_number": "SUP197",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP197.webp"
+           "en": "https://content.fabrary.net/cards/SUP197.webp"
         }
     },
     {
@@ -1883,7 +1883,7 @@
         "collector_number": "SUP198",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP198.webp"
+           "en": "https://content.fabrary.net/cards/SUP198.webp"
         }
     },
     {
@@ -1893,7 +1893,7 @@
         "collector_number": "SUP199",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP199.webp"
+           "en": "https://content.fabrary.net/cards/SUP199.webp"
         }
     },
     {
@@ -1903,7 +1903,7 @@
         "collector_number": "SUP200",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP200.webp"
+           "en": "https://content.fabrary.net/cards/SUP200.webp"
         }
     },
     {
@@ -1913,7 +1913,7 @@
         "collector_number": "SUP201",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP201.webp"
+           "en": "https://content.fabrary.net/cards/SUP201.webp"
         }
     },
     {
@@ -1923,7 +1923,7 @@
         "collector_number": "SUP202",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP202.webp"
+           "en": "https://content.fabrary.net/cards/SUP202.webp"
         }
     },
     {
@@ -1933,7 +1933,7 @@
         "collector_number": "SUP203",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP203.webp"
+           "en": "https://content.fabrary.net/cards/SUP203.webp"
         }
     },
     {
@@ -1943,7 +1943,7 @@
         "collector_number": "SUP204",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP204.webp"
+           "en": "https://content.fabrary.net/cards/SUP204.webp"
         }
     },
     {
@@ -1953,7 +1953,7 @@
         "collector_number": "SUP205",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP205.webp"
+           "en": "https://content.fabrary.net/cards/SUP205.webp"
         }
     },
     {
@@ -1963,7 +1963,7 @@
         "collector_number": "SUP206",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP206.webp"
+           "en": "https://content.fabrary.net/cards/SUP206.webp"
         }
     },
     {
@@ -1973,7 +1973,7 @@
         "collector_number": "SUP207",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP207.webp"
+           "en": "https://content.fabrary.net/cards/SUP207.webp"
         }
     },
     {
@@ -1983,7 +1983,7 @@
         "collector_number": "SUP208",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP208.webp"
+           "en": "https://content.fabrary.net/cards/SUP208.webp"
         }
     },
     {
@@ -1993,7 +1993,7 @@
         "collector_number": "SUP209",
         "type": "Guardian, Instant, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP209.webp"
+           "en": "https://content.fabrary.net/cards/SUP209.webp"
         }
     },
     {
@@ -2003,7 +2003,7 @@
         "collector_number": "SUP210",
         "type": "Guardian, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP210.webp"
+           "en": "https://content.fabrary.net/cards/SUP210.webp"
         }
     },
     {
@@ -2013,7 +2013,7 @@
         "collector_number": "SUP211",
         "type": "Generic, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP211.webp"
+           "en": "https://content.fabrary.net/cards/SUP211.webp"
         }
     },
     {
@@ -2023,7 +2023,7 @@
         "collector_number": "SUP212",
         "type": "Generic, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP212.webp"
+           "en": "https://content.fabrary.net/cards/SUP212.webp"
         }
     },
     {
@@ -2033,7 +2033,7 @@
         "collector_number": "SUP213",
         "type": "Generic, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP213.webp"
+           "en": "https://content.fabrary.net/cards/SUP213.webp"
         }
     },
     {
@@ -2043,7 +2043,7 @@
         "collector_number": "SUP214",
         "type": "Generic, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP214.webp"
+           "en": "https://content.fabrary.net/cards/SUP214.webp"
         }
     },
     {
@@ -2053,7 +2053,7 @@
         "collector_number": "SUP215",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP215.webp"
+           "en": "https://content.fabrary.net/cards/SUP215.webp"
         }
     },
     {
@@ -2063,7 +2063,7 @@
         "collector_number": "SUP216",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP216.webp"
+           "en": "https://content.fabrary.net/cards/SUP216.webp"
         }
     },
     {
@@ -2073,7 +2073,7 @@
         "collector_number": "SUP217",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP217.webp"
+           "en": "https://content.fabrary.net/cards/SUP217.webp"
         }
     },
     {
@@ -2083,7 +2083,7 @@
         "collector_number": "SUP218",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP218.webp"
+           "en": "https://content.fabrary.net/cards/SUP218.webp"
         }
     },
     {
@@ -2093,7 +2093,7 @@
         "collector_number": "SUP219",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP219.webp"
+           "en": "https://content.fabrary.net/cards/SUP219.webp"
         }
     },
     {
@@ -2103,7 +2103,7 @@
         "collector_number": "SUP220",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP220.webp"
+           "en": "https://content.fabrary.net/cards/SUP220.webp"
         }
     },
     {
@@ -2113,7 +2113,7 @@
         "collector_number": "SUP221",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP221.webp"
+           "en": "https://content.fabrary.net/cards/SUP221.webp"
         }
     },
     {
@@ -2123,7 +2123,7 @@
         "collector_number": "SUP222",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP222.webp"
+           "en": "https://content.fabrary.net/cards/SUP222.webp"
         }
     },
     {
@@ -2133,7 +2133,7 @@
         "collector_number": "SUP223",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP223.webp"
+           "en": "https://content.fabrary.net/cards/SUP223.webp"
         }
     },
     {
@@ -2143,7 +2143,7 @@
         "collector_number": "SUP224",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP224.webp"
+           "en": "https://content.fabrary.net/cards/SUP224.webp"
         }
     },
     {
@@ -2153,7 +2153,7 @@
         "collector_number": "SUP225",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP225.webp"
+           "en": "https://content.fabrary.net/cards/SUP225.webp"
         }
     },
     {
@@ -2163,7 +2163,7 @@
         "collector_number": "SUP226",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP226.webp"
+           "en": "https://content.fabrary.net/cards/SUP226.webp"
         }
     },
     {
@@ -2173,7 +2173,7 @@
         "collector_number": "SUP227",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP227.webp"
+           "en": "https://content.fabrary.net/cards/SUP227.webp"
         }
     },
     {
@@ -2183,7 +2183,7 @@
         "collector_number": "SUP228",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP228.webp"
+           "en": "https://content.fabrary.net/cards/SUP228.webp"
         }
     },
     {
@@ -2193,7 +2193,7 @@
         "collector_number": "SUP229",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP229.webp"
+           "en": "https://content.fabrary.net/cards/SUP229.webp"
         }
     },
     {
@@ -2203,7 +2203,7 @@
         "collector_number": "SUP230",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP230.webp"
+           "en": "https://content.fabrary.net/cards/SUP230.webp"
         }
     },
     {
@@ -2213,7 +2213,7 @@
         "collector_number": "SUP231",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP231.webp"
+           "en": "https://content.fabrary.net/cards/SUP231.webp"
         }
     },
     {
@@ -2223,7 +2223,7 @@
         "collector_number": "SUP232",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP232.webp"
+           "en": "https://content.fabrary.net/cards/SUP232.webp"
         }
     },
     {
@@ -2233,7 +2233,7 @@
         "collector_number": "SUP233",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP233.webp"
+           "en": "https://content.fabrary.net/cards/SUP233.webp"
         }
     },
     {
@@ -2243,7 +2243,7 @@
         "collector_number": "SUP234",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP234.webp"
+           "en": "https://content.fabrary.net/cards/SUP234.webp"
         }
     },
 	{
@@ -2253,7 +2253,7 @@
         "collector_number": "SUP235",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP235.webp"
+           "en": "https://content.fabrary.net/cards/SUP235.webp"
         }
     },
 	{
@@ -2263,7 +2263,7 @@
         "collector_number": "SUP236",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP236.webp"
+           "en": "https://content.fabrary.net/cards/SUP236.webp"
         }
     },
 	{
@@ -2273,7 +2273,7 @@
         "collector_number": "SUP237",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP237.webp"
+           "en": "https://content.fabrary.net/cards/SUP237.webp"
         }
     },
 	{
@@ -2283,7 +2283,7 @@
         "collector_number": "SUP238",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SUP238.webp"
+           "en": "https://content.fabrary.net/cards/SUP238.webp"
         }
     },
 ]

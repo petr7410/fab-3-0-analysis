@@ -13,7 +13,7 @@
         "collector_number": "SEA004",
         "type": "Pirate, Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA004.webp"
+           "en": "https://content.fabrary.net/cards/SEA004.webp"
         }
     },
     {
@@ -23,7 +23,7 @@
         "collector_number": "SEA005",
         "type": "Pirate, Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA005.webp"
+           "en": "https://content.fabrary.net/cards/SEA005.webp"
         }
     },
     {
@@ -33,7 +33,7 @@
         "collector_number": "SEA009",
         "type": "Mechanologist, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA009.webp"
+           "en": "https://content.fabrary.net/cards/SEA009.webp"
         }
     },
     {
@@ -43,7 +43,7 @@
         "collector_number": "SEA010",
         "type": "Mechanologist, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA010.webp"
+           "en": "https://content.fabrary.net/cards/SEA010.webp"
         }
     },
     {
@@ -53,7 +53,7 @@
         "collector_number": "SEA011",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA011.webp"
+           "en": "https://content.fabrary.net/cards/SEA011.webp"
         }
     },
     {
@@ -63,7 +63,7 @@
         "collector_number": "SEA012",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA012.webp"
+           "en": "https://content.fabrary.net/cards/SEA012.webp"
         }
     },
     {
@@ -73,7 +73,7 @@
         "collector_number": "SEA013",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA013.webp"
+           "en": "https://content.fabrary.net/cards/SEA013.webp"
         }
     },
     {
@@ -83,7 +83,7 @@
         "collector_number": "SEA014",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA014.webp"
+           "en": "https://content.fabrary.net/cards/SEA014.webp"
         }
     },
     {
@@ -93,7 +93,7 @@
         "collector_number": "SEA015",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA015.webp"
+           "en": "https://content.fabrary.net/cards/SEA015.webp"
         }
     },
     {
@@ -103,7 +103,7 @@
         "collector_number": "SEA016",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA016.webp"
+           "en": "https://content.fabrary.net/cards/SEA016.webp"
         }
     },
     {
@@ -113,7 +113,7 @@
         "collector_number": "SEA017",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA017.webp"
+           "en": "https://content.fabrary.net/cards/SEA017.webp"
         }
     },
     {
@@ -123,7 +123,7 @@
         "collector_number": "SEA018",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA018.webp"
+           "en": "https://content.fabrary.net/cards/SEA018.webp"
         }
     },
     {
@@ -133,7 +133,7 @@
         "collector_number": "SEA019",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA019.webp"
+           "en": "https://content.fabrary.net/cards/SEA019.webp"
         }
     },
     {
@@ -143,7 +143,7 @@
         "collector_number": "SEA020",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA020.webp"
+           "en": "https://content.fabrary.net/cards/SEA020.webp"
         }
     },
     {
@@ -153,7 +153,7 @@
         "collector_number": "SEA021",
         "type": "Mechanologist, Action, Cog, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA021.webp"
+           "en": "https://content.fabrary.net/cards/SEA021.webp"
         }
     },
     {
@@ -163,7 +163,7 @@
         "collector_number": "SEA022",
         "type": "Mechanologist, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA022.webp"
+           "en": "https://content.fabrary.net/cards/SEA022.webp"
         }
     },
     {
@@ -173,7 +173,7 @@
         "collector_number": "SEA023",
         "type": "Mechanologist, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA023.webp"
+           "en": "https://content.fabrary.net/cards/SEA023.webp"
         }
     },
     {
@@ -183,7 +183,7 @@
         "collector_number": "SEA024",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA024.webp"
+           "en": "https://content.fabrary.net/cards/SEA024.webp"
         }
     },
     {
@@ -193,7 +193,7 @@
         "collector_number": "SEA025",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA025.webp"
+           "en": "https://content.fabrary.net/cards/SEA025.webp"
         }
     },
     {
@@ -203,7 +203,7 @@
         "collector_number": "SEA026",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA026.webp"
+           "en": "https://content.fabrary.net/cards/SEA026.webp"
         }
     },
     {
@@ -213,7 +213,7 @@
         "collector_number": "SEA027",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA027.webp"
+           "en": "https://content.fabrary.net/cards/SEA027.webp"
         }
     },
     {
@@ -223,7 +223,7 @@
         "collector_number": "SEA028",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA028.webp"
+           "en": "https://content.fabrary.net/cards/SEA028.webp"
         }
     },
     {
@@ -233,7 +233,7 @@
         "collector_number": "SEA029",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA029.webp"
+           "en": "https://content.fabrary.net/cards/SEA029.webp"
         }
     },
     {
@@ -243,7 +243,7 @@
         "collector_number": "SEA030",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA030.webp"
+           "en": "https://content.fabrary.net/cards/SEA030.webp"
         }
     },
     {
@@ -253,7 +253,7 @@
         "collector_number": "SEA031",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA031.webp"
+           "en": "https://content.fabrary.net/cards/SEA031.webp"
         }
     },
     {
@@ -263,7 +263,7 @@
         "collector_number": "SEA032",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA032.webp"
+           "en": "https://content.fabrary.net/cards/SEA032.webp"
         }
     },
     {
@@ -273,7 +273,7 @@
         "collector_number": "SEA033",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA033.webp"
+           "en": "https://content.fabrary.net/cards/SEA033.webp"
         }
     },
     {
@@ -283,7 +283,7 @@
         "collector_number": "SEA034",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA034.webp"
+           "en": "https://content.fabrary.net/cards/SEA034.webp"
         }
     },
     {
@@ -293,7 +293,7 @@
         "collector_number": "SEA035",
         "type": "Mechanologist, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA035.webp"
+           "en": "https://content.fabrary.net/cards/SEA035.webp"
         }
     },
     {
@@ -303,7 +303,7 @@
         "collector_number": "SEA036",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA036.webp"
+           "en": "https://content.fabrary.net/cards/SEA036.webp"
         }
     },
     {
@@ -313,7 +313,7 @@
         "collector_number": "SEA037",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA037.webp"
+           "en": "https://content.fabrary.net/cards/SEA037.webp"
         }
     },
     {
@@ -323,7 +323,7 @@
         "collector_number": "SEA038",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA038.webp"
+           "en": "https://content.fabrary.net/cards/SEA038.webp"
         }
     },
     {
@@ -333,7 +333,7 @@
         "collector_number": "SEA039",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA039.webp"
+           "en": "https://content.fabrary.net/cards/SEA039.webp"
         }
     },
     {
@@ -343,7 +343,7 @@
         "collector_number": "SEA040",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA040.webp"
+           "en": "https://content.fabrary.net/cards/SEA040.webp"
         }
     },
     {
@@ -353,7 +353,7 @@
         "collector_number": "SEA041",
         "type": "Mechanologist, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA041.webp"
+           "en": "https://content.fabrary.net/cards/SEA041.webp"
         }
     },
     {
@@ -363,7 +363,7 @@
         "collector_number": "SEA046",
         "type": "Pirate, Necromancer, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA046.webp"
+           "en": "https://content.fabrary.net/cards/SEA046.webp"
         }
     },
     {
@@ -373,7 +373,7 @@
         "collector_number": "SEA047",
         "type": "Pirate, Necromancer, Defense Reaction",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA047.webp"
+           "en": "https://content.fabrary.net/cards/SEA047.webp"
         }
     },
     {
@@ -383,7 +383,7 @@
         "collector_number": "SEA048",
         "type": "Pirate, Necromancer, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA048.webp"
+           "en": "https://content.fabrary.net/cards/SEA048.webp"
         }
     },
     {
@@ -393,7 +393,7 @@
         "collector_number": "SEA049",
         "type": "Pirate, Necromancer, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA049.webp"
+           "en": "https://content.fabrary.net/cards/SEA049.webp"
         }
     },
     {
@@ -403,7 +403,7 @@
         "collector_number": "SEA050",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA050.webp"
+           "en": "https://content.fabrary.net/cards/SEA050.webp"
         }
     },
     {
@@ -413,7 +413,7 @@
         "collector_number": "SEA051",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA051.webp"
+           "en": "https://content.fabrary.net/cards/SEA051.webp"
         }
     },
     {
@@ -423,7 +423,7 @@
         "collector_number": "SEA052",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA052.webp"
+           "en": "https://content.fabrary.net/cards/SEA052.webp"
         }
     },
     {
@@ -433,7 +433,7 @@
         "collector_number": "SEA053",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA053.webp"
+           "en": "https://content.fabrary.net/cards/SEA053.webp"
         }
     },
     {
@@ -443,7 +443,7 @@
         "collector_number": "SEA054",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA054.webp"
+           "en": "https://content.fabrary.net/cards/SEA054.webp"
         }
     },
     {
@@ -453,7 +453,7 @@
         "collector_number": "SEA055",
         "type": "Pirate, Necromancer, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA055.webp"
+           "en": "https://content.fabrary.net/cards/SEA055.webp"
         }
     },
     {
@@ -463,7 +463,7 @@
         "collector_number": "SEA056",
         "type": "Pirate, Necromancer, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA056.webp"
+           "en": "https://content.fabrary.net/cards/SEA056.webp"
         }
     },
     {
@@ -473,7 +473,7 @@
         "collector_number": "SEA057",
         "type": "Pirate, Necromancer, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA057.webp"
+           "en": "https://content.fabrary.net/cards/SEA057.webp"
         }
     },
     {
@@ -483,7 +483,7 @@
         "collector_number": "SEA058",
         "type": "Pirate, Necromancer, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA058.webp"
+           "en": "https://content.fabrary.net/cards/SEA058.webp"
         }
     },
     {
@@ -493,7 +493,7 @@
         "collector_number": "SEA059",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA059.webp"
+           "en": "https://content.fabrary.net/cards/SEA059.webp"
         }
     },
     {
@@ -503,7 +503,7 @@
         "collector_number": "SEA060",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA060.webp"
+           "en": "https://content.fabrary.net/cards/SEA060.webp"
         }
     },
     {
@@ -513,7 +513,7 @@
         "collector_number": "SEA061",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA061.webp"
+           "en": "https://content.fabrary.net/cards/SEA061.webp"
         }
     },
     {
@@ -523,7 +523,7 @@
         "collector_number": "SEA062",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA062.webp"
+           "en": "https://content.fabrary.net/cards/SEA062.webp"
         }
     },
     {
@@ -533,7 +533,7 @@
         "collector_number": "SEA063",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA063.webp"
+           "en": "https://content.fabrary.net/cards/SEA063.webp"
         }
     },
     {
@@ -543,7 +543,7 @@
         "collector_number": "SEA064",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA064.webp"
+           "en": "https://content.fabrary.net/cards/SEA064.webp"
         }
     },
     {
@@ -553,7 +553,7 @@
         "collector_number": "SEA065",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA065.webp"
+           "en": "https://content.fabrary.net/cards/SEA065.webp"
         }
     },
     {
@@ -563,7 +563,7 @@
         "collector_number": "SEA066",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA066.webp"
+           "en": "https://content.fabrary.net/cards/SEA066.webp"
         }
     },
     {
@@ -573,7 +573,7 @@
         "collector_number": "SEA067",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA067.webp"
+           "en": "https://content.fabrary.net/cards/SEA067.webp"
         }
     },
     {
@@ -583,7 +583,7 @@
         "collector_number": "SEA068",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA068.webp"
+           "en": "https://content.fabrary.net/cards/SEA068.webp"
         }
     },
     {
@@ -593,7 +593,7 @@
         "collector_number": "SEA069",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA069.webp"
+           "en": "https://content.fabrary.net/cards/SEA069.webp"
         }
     },
     {
@@ -603,7 +603,7 @@
         "collector_number": "SEA070",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA070.webp"
+           "en": "https://content.fabrary.net/cards/SEA070.webp"
         }
     },
     {
@@ -613,7 +613,7 @@
         "collector_number": "SEA071",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA071.webp"
+           "en": "https://content.fabrary.net/cards/SEA071.webp"
         }
     },
     {
@@ -623,7 +623,7 @@
         "collector_number": "SEA072",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA072.webp"
+           "en": "https://content.fabrary.net/cards/SEA072.webp"
         }
     },
     {
@@ -633,7 +633,7 @@
         "collector_number": "SEA073",
         "type": "Pirate, Necromancer, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA073.webp"
+           "en": "https://content.fabrary.net/cards/SEA073.webp"
         }
     },
     {
@@ -643,7 +643,7 @@
         "collector_number": "SEA074",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA074.webp"
+           "en": "https://content.fabrary.net/cards/SEA074.webp"
         }
     },
     {
@@ -653,7 +653,7 @@
         "collector_number": "SEA075",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA075.webp"
+           "en": "https://content.fabrary.net/cards/SEA075.webp"
         }
     },
     {
@@ -663,7 +663,7 @@
         "collector_number": "SEA076",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA076.webp"
+           "en": "https://content.fabrary.net/cards/SEA076.webp"
         }
     },
     {
@@ -673,7 +673,7 @@
         "collector_number": "SEA077",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA077.webp"
+           "en": "https://content.fabrary.net/cards/SEA077.webp"
         }
     },
     {
@@ -683,7 +683,7 @@
         "collector_number": "SEA078",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA078.webp"
+           "en": "https://content.fabrary.net/cards/SEA078.webp"
         }
     },
     {
@@ -693,7 +693,7 @@
         "collector_number": "SEA079",
         "type": "Pirate, Necromancer, Action, Ally",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA079.webp"
+           "en": "https://content.fabrary.net/cards/SEA079.webp"
         }
     },
     {
@@ -703,7 +703,7 @@
         "collector_number": "SEA081",
         "type": "Necromancer, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA081.webp"
+           "en": "https://content.fabrary.net/cards/SEA081.webp"
         }
     },
     {
@@ -713,7 +713,7 @@
         "collector_number": "SEA085",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA085.webp"
+           "en": "https://content.fabrary.net/cards/SEA085.webp"
         }
     },
     {
@@ -723,7 +723,7 @@
         "collector_number": "SEA086",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA086.webp"
+           "en": "https://content.fabrary.net/cards/SEA086.webp"
         }
     },
     {
@@ -733,7 +733,7 @@
         "collector_number": "SEA087",
         "type": "Pirate, Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA087.webp"
+           "en": "https://content.fabrary.net/cards/SEA087.webp"
         }
     },
     {
@@ -743,7 +743,7 @@
         "collector_number": "SEA088",
         "type": "Pirate, Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA088.webp"
+           "en": "https://content.fabrary.net/cards/SEA088.webp"
         }
     },
     {
@@ -753,7 +753,7 @@
         "collector_number": "SEA089",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA089.webp"
+           "en": "https://content.fabrary.net/cards/SEA089.webp"
         }
     },
     {
@@ -763,7 +763,7 @@
         "collector_number": "SEA090",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA090.webp"
+           "en": "https://content.fabrary.net/cards/SEA090.webp"
         }
     },
     {
@@ -773,7 +773,7 @@
         "collector_number": "SEA091",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA091.webp"
+           "en": "https://content.fabrary.net/cards/SEA091.webp"
         }
     },
     {
@@ -783,7 +783,7 @@
         "collector_number": "SEA092",
         "type": "Pirate, Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA092.webp"
+           "en": "https://content.fabrary.net/cards/SEA092.webp"
         }
     },
     {
@@ -793,7 +793,7 @@
         "collector_number": "SEA096",
         "type": "Ranger, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA096.webp"
+           "en": "https://content.fabrary.net/cards/SEA096.webp"
         }
     },
     {
@@ -803,7 +803,7 @@
         "collector_number": "SEA097",
         "type": "Ranger, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA097.webp"
+           "en": "https://content.fabrary.net/cards/SEA097.webp"
         }
     },
     {
@@ -813,7 +813,7 @@
         "collector_number": "SEA098",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA098.webp"
+           "en": "https://content.fabrary.net/cards/SEA098.webp"
         }
     },
     {
@@ -823,7 +823,7 @@
         "collector_number": "SEA099",
         "type": "Ranger, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA099.webp"
+           "en": "https://content.fabrary.net/cards/SEA099.webp"
         }
     },
     {
@@ -833,7 +833,7 @@
         "collector_number": "SEA100",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA100.webp"
+           "en": "https://content.fabrary.net/cards/SEA100.webp"
         }
     },
     {
@@ -843,7 +843,7 @@
         "collector_number": "SEA101",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA101.webp"
+           "en": "https://content.fabrary.net/cards/SEA101.webp"
         }
     },
     {
@@ -853,7 +853,7 @@
         "collector_number": "SEA102",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA102.webp"
+           "en": "https://content.fabrary.net/cards/SEA102.webp"
         }
     },
     {
@@ -863,7 +863,7 @@
         "collector_number": "SEA103",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA103.webp"
+           "en": "https://content.fabrary.net/cards/SEA103.webp"
         }
     },
     {
@@ -873,7 +873,7 @@
         "collector_number": "SEA104",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA104.webp"
+           "en": "https://content.fabrary.net/cards/SEA104.webp"
         }
     },
     {
@@ -883,7 +883,7 @@
         "collector_number": "SEA105",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA105.webp"
+           "en": "https://content.fabrary.net/cards/SEA105.webp"
         }
     },
     {
@@ -893,7 +893,7 @@
         "collector_number": "SEA106",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA106.webp"
+           "en": "https://content.fabrary.net/cards/SEA106.webp"
         }
     },
     {
@@ -903,7 +903,7 @@
         "collector_number": "SEA107",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA107.webp"
+           "en": "https://content.fabrary.net/cards/SEA107.webp"
         }
     },
     {
@@ -913,7 +913,7 @@
         "collector_number": "SEA108",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA108.webp"
+           "en": "https://content.fabrary.net/cards/SEA108.webp"
         }
     },
     {
@@ -923,7 +923,7 @@
         "collector_number": "SEA109",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA109.webp"
+           "en": "https://content.fabrary.net/cards/SEA109.webp"
         }
     },
     {
@@ -933,7 +933,7 @@
         "collector_number": "SEA110",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA110.webp"
+           "en": "https://content.fabrary.net/cards/SEA110.webp"
         }
     },
     {
@@ -943,7 +943,7 @@
         "collector_number": "SEA111",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA111.webp"
+           "en": "https://content.fabrary.net/cards/SEA111.webp"
         }
     },
     {
@@ -953,7 +953,7 @@
         "collector_number": "SEA112",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA112.webp"
+           "en": "https://content.fabrary.net/cards/SEA112.webp"
         }
     },
     {
@@ -963,7 +963,7 @@
         "collector_number": "SEA113",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA113.webp"
+           "en": "https://content.fabrary.net/cards/SEA113.webp"
         }
     },
     {
@@ -973,7 +973,7 @@
         "collector_number": "SEA114",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA114.webp"
+           "en": "https://content.fabrary.net/cards/SEA114.webp"
         }
     },
     {
@@ -983,7 +983,7 @@
         "collector_number": "SEA115",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA115.webp"
+           "en": "https://content.fabrary.net/cards/SEA115.webp"
         }
     },
     {
@@ -993,7 +993,7 @@
         "collector_number": "SEA116",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA116.webp"
+           "en": "https://content.fabrary.net/cards/SEA116.webp"
         }
     },
     {
@@ -1003,7 +1003,7 @@
         "collector_number": "SEA117",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA117.webp"
+           "en": "https://content.fabrary.net/cards/SEA117.webp"
         }
     },
     {
@@ -1013,7 +1013,7 @@
         "collector_number": "SEA118",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA118.webp"
+           "en": "https://content.fabrary.net/cards/SEA118.webp"
         }
     },
     {
@@ -1023,7 +1023,7 @@
         "collector_number": "SEA119",
         "type": "Ranger, Action, Arrow, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA119.webp"
+           "en": "https://content.fabrary.net/cards/SEA119.webp"
         }
     },
     {
@@ -1033,7 +1033,7 @@
         "collector_number": "SEA120",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA120.webp"
+           "en": "https://content.fabrary.net/cards/SEA120.webp"
         }
     },
     {
@@ -1043,7 +1043,7 @@
         "collector_number": "SEA121",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA121.webp"
+           "en": "https://content.fabrary.net/cards/SEA121.webp"
         }
     },
     {
@@ -1053,7 +1053,7 @@
         "collector_number": "SEA122",
         "type": "Ranger, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA122.webp"
+           "en": "https://content.fabrary.net/cards/SEA122.webp"
         }
     },
     {
@@ -1063,7 +1063,7 @@
         "collector_number": "SEA123",
         "type": "Pirate, Thief, Hero, Young",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA123.webp"
+           "en": "https://content.fabrary.net/cards/SEA123.webp"
         }
     },
     {
@@ -1073,7 +1073,7 @@
         "collector_number": "SEA126",
         "type": "Pirate, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA126.webp"
+           "en": "https://content.fabrary.net/cards/SEA126.webp"
         }
     },
     {
@@ -1083,7 +1083,7 @@
         "collector_number": "SEA127",
         "type": "Pirate, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA127.webp"
+           "en": "https://content.fabrary.net/cards/SEA127.webp"
         }
     },
     {
@@ -1093,7 +1093,7 @@
         "collector_number": "SEA128",
         "type": "Pirate, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA128.webp"
+           "en": "https://content.fabrary.net/cards/SEA128.webp"
         }
     },
     {
@@ -1103,7 +1103,7 @@
         "collector_number": "SEA129",
         "type": "Pirate, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA129.webp"
+           "en": "https://content.fabrary.net/cards/SEA129.webp"
         }
     },
     {
@@ -1113,7 +1113,7 @@
         "collector_number": "SEA130",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA130.webp"
+           "en": "https://content.fabrary.net/cards/SEA130.webp"
         }
     },
     {
@@ -1123,7 +1123,7 @@
         "collector_number": "SEA131",
         "type": "Pirate, Action, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA131.webp"
+           "en": "https://content.fabrary.net/cards/SEA131.webp"
         }
     },
     {
@@ -1133,7 +1133,7 @@
         "collector_number": "SEA132",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA132.webp"
+           "en": "https://content.fabrary.net/cards/SEA132.webp"
         }
     },
     {
@@ -1143,7 +1143,7 @@
         "collector_number": "SEA133",
         "type": "Pirate, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA133.webp"
+           "en": "https://content.fabrary.net/cards/SEA133.webp"
         }
     },
     {
@@ -1153,7 +1153,7 @@
         "collector_number": "SEA134",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA134.webp"
+           "en": "https://content.fabrary.net/cards/SEA134.webp"
         }
     },
     {
@@ -1163,7 +1163,7 @@
         "collector_number": "SEA135",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA135.webp"
+           "en": "https://content.fabrary.net/cards/SEA135.webp"
         }
     },
     {
@@ -1173,7 +1173,7 @@
         "collector_number": "SEA136",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA136.webp"
+           "en": "https://content.fabrary.net/cards/SEA136.webp"
         }
     },
     {
@@ -1183,7 +1183,7 @@
         "collector_number": "SEA137",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA137.webp"
+           "en": "https://content.fabrary.net/cards/SEA137.webp"
         }
     },
     {
@@ -1193,7 +1193,7 @@
         "collector_number": "SEA138",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA138.webp"
+           "en": "https://content.fabrary.net/cards/SEA138.webp"
         }
     },
     {
@@ -1203,7 +1203,7 @@
         "collector_number": "SEA139",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA139.webp"
+           "en": "https://content.fabrary.net/cards/SEA139.webp"
         }
     },
     {
@@ -1213,7 +1213,7 @@
         "collector_number": "SEA140",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA140.webp"
+           "en": "https://content.fabrary.net/cards/SEA140.webp"
         }
     },
     {
@@ -1223,7 +1223,7 @@
         "collector_number": "SEA141",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA141.webp"
+           "en": "https://content.fabrary.net/cards/SEA141.webp"
         }
     },
     {
@@ -1233,7 +1233,7 @@
         "collector_number": "SEA142",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA142.webp"
+           "en": "https://content.fabrary.net/cards/SEA142.webp"
         }
     },
     {
@@ -1243,7 +1243,7 @@
         "collector_number": "SEA143",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA143.webp"
+           "en": "https://content.fabrary.net/cards/SEA143.webp"
         }
     },
     {
@@ -1253,7 +1253,7 @@
         "collector_number": "SEA144",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA144.webp"
+           "en": "https://content.fabrary.net/cards/SEA144.webp"
         }
     },
     {
@@ -1263,7 +1263,7 @@
         "collector_number": "SEA145",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA145.webp"
+           "en": "https://content.fabrary.net/cards/SEA145.webp"
         }
     },
     {
@@ -1273,7 +1273,7 @@
         "collector_number": "SEA146",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA146.webp"
+           "en": "https://content.fabrary.net/cards/SEA146.webp"
         }
     },
     {
@@ -1283,7 +1283,7 @@
         "collector_number": "SEA147",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA147.webp"
+           "en": "https://content.fabrary.net/cards/SEA147.webp"
         }
     },
     {
@@ -1293,7 +1293,7 @@
         "collector_number": "SEA148",
         "type": "Pirate, Action, Aura",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA148.webp"
+           "en": "https://content.fabrary.net/cards/SEA148.webp"
         }
     },
     {
@@ -1303,7 +1303,7 @@
         "collector_number": "SEA149",
         "type": "Pirate, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA149.webp"
+           "en": "https://content.fabrary.net/cards/SEA149.webp"
         }
     },
     {
@@ -1313,7 +1313,7 @@
         "collector_number": "SEA150",
         "type": "Pirate, Instant",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA150.webp"
+           "en": "https://content.fabrary.net/cards/SEA150.webp"
         }
     },
     {
@@ -1323,7 +1323,7 @@
         "collector_number": "SEA151",
         "type": "Pirate, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA151.webp"
+           "en": "https://content.fabrary.net/cards/SEA151.webp"
         }
     },
     {
@@ -1333,7 +1333,7 @@
         "collector_number": "SEA152",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA152.webp"
+           "en": "https://content.fabrary.net/cards/SEA152.webp"
         }
     },
     {
@@ -1343,7 +1343,7 @@
         "collector_number": "SEA153",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA153.webp"
+           "en": "https://content.fabrary.net/cards/SEA153.webp"
         }
     },
     {
@@ -1353,7 +1353,7 @@
         "collector_number": "SEA154",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA154.webp"
+           "en": "https://content.fabrary.net/cards/SEA154.webp"
         }
     },
     {
@@ -1363,7 +1363,7 @@
         "collector_number": "SEA155",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA155.webp"
+           "en": "https://content.fabrary.net/cards/SEA155.webp"
         }
     },
     {
@@ -1373,7 +1373,7 @@
         "collector_number": "SEA156",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA156.webp"
+           "en": "https://content.fabrary.net/cards/SEA156.webp"
         }
     },
     {
@@ -1383,7 +1383,7 @@
         "collector_number": "SEA157",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA157.webp"
+           "en": "https://content.fabrary.net/cards/SEA157.webp"
         }
     },
     {
@@ -1393,7 +1393,7 @@
         "collector_number": "SEA158",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA158.webp"
+           "en": "https://content.fabrary.net/cards/SEA158.webp"
         }
     },
     {
@@ -1403,7 +1403,7 @@
         "collector_number": "SEA159",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA159.webp"
+           "en": "https://content.fabrary.net/cards/SEA159.webp"
         }
     },
     {
@@ -1413,7 +1413,7 @@
         "collector_number": "SEA160",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA160.webp"
+           "en": "https://content.fabrary.net/cards/SEA160.webp"
         }
     },
     {
@@ -1423,7 +1423,7 @@
         "collector_number": "SEA161",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA161.webp"
+           "en": "https://content.fabrary.net/cards/SEA161.webp"
         }
     },
     {
@@ -1433,7 +1433,7 @@
         "collector_number": "SEA162",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA162.webp"
+           "en": "https://content.fabrary.net/cards/SEA162.webp"
         }
     },
     {
@@ -1443,7 +1443,7 @@
         "collector_number": "SEA163",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA163.webp"
+           "en": "https://content.fabrary.net/cards/SEA163.webp"
         }
     },
     {
@@ -1453,7 +1453,7 @@
         "collector_number": "SEA164",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA164.webp"
+           "en": "https://content.fabrary.net/cards/SEA164.webp"
         }
     },
     {
@@ -1463,7 +1463,7 @@
         "collector_number": "SEA165",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA165.webp"
+           "en": "https://content.fabrary.net/cards/SEA165.webp"
         }
     },
     {
@@ -1473,7 +1473,7 @@
         "collector_number": "SEA166",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA166.webp"
+           "en": "https://content.fabrary.net/cards/SEA166.webp"
         }
     },
     {
@@ -1483,7 +1483,7 @@
         "collector_number": "SEA167",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA167.webp"
+           "en": "https://content.fabrary.net/cards/SEA167.webp"
         }
     },
     {
@@ -1493,7 +1493,7 @@
         "collector_number": "SEA168",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA168.webp"
+           "en": "https://content.fabrary.net/cards/SEA168.webp"
         }
     },
     {
@@ -1503,7 +1503,7 @@
         "collector_number": "SEA169",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA169.webp"
+           "en": "https://content.fabrary.net/cards/SEA169.webp"
         }
     },
     {
@@ -1513,7 +1513,7 @@
         "collector_number": "SEA170",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA170.webp"
+           "en": "https://content.fabrary.net/cards/SEA170.webp"
         }
     },
     {
@@ -1523,7 +1523,7 @@
         "collector_number": "SEA171",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA171.webp"
+           "en": "https://content.fabrary.net/cards/SEA171.webp"
         }
     },
     {
@@ -1533,7 +1533,7 @@
         "collector_number": "SEA172",
         "type": "Pirate, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA172.webp"
+           "en": "https://content.fabrary.net/cards/SEA172.webp"
         }
     },
     {
@@ -1543,7 +1543,7 @@
         "collector_number": "SEA173",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA173.webp"
+           "en": "https://content.fabrary.net/cards/SEA173.webp"
         }
     },
     {
@@ -1553,7 +1553,7 @@
         "collector_number": "SEA174",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA174.webp"
+           "en": "https://content.fabrary.net/cards/SEA174.webp"
         }
     },
     {
@@ -1563,7 +1563,7 @@
         "collector_number": "SEA175",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA175.webp"
+           "en": "https://content.fabrary.net/cards/SEA175.webp"
         }
     },
     {
@@ -1573,7 +1573,7 @@
         "collector_number": "SEA176",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA176.webp"
+           "en": "https://content.fabrary.net/cards/SEA176.webp"
         }
     },
     {
@@ -1583,7 +1583,7 @@
         "collector_number": "SEA177",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA177.webp"
+           "en": "https://content.fabrary.net/cards/SEA177.webp"
         }
     },
     {
@@ -1593,7 +1593,7 @@
         "collector_number": "SEA178",
         "type": "Pirate, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA178.webp"
+           "en": "https://content.fabrary.net/cards/SEA178.webp"
         }
     },
     {
@@ -1603,7 +1603,7 @@
         "collector_number": "SEA179",
         "type": "Generic, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA179.webp"
+           "en": "https://content.fabrary.net/cards/SEA179.webp"
         }
     },
     {
@@ -1613,7 +1613,7 @@
         "collector_number": "SEA180",
         "type": "Generic, Equipment, Head",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA180.webp"
+           "en": "https://content.fabrary.net/cards/SEA180.webp"
         }
     },
     {
@@ -1623,7 +1623,7 @@
         "collector_number": "SEA181",
         "type": "Generic, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA181.webp"
+           "en": "https://content.fabrary.net/cards/SEA181.webp"
         }
     },
     {
@@ -1633,7 +1633,7 @@
         "collector_number": "SEA182",
         "type": "Generic, Equipment, Chest",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA182.webp"
+           "en": "https://content.fabrary.net/cards/SEA182.webp"
         }
     },
     {
@@ -1643,7 +1643,7 @@
         "collector_number": "SEA183",
         "type": "Generic, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA183.webp"
+           "en": "https://content.fabrary.net/cards/SEA183.webp"
         }
     },
     {
@@ -1653,7 +1653,7 @@
         "collector_number": "SEA184",
         "type": "Generic, Equipment, Arms",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA184.webp"
+           "en": "https://content.fabrary.net/cards/SEA184.webp"
         }
     },
     {
@@ -1663,7 +1663,7 @@
         "collector_number": "SEA185",
         "type": "Generic, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA185.webp"
+           "en": "https://content.fabrary.net/cards/SEA185.webp"
         }
     },
     {
@@ -1673,7 +1673,7 @@
         "collector_number": "SEA186",
         "type": "Generic, Equipment, Legs",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA186.webp"
+           "en": "https://content.fabrary.net/cards/SEA186.webp"
         }
     },
     {
@@ -1683,7 +1683,7 @@
         "collector_number": "SEA187",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA187.webp"
+           "en": "https://content.fabrary.net/cards/SEA187.webp"
         }
     },
     {
@@ -1693,7 +1693,7 @@
         "collector_number": "SEA188",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA188.webp"
+           "en": "https://content.fabrary.net/cards/SEA188.webp"
         }
     },
     {
@@ -1703,7 +1703,7 @@
         "collector_number": "SEA189",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA189.webp"
+           "en": "https://content.fabrary.net/cards/SEA189.webp"
         }
     },
     {
@@ -1713,7 +1713,7 @@
         "collector_number": "SEA190",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA190.webp"
+           "en": "https://content.fabrary.net/cards/SEA190.webp"
         }
     },
     {
@@ -1723,7 +1723,7 @@
         "collector_number": "SEA191",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA191.webp"
+           "en": "https://content.fabrary.net/cards/SEA191.webp"
         }
     },
     {
@@ -1733,7 +1733,7 @@
         "collector_number": "SEA192",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA192.webp"
+           "en": "https://content.fabrary.net/cards/SEA192.webp"
         }
     },
     {
@@ -1743,7 +1743,7 @@
         "collector_number": "SEA193",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA193.webp"
+           "en": "https://content.fabrary.net/cards/SEA193.webp"
         }
     },
     {
@@ -1753,7 +1753,7 @@
         "collector_number": "SEA194",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA194.webp"
+           "en": "https://content.fabrary.net/cards/SEA194.webp"
         }
     },
     {
@@ -1763,7 +1763,7 @@
         "collector_number": "SEA195",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA195.webp"
+           "en": "https://content.fabrary.net/cards/SEA195.webp"
         }
     },
     {
@@ -1773,7 +1773,7 @@
         "collector_number": "SEA196",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA196.webp"
+           "en": "https://content.fabrary.net/cards/SEA196.webp"
         }
     },
     {
@@ -1783,7 +1783,7 @@
         "collector_number": "SEA197",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA197.webp"
+           "en": "https://content.fabrary.net/cards/SEA197.webp"
         }
     },
     {
@@ -1793,7 +1793,7 @@
         "collector_number": "SEA198",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA198.webp"
+           "en": "https://content.fabrary.net/cards/SEA198.webp"
         }
     },
     {
@@ -1803,7 +1803,7 @@
         "collector_number": "SEA199",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA199.webp"
+           "en": "https://content.fabrary.net/cards/SEA199.webp"
         }
     },
     {
@@ -1813,7 +1813,7 @@
         "collector_number": "SEA200",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA200.webp"
+           "en": "https://content.fabrary.net/cards/SEA200.webp"
         }
     },
     {
@@ -1823,7 +1823,7 @@
         "collector_number": "SEA201",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA201.webp"
+           "en": "https://content.fabrary.net/cards/SEA201.webp"
         }
     },
     {
@@ -1833,7 +1833,7 @@
         "collector_number": "SEA202",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA202.webp"
+           "en": "https://content.fabrary.net/cards/SEA202.webp"
         }
     },
     {
@@ -1843,7 +1843,7 @@
         "collector_number": "SEA203",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA203.webp"
+           "en": "https://content.fabrary.net/cards/SEA203.webp"
         }
     },
     {
@@ -1853,7 +1853,7 @@
         "collector_number": "SEA204",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA204.webp"
+           "en": "https://content.fabrary.net/cards/SEA204.webp"
         }
     },
     {
@@ -1863,7 +1863,7 @@
         "collector_number": "SEA205",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA205.webp"
+           "en": "https://content.fabrary.net/cards/SEA205.webp"
         }
     },
     {
@@ -1873,7 +1873,7 @@
         "collector_number": "SEA206",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA206.webp"
+           "en": "https://content.fabrary.net/cards/SEA206.webp"
         }
     },
     {
@@ -1883,7 +1883,7 @@
         "collector_number": "SEA207",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA207.webp"
+           "en": "https://content.fabrary.net/cards/SEA207.webp"
         }
     },
     {
@@ -1893,7 +1893,7 @@
         "collector_number": "SEA208",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA208.webp"
+           "en": "https://content.fabrary.net/cards/SEA208.webp"
         }
     },
     {
@@ -1903,7 +1903,7 @@
         "collector_number": "SEA209",
         "type": "Generic, Action, Item",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA209.webp"
+           "en": "https://content.fabrary.net/cards/SEA209.webp"
         }
     },
     {
@@ -1913,7 +1913,7 @@
         "collector_number": "SEA210",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA210.webp"
+           "en": "https://content.fabrary.net/cards/SEA210.webp"
         }
     },
     {
@@ -1923,7 +1923,7 @@
         "collector_number": "SEA211",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA211.webp"
+           "en": "https://content.fabrary.net/cards/SEA211.webp"
         }
     },
     {
@@ -1933,7 +1933,7 @@
         "collector_number": "SEA212",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA212.webp"
+           "en": "https://content.fabrary.net/cards/SEA212.webp"
         }
     },
     {
@@ -1943,7 +1943,7 @@
         "collector_number": "SEA213",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA213.webp"
+           "en": "https://content.fabrary.net/cards/SEA213.webp"
         }
     },
     {
@@ -1953,7 +1953,7 @@
         "collector_number": "SEA214",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA214.webp"
+           "en": "https://content.fabrary.net/cards/SEA214.webp"
         }
     },
     {
@@ -1963,7 +1963,7 @@
         "collector_number": "SEA215",
         "type": "Generic, Resource",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA215.webp"
+           "en": "https://content.fabrary.net/cards/SEA215.webp"
         }
     },
     {
@@ -1973,7 +1973,7 @@
         "collector_number": "SEA216",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA216.webp"
+           "en": "https://content.fabrary.net/cards/SEA216.webp"
         }
     },
     {
@@ -1983,7 +1983,7 @@
         "collector_number": "SEA217",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA217.webp"
+           "en": "https://content.fabrary.net/cards/SEA217.webp"
         }
     },
     {
@@ -1993,7 +1993,7 @@
         "collector_number": "SEA218",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA218.webp"
+           "en": "https://content.fabrary.net/cards/SEA218.webp"
         }
     },
     {
@@ -2003,7 +2003,7 @@
         "collector_number": "SEA219",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA219.webp"
+           "en": "https://content.fabrary.net/cards/SEA219.webp"
         }
     },
     {
@@ -2013,7 +2013,7 @@
         "collector_number": "SEA220",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA220.webp"
+           "en": "https://content.fabrary.net/cards/SEA220.webp"
         }
     },
     {
@@ -2023,7 +2023,7 @@
         "collector_number": "SEA221",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA221.webp"
+           "en": "https://content.fabrary.net/cards/SEA221.webp"
         }
     },
     {
@@ -2033,7 +2033,7 @@
         "collector_number": "SEA222",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA222.webp"
+           "en": "https://content.fabrary.net/cards/SEA222.webp"
         }
     },
     {
@@ -2043,7 +2043,7 @@
         "collector_number": "SEA223",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA223.webp"
+           "en": "https://content.fabrary.net/cards/SEA223.webp"
         }
     },
     {
@@ -2053,7 +2053,7 @@
         "collector_number": "SEA224",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA224.webp"
+           "en": "https://content.fabrary.net/cards/SEA224.webp"
         }
     },
     {
@@ -2063,7 +2063,7 @@
         "collector_number": "SEA225",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA225.webp"
+           "en": "https://content.fabrary.net/cards/SEA225.webp"
         }
     },
     {
@@ -2073,7 +2073,7 @@
         "collector_number": "SEA226",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA226.webp"
+           "en": "https://content.fabrary.net/cards/SEA226.webp"
         }
     },
     {
@@ -2083,7 +2083,7 @@
         "collector_number": "SEA227",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA227.webp"
+           "en": "https://content.fabrary.net/cards/SEA227.webp"
         }
     },
     {
@@ -2093,7 +2093,7 @@
         "collector_number": "SEA228",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA228.webp"
+           "en": "https://content.fabrary.net/cards/SEA228.webp"
         }
     },
     {
@@ -2103,7 +2103,7 @@
         "collector_number": "SEA229",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA229.webp"
+           "en": "https://content.fabrary.net/cards/SEA229.webp"
         }
     },
     {
@@ -2113,7 +2113,7 @@
         "collector_number": "SEA230",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA230.webp"
+           "en": "https://content.fabrary.net/cards/SEA230.webp"
         }
     },
     {
@@ -2123,7 +2123,7 @@
         "collector_number": "SEA231",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA231.webp"
+           "en": "https://content.fabrary.net/cards/SEA231.webp"
         }
     },
     {
@@ -2133,7 +2133,7 @@
         "collector_number": "SEA232",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA232.webp"
+           "en": "https://content.fabrary.net/cards/SEA232.webp"
         }
     },
     {
@@ -2143,7 +2143,7 @@
         "collector_number": "SEA233",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA233.webp"
+           "en": "https://content.fabrary.net/cards/SEA233.webp"
         }
     },
     {
@@ -2153,7 +2153,7 @@
         "collector_number": "SEA234",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA234.webp"
+           "en": "https://content.fabrary.net/cards/SEA234.webp"
         }
     },
     {
@@ -2163,7 +2163,7 @@
         "collector_number": "SEA235",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA235.webp"
+           "en": "https://content.fabrary.net/cards/SEA235.webp"
         }
     },
     {
@@ -2173,7 +2173,7 @@
         "collector_number": "SEA236",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA236.webp"
+           "en": "https://content.fabrary.net/cards/SEA236.webp"
         }
     },
     {
@@ -2183,7 +2183,7 @@
         "collector_number": "SEA237",
         "type": "Generic, Action, Attack",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA237.webp"
+           "en": "https://content.fabrary.net/cards/SEA237.webp"
         }
     },
     {
@@ -2193,7 +2193,7 @@
         "collector_number": "SEA238",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA238.webp"
+           "en": "https://content.fabrary.net/cards/SEA238.webp"
         }
     },
     {
@@ -2203,7 +2203,7 @@
         "collector_number": "SEA239",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA239.webp"
+           "en": "https://content.fabrary.net/cards/SEA239.webp"
         }
     },
     {
@@ -2213,7 +2213,7 @@
         "collector_number": "SEA240",
         "type": "Generic, Action",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA240.webp"
+           "en": "https://content.fabrary.net/cards/SEA240.webp"
         }
     },
     {
@@ -2223,7 +2223,7 @@
         "collector_number": "SEA241",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA241.webp"
+           "en": "https://content.fabrary.net/cards/SEA241.webp"
         }
     },
     {
@@ -2233,7 +2233,7 @@
         "collector_number": "SEA242",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA242.webp"
+           "en": "https://content.fabrary.net/cards/SEA242.webp"
         }
     },
     {
@@ -2243,7 +2243,7 @@
         "collector_number": "SEA243",
         "type": "Generic, Block",
         "image_uris": {
-           "en": "https://prod-content.fabrary.io/cards/SEA243.webp"
+           "en": "https://content.fabrary.net/cards/SEA243.webp"
         }
     },
 ]
