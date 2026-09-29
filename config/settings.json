@@ -1,5 +1,65 @@
 {
     "sets": {
+        "IAR": {
+            "name": "IAR Draft",
+            "decks_file": "_draft_data/IAR/IAR_decks.txt",
+            "draft_files": [
+                {
+                    "path": "_draft_data/IAR/IAR_draft_V1.txt",
+                    "date": "2026-01-01 00:00:00"
+                },
+                {
+                    "path": "_draft_data/IAR/IAR_draft_V2.txt",
+                    "date": "2026-09-25 15:00:00"
+                }
+            ],
+            "heroes": {
+                "Levia": {
+                    "color": "#DC143C",
+                    "allowed_types": [
+                        "Brute",
+                        "Shadow",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Runeblade",
+                        "Necromancer"
+                    ]
+                },
+                "Malice": {
+                    "color": "#20C070",
+                    "allowed_types": [
+                        "Necromancer",
+                        "Shadow",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Brute",
+                        "Runeblade"
+                    ]
+                },
+                "Viserai, Between Worlds": {
+                    "color": "#6225D1",
+                    "allowed_types": [
+                        "Runeblade",
+                        "Shadow",
+                        "Generic"
+                    ],
+                    "disallowed_types": [
+                        "Brute",
+                        "Necromancer"
+                    ]
+                }
+            },
+            "weapons": [
+                "Hell Hammer",
+                "Hex Gauntlet",
+                "Vox Necropolis",
+                "Appalling Bearers",
+                "Seven Sin Nebula",
+                "Grasp of the Darknight"
+            ]
+        },
         "OMN": {
             "name": "OMN Draft",
             "decks_file": "_draft_data/OMN/OMN_decks.txt",
