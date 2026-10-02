@@ -5055,3 +5055,1019 @@ deck_id,hero,date,card_name,count,is_equipment
 162,Levia,2026-09-28T19:32:29,Dark Arcanite Boots,1,1
 162,Levia,2026-09-28T19:32:29,Path of Repentance,1,1
 162,Levia,2026-09-28T19:32:29,Robe of Repentance,1,1
+163,Malice,2026-09-28T22:53:43,Bone Mass (red),1,0
+163,Malice,2026-09-28T22:53:43,Dam the Shadowake (red),1,0
+163,Malice,2026-09-28T22:53:43,Malignant Migration (red),1,0
+163,Malice,2026-09-28T22:53:43,Restless Corporal (red),1,0
+163,Malice,2026-09-28T22:53:43,Restless Outlaw (red),1,0
+163,Malice,2026-09-28T22:53:43,Restless Quartermaster (red),1,0
+163,Malice,2026-09-28T22:53:43,Restless Steed (red),3,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Ripper (red),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Strength (red),2,0
+163,Malice,2026-09-28T22:53:43,Bone Mass (yellow),2,0
+163,Malice,2026-09-28T22:53:43,Commit to Corruption (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Dam the Shadowake (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Mutual Sacrifice (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Ominous Toll (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Bloodhound (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Ripper (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Swiftness (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Void Wraith (yellow),1,0
+163,Malice,2026-09-28T22:53:43,Battle Prep (blue),1,0
+163,Malice,2026-09-28T22:53:43,Bonded Burial (blue),1,0
+163,Malice,2026-09-28T22:53:43,Bone Mass (blue),1,0
+163,Malice,2026-09-28T22:53:43,Corporeal Chasm (blue),1,0
+163,Malice,2026-09-28T22:53:43,Dam the Shadowake (blue),1,0
+163,Malice,2026-09-28T22:53:43,Ghostly Visit (blue),1,0
+163,Malice,2026-09-28T22:53:43,Mark of Ushering (blue),1,0
+163,Malice,2026-09-28T22:53:43,Pull from Beyond (blue),1,0
+163,Malice,2026-09-28T22:53:43,Seek Horizon (blue),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Bloodhound (blue),1,0
+163,Malice,2026-09-28T22:53:43,Shadowrealm Solace (blue),1,0
+163,Malice,2026-09-28T22:53:43,Step through Realms (blue),1,0
+163,Malice,2026-09-28T22:53:43,Void Wraith (blue),1,0
+163,Malice,2026-09-28T22:53:43,Whispers Within (blue),1,0
+163,Malice,2026-09-28T22:53:43,Grille of Repentance,1,1
+163,Malice,2026-09-28T22:53:43,Path of Repentance,1,1
+164,Levia,2026-09-29T00:35:30,Beckoning Hunger (red),1,0
+164,Levia,2026-09-29T00:35:30,Corporeal Chasm (red),2,0
+164,Levia,2026-09-29T00:35:30,Dam the Shadowake (red),1,0
+164,Levia,2026-09-29T00:35:30,Feasting Shadowbeast (red),1,0
+164,Levia,2026-09-29T00:35:30,Gorging Shadowbeast (red),2,0
+164,Levia,2026-09-29T00:35:30,Rise to the Challenge (red),1,0
+164,Levia,2026-09-29T00:35:30,Rocktop Bellow (red),1,0
+164,Levia,2026-09-29T00:35:30,Satiate Bloodthirst (red),1,0
+164,Levia,2026-09-29T00:35:30,Shadowrealm Bloodhound (red),1,0
+164,Levia,2026-09-29T00:35:30,Step through Realms (red),1,0
+164,Levia,2026-09-29T00:35:30,Tribute to Greater Power (red),1,0
+164,Levia,2026-09-29T00:35:30,Beckoning Hunger (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Consuming Appetite (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Consuming Lash (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Consuming Strength (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Feeding Frenzy (yellow),2,0
+164,Levia,2026-09-29T00:35:30,Gorging Shadowbeast (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Rally the Shadow Horde (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Rise to the Challenge (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Shadowrealm Bloodhound (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Step through Realms (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Whispers Within (yellow),1,0
+164,Levia,2026-09-29T00:35:30,Blasmophet's Boon (blue),1,0
+164,Levia,2026-09-29T00:35:30,Dam the Shadowake (blue),1,0
+164,Levia,2026-09-29T00:35:30,Feasting Shadowbeast (blue),1,0
+164,Levia,2026-09-29T00:35:30,Feeding Frenzy (blue),1,0
+164,Levia,2026-09-29T00:35:30,Goremass Summoning (blue),2,0
+164,Levia,2026-09-29T00:35:30,Gorging Shadowbeast (blue),1,0
+164,Levia,2026-09-29T00:35:30,Headstrong Stampede (blue),1,0
+164,Levia,2026-09-29T00:35:30,Rise to the Challenge (blue),1,0
+164,Levia,2026-09-29T00:35:30,Rocktop Bellow (blue),1,0
+164,Levia,2026-09-29T00:35:30,Satiate Bloodthirst (blue),1,0
+164,Levia,2026-09-29T00:35:30,Shadowrealm Bloodhound (blue),1,0
+164,Levia,2026-09-29T00:35:30,Whispers Within (blue),1,0
+164,Levia,2026-09-29T00:35:30,Dark Arcanite Helm,1,1
+164,Levia,2026-09-29T00:35:30,Path of Repentance,1,1
+165,Levia,2026-09-29T02:44:17,Beckoning Hunger (red),1,0
+165,Levia,2026-09-29T02:44:17,Cleave the Heavens (red),1,0
+165,Levia,2026-09-29T02:44:17,Dam the Shadowake (red),1,0
+165,Levia,2026-09-29T02:44:17,Feasting Shadowbeast (red),2,0
+165,Levia,2026-09-29T02:44:17,Feeding Frenzy (red),1,0
+165,Levia,2026-09-29T02:44:17,Harbinger of Destruction (red),1,0
+165,Levia,2026-09-29T02:44:17,Hellbound Assault (red),1,0
+165,Levia,2026-09-29T02:44:17,Rocktop Bellow (red),1,0
+165,Levia,2026-09-29T02:44:17,Satiate Bloodthirst (red),1,0
+165,Levia,2026-09-29T02:44:17,Shadowrealm Harvester (red),1,0
+165,Levia,2026-09-29T02:44:17,Step through Realms (red),1,0
+165,Levia,2026-09-29T02:44:17,Void Wraith (red),1,0
+165,Levia,2026-09-29T02:44:17,Beckoning Hunger (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Cleave the Heavens (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Corporeal Chasm (yellow),2,0
+165,Levia,2026-09-29T02:44:17,Feasting Shadowbeast (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Gorging Shadowbeast (yellow),2,0
+165,Levia,2026-09-29T02:44:17,Hellbound Assault (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Permanent Interment (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Rise to the Challenge (yellow),3,0
+165,Levia,2026-09-29T02:44:17,Satiate Bloodthirst (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Step through Realms (yellow),1,0
+165,Levia,2026-09-29T02:44:17,Cleave the Heavens (blue),1,0
+165,Levia,2026-09-29T02:44:17,Consuming Command (blue),1,0
+165,Levia,2026-09-29T02:44:17,Feasting Shadowbeast (blue),2,0
+165,Levia,2026-09-29T02:44:17,Ghostly Visit (blue),1,0
+165,Levia,2026-09-29T02:44:17,Rumbling Hunger (blue),1,0
+165,Levia,2026-09-29T02:44:17,Shadowrealm Harrower (blue),1,0
+165,Levia,2026-09-29T02:44:17,Shadowrealm Walker (blue),2,0
+165,Levia,2026-09-29T02:44:17,Dark Arcanite Helm,1,1
+165,Levia,2026-09-29T02:44:17,Path of Repentance,1,1
+165,Levia,2026-09-29T02:44:17,Robe of Repentance,1,1
+166,Levia,2026-09-29T05:40:10,Battle Prep (red),1,0
+166,Levia,2026-09-29T05:40:10,Cleave the Heavens (red),1,0
+166,Levia,2026-09-29T05:40:10,Feasting Shadowbeast (red),2,0
+166,Levia,2026-09-29T05:40:10,Feeding Frenzy (red),1,0
+166,Levia,2026-09-29T05:40:10,Harbinger of Destruction (red),1,0
+166,Levia,2026-09-29T05:40:10,Headstrong Stampede (red),1,0
+166,Levia,2026-09-29T05:40:10,Rumbling Hunger (red),1,0
+166,Levia,2026-09-29T05:40:10,Seek Horizon (red),1,0
+166,Levia,2026-09-29T05:40:10,Whispers Within (red),1,0
+166,Levia,2026-09-29T05:40:10,Cleave the Heavens (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Corporeal Chasm (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Darkest Hour (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Feasting Shadowbeast (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Headstrong Stampede (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Permanent Interment (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Satiate Bloodthirst (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Seek Horizon (yellow),4,0
+166,Levia,2026-09-29T05:40:10,Void Wraith (yellow),1,0
+166,Levia,2026-09-29T05:40:10,Abyssal Force (blue),1,0
+166,Levia,2026-09-29T05:40:10,Blasmophet's Boon (blue),1,0
+166,Levia,2026-09-29T05:40:10,Consuming Command (blue),1,0
+166,Levia,2026-09-29T05:40:10,Countdown to Extinction (blue),1,0
+166,Levia,2026-09-29T05:40:10,Dam the Shadowake (blue),1,0
+166,Levia,2026-09-29T05:40:10,Darkest Hour (blue),1,0
+166,Levia,2026-09-29T05:40:10,Pull from Beyond (blue),1,0
+166,Levia,2026-09-29T05:40:10,Rites of Nightfall (blue),1,0
+166,Levia,2026-09-29T05:40:10,Seek Horizon (blue),3,0
+166,Levia,2026-09-29T05:40:10,Shadowrealm Walker (blue),1,0
+166,Levia,2026-09-29T05:40:10,Void Wraith (blue),1,0
+166,Levia,2026-09-29T05:40:10,Whispers Within (blue),1,0
+166,Levia,2026-09-29T05:40:10,Dark Arcanite Boots,1,1
+166,Levia,2026-09-29T05:40:10,Grille of Repentance,1,1
+166,Levia,2026-09-29T05:40:10,Robe of Repentance,1,1
+167,Levia,2026-09-29T06:49:25,Dam the Shadowake (red),1,0
+167,Levia,2026-09-29T06:49:25,Darkest Hour (red),1,0
+167,Levia,2026-09-29T06:49:25,Feasting Shadowbeast (red),1,0
+167,Levia,2026-09-29T06:49:25,Gorging Shadowbeast (red),2,0
+167,Levia,2026-09-29T06:49:25,Headstrong Stampede (red),2,0
+167,Levia,2026-09-29T06:49:25,Hellbound Assault (red),1,0
+167,Levia,2026-09-29T06:49:25,Satiate Bloodthirst (red),2,0
+167,Levia,2026-09-29T06:49:25,Seek Horizon (red),1,0
+167,Levia,2026-09-29T06:49:25,Step through Realms (red),1,0
+167,Levia,2026-09-29T06:49:25,Beckoning Hunger (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Cleave the Heavens (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Dam the Shadowake (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Gorging Shadowbeast (yellow),2,0
+167,Levia,2026-09-29T06:49:25,Headstrong Stampede (yellow),2,0
+167,Levia,2026-09-29T06:49:25,Hellbound Assault (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Ingest the Unknown (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Permanent Interment (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Satiate Bloodthirst (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Seek Horizon (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Step through Realms (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Whispers Within (yellow),1,0
+167,Levia,2026-09-29T06:49:25,Beckoning Hunger (blue),1,0
+167,Levia,2026-09-29T06:49:25,Breach Flesh (blue),1,0
+167,Levia,2026-09-29T06:49:25,Corporeal Chasm (blue),1,0
+167,Levia,2026-09-29T06:49:25,Countdown to Extinction (blue),1,0
+167,Levia,2026-09-29T06:49:25,Dimenxxional Ferryman (blue),1,0
+167,Levia,2026-09-29T06:49:25,Gorging Shadowbeast (blue),3,0
+167,Levia,2026-09-29T06:49:25,Pull from Beyond (blue),1,0
+167,Levia,2026-09-29T06:49:25,Rise to the Challenge (blue),1,0
+167,Levia,2026-09-29T06:49:25,Satiate Bloodthirst (blue),2,0
+167,Levia,2026-09-29T06:49:25,Shadowrealm Harrower (blue),1,0
+167,Levia,2026-09-29T06:49:25,Shadowrealm Walker (blue),1,0
+167,Levia,2026-09-29T06:49:25,Dark Arcanite Plating,1,1
+167,Levia,2026-09-29T06:49:25,Path of Repentance,1,1
+168,Malice,2026-09-29T11:04:44,Murmur of i'Arathael (red),1,0
+168,Malice,2026-09-29T11:04:44,Open the Gate to i'Arathael (red),1,0
+168,Malice,2026-09-29T11:04:44,Permanent Interment (red),1,0
+168,Malice,2026-09-29T11:04:44,Restless Corporal (red),1,0
+168,Malice,2026-09-29T11:04:44,Restless Magister (red),1,0
+168,Malice,2026-09-29T11:04:44,Restless Plowman (red),1,0
+168,Malice,2026-09-29T11:04:44,Restless Quartermaster (red),1,0
+168,Malice,2026-09-29T11:04:44,Shadowrealm Ripper (red),1,0
+168,Malice,2026-09-29T11:04:44,Shadowrealm Walker (red),3,0
+168,Malice,2026-09-29T11:04:44,Skeletal Puppetry (red),1,0
+168,Malice,2026-09-29T11:04:44,Step through Realms (red),2,0
+168,Malice,2026-09-29T11:04:44,Void Wraith (red),1,0
+168,Malice,2026-09-29T11:04:44,Corpse Cover (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Darkest Hour (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Mutual Sacrifice (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Ominous Toll (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Pull from Beyond (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Shadowrealm Bloodhound (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Shadowrealm Swiftness (yellow),1,0
+168,Malice,2026-09-29T11:04:44,Abyssal Force (blue),1,0
+168,Malice,2026-09-29T11:04:44,Bonded Burial (blue),1,0
+168,Malice,2026-09-29T11:04:44,Mark of Pathstone (blue),1,0
+168,Malice,2026-09-29T11:04:44,Mutual Sacrifice (blue),1,0
+168,Malice,2026-09-29T11:04:44,Permanent Interment (blue),1,0
+168,Malice,2026-09-29T11:04:44,Pull from Beyond (blue),1,0
+168,Malice,2026-09-29T11:04:44,Seek Horizon (blue),1,0
+168,Malice,2026-09-29T11:04:44,Shadowrealm Solace (blue),1,0
+168,Malice,2026-09-29T11:04:44,Skeletal Puppetry (blue),1,0
+168,Malice,2026-09-29T11:04:44,Step through Realms (blue),2,0
+168,Malice,2026-09-29T11:04:44,Whispers Within (blue),2,0
+168,Malice,2026-09-29T11:04:44,Dark Arcanite Helm,1,1
+168,Malice,2026-09-29T11:04:44,Dark Arcanite Plating,1,1
+168,Malice,2026-09-29T11:04:44,Grille of Repentance,1,1
+169,Malice,2026-09-29T11:27:50,Bone Mass (red),2,0
+169,Malice,2026-09-29T11:27:50,Breach Flesh (red),1,0
+169,Malice,2026-09-29T11:27:50,Corporeal Chasm (red),1,0
+169,Malice,2026-09-29T11:27:50,Ghostly Visit (red),1,0
+169,Malice,2026-09-29T11:27:50,Mutual Sacrifice (red),1,0
+169,Malice,2026-09-29T11:27:50,Ominous Toll (red),1,0
+169,Malice,2026-09-29T11:27:50,Permanent Interment (red),1,0
+169,Malice,2026-09-29T11:27:50,Restless Corporal (red),2,0
+169,Malice,2026-09-29T11:27:50,Restless Outlaw (red),1,0
+169,Malice,2026-09-29T11:27:50,Restless Shieldmaiden (red),2,0
+169,Malice,2026-09-29T11:27:50,Restless Steed (red),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Strength (red),2,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Walker (red),1,0
+169,Malice,2026-09-29T11:27:50,Step through Realms (red),1,0
+169,Malice,2026-09-29T11:27:50,Acrid Stench (yellow),1,0
+169,Malice,2026-09-29T11:27:50,Breach Flesh (yellow),2,0
+169,Malice,2026-09-29T11:27:50,Dam the Shadowake (yellow),1,0
+169,Malice,2026-09-29T11:27:50,Ominous Toll (yellow),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Swiftness (yellow),2,0
+169,Malice,2026-09-29T11:27:50,Acrid Stench (blue),1,0
+169,Malice,2026-09-29T11:27:50,Bonded Burial (blue),1,0
+169,Malice,2026-09-29T11:27:50,Bone Mass (blue),2,0
+169,Malice,2026-09-29T11:27:50,Breach Flesh (blue),1,0
+169,Malice,2026-09-29T11:27:50,Malignant Migration (blue),1,0
+169,Malice,2026-09-29T11:27:50,Permanent Interment (blue),1,0
+169,Malice,2026-09-29T11:27:50,Pull from Beyond (blue),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Bloodhound (blue),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Ripper (blue),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Solace (blue),1,0
+169,Malice,2026-09-29T11:27:50,Shadowrealm Walker (blue),2,0
+169,Malice,2026-09-29T11:27:50,Dark Arcanite Boots,1,1
+169,Malice,2026-09-29T11:27:50,Dark Arcanite Helm,1,1
+169,Malice,2026-09-29T11:27:50,Path of Repentance,1,1
+170,Malice,2026-09-29T16:19:26,Bone Mass (red),1,0
+170,Malice,2026-09-29T16:19:26,Corporeal Chasm (red),1,0
+170,Malice,2026-09-29T16:19:26,Dam the Shadowake (red),2,0
+170,Malice,2026-09-29T16:19:26,Malignant Migration (red),1,0
+170,Malice,2026-09-29T16:19:26,Mutual Sacrifice (red),1,0
+170,Malice,2026-09-29T16:19:26,Permanent Interment (red),1,0
+170,Malice,2026-09-29T16:19:26,Restless Outlaw (red),1,0
+170,Malice,2026-09-29T16:19:26,Restless Shieldmaiden (red),1,0
+170,Malice,2026-09-29T16:19:26,Restless Steed (red),2,0
+170,Malice,2026-09-29T16:19:26,Rumbling of i'Arathael (red),1,0
+170,Malice,2026-09-29T16:19:26,Seek Horizon (red),1,0
+170,Malice,2026-09-29T16:19:26,Whispers Within (red),2,0
+170,Malice,2026-09-29T16:19:26,Acrid Stench (yellow),1,0
+170,Malice,2026-09-29T16:19:26,Battle Prep (yellow),1,0
+170,Malice,2026-09-29T16:19:26,Breach Flesh (yellow),1,0
+170,Malice,2026-09-29T16:19:26,Shadowrealm Walker (yellow),1,0
+170,Malice,2026-09-29T16:19:26,Abyssal Force (blue),1,0
+170,Malice,2026-09-29T16:19:26,Acrid Stench (blue),3,0
+170,Malice,2026-09-29T16:19:26,Bonded Burial (blue),1,0
+170,Malice,2026-09-29T16:19:26,Breach Flesh (blue),2,0
+170,Malice,2026-09-29T16:19:26,Corporeal Chasm (blue),1,0
+170,Malice,2026-09-29T16:19:26,Dimenxxional Ferryman (blue),1,0
+170,Malice,2026-09-29T16:19:26,Ghostly Visit (blue),1,0
+170,Malice,2026-09-29T16:19:26,Mark of Ushering (blue),1,0
+170,Malice,2026-09-29T16:19:26,Ominous Toll (blue),1,0
+170,Malice,2026-09-29T16:19:26,Dark Arcanite Boots,1,1
+170,Malice,2026-09-29T16:19:26,Dark Arcanite Helm,1,1
+170,Malice,2026-09-29T16:19:26,Robe of Repentance,1,1
+171,Levia,2026-09-29T16:52:55,Beckoning Hunger (red),2,0
+171,Levia,2026-09-29T16:52:55,Corporeal Chasm (red),1,0
+171,Levia,2026-09-29T16:52:55,Countdown to Extinction (red),1,0
+171,Levia,2026-09-29T16:52:55,Feasting Shadowbeast (red),1,0
+171,Levia,2026-09-29T16:52:55,Planar Chaos (red),1,0
+171,Levia,2026-09-29T16:52:55,Rally the Shadow Horde (red),1,0
+171,Levia,2026-09-29T16:52:55,Rocktop Bellow (red),1,0
+171,Levia,2026-09-29T16:52:55,Seek Horizon (red),2,0
+171,Levia,2026-09-29T16:52:55,Tribute to Greater Power (red),1,0
+171,Levia,2026-09-29T16:52:55,Beckoning Hunger (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Cleave the Heavens (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Darkest Hour (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Feeding Frenzy (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Gorging Shadowbeast (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Hellbound Assault (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Seek Horizon (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Shadowrealm Bloodhound (yellow),1,0
+171,Levia,2026-09-29T16:52:55,Beckoning Hunger (blue),3,0
+171,Levia,2026-09-29T16:52:55,Breach Flesh (blue),1,0
+171,Levia,2026-09-29T16:52:55,Consuming Command (blue),1,0
+171,Levia,2026-09-29T16:52:55,Dam the Shadowake (blue),1,0
+171,Levia,2026-09-29T16:52:55,Feasting Shadowbeast (blue),1,0
+171,Levia,2026-09-29T16:52:55,Feeding Frenzy (blue),2,0
+171,Levia,2026-09-29T16:52:55,Satiate Bloodthirst (blue),1,0
+171,Levia,2026-09-29T16:52:55,Shadowrealm Bloodhound (blue),1,0
+171,Levia,2026-09-29T16:52:55,Shadowrealm Walker (blue),1,0
+171,Levia,2026-09-29T16:52:55,Void Wraith (blue),1,0
+171,Levia,2026-09-29T16:52:55,Dark Arcanite Gloves,1,1
+171,Levia,2026-09-29T16:52:55,Dark Arcanite Helm,1,1
+171,Levia,2026-09-29T16:52:55,Path of Repentance,1,1
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Bloodfrenzy Gloomblade (red),2,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Cullingsong Gloomblade (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Demonbound Gloomblade (red),3,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Embrace Ursur (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Ghostly Visit (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Murmuring Gloomblade (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Otherworldly Sins (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Planar Chaos (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runic Disposition (red),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Shadowrealm Ripper (red),2,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Bloodfrenzy Gloomblade (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Embrace Ursur (yellow),2,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Enshrine Sin (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Murmuring Gloomblade (yellow),2,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Otherworldly Sins (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runechant of Envy (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runechant of Gluttony (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runechant of Lust (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runechant of Pride (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Runechant of Sloth (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Shadowrealm Ripper (yellow),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Demonbound Gloomblade (blue),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Embrace Ursur (blue),2,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Enshrine Sin (blue),3,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Ghostly Visit (blue),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Murmuring Gloomblade (blue),3,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Vexing Gloomblade (blue),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Void Wraith (blue),1,0
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Dark Arcanite Helm,1,1
+172,"Viserai, Between Worlds",2026-09-29T19:16:03,Path of Repentance,1,1
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Bloodfrenzy Gloomblade (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Corporeal Chasm (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Cullingsong Gloomblade (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Demonbound Gloomblade (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Embrace Ursur (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Enshrine Sin (red),2,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Ghostly Visit (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Murmuring Gloomblade (red),2,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Otherworldly Sins (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Permanent Interment (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Plundersong Gloomblade (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Runic Disposition (red),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Bloodfrenzy Gloomblade (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Embrace Ursur (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Murmuring Gloomblade (yellow),2,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Runechant of Envy (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Runechant of Gluttony (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Runechant of Lust (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Runechant of Pride (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Seek Horizon (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Shadowrealm Ripper (yellow),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Become the Shadow Lord (blue),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Bloodfrenzy Gloomblade (blue),2,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Demonbound Gloomblade (blue),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Enshrine Sin (blue),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Otherworldly Sins (blue),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Permanent Interment (blue),1,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Shadowake Gloomblade (blue),2,0
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Dark Arcanite Boots,1,1
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Dark Arcanite Plating,1,1
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Grille of Repentance,1,1
+173,"Viserai, Between Worlds",2026-09-29T21:26:23,Robe of Repentance,1,1
+174,Malice,2026-09-29T22:39:31,Bonded Burial (red),2,0
+174,Malice,2026-09-29T22:39:31,Bone Mass (red),2,0
+174,Malice,2026-09-29T22:39:31,Breach Flesh (red),1,0
+174,Malice,2026-09-29T22:39:31,Malignant Migration (red),3,0
+174,Malice,2026-09-29T22:39:31,Ominous Toll (red),2,0
+174,Malice,2026-09-29T22:39:31,Restless Cleric (red),1,0
+174,Malice,2026-09-29T22:39:31,Restless Magister (red),1,0
+174,Malice,2026-09-29T22:39:31,Restless Outlaw (red),1,0
+174,Malice,2026-09-29T22:39:31,Restless Plowman (red),1,0
+174,Malice,2026-09-29T22:39:31,Restless Shieldmaiden (red),1,0
+174,Malice,2026-09-29T22:39:31,Shadowrealm Bloodhound (red),1,0
+174,Malice,2026-09-29T22:39:31,Skeletal Puppetry (red),1,0
+174,Malice,2026-09-29T22:39:31,Tome of Necrosis (red),1,0
+174,Malice,2026-09-29T22:39:31,Violent Gusto (red),1,0
+174,Malice,2026-09-29T22:39:31,Void Wraith (red),1,0
+174,Malice,2026-09-29T22:39:31,Bonded Burial (yellow),1,0
+174,Malice,2026-09-29T22:39:31,Breach Flesh (yellow),1,0
+174,Malice,2026-09-29T22:39:31,Malignant Migration (yellow),1,0
+174,Malice,2026-09-29T22:39:31,Shadowrealm Swiftness (yellow),1,0
+174,Malice,2026-09-29T22:39:31,Abyssal Force (blue),1,0
+174,Malice,2026-09-29T22:39:31,Acrid Stench (blue),3,0
+174,Malice,2026-09-29T22:39:31,Bone Barrier (blue),1,0
+174,Malice,2026-09-29T22:39:31,Breach Flesh (blue),1,0
+174,Malice,2026-09-29T22:39:31,Commit to Corruption (blue),1,0
+174,Malice,2026-09-29T22:39:31,Corporeal Chasm (blue),1,0
+174,Malice,2026-09-29T22:39:31,Malignant Migration (blue),1,0
+174,Malice,2026-09-29T22:39:31,Mutual Sacrifice (blue),1,0
+174,Malice,2026-09-29T22:39:31,Shadowrealm Ripper (blue),1,0
+174,Malice,2026-09-29T22:39:31,Shadowrealm Solace (blue),2,0
+174,Malice,2026-09-29T22:39:31,Shadowrealm Walker (blue),2,0
+174,Malice,2026-09-29T22:39:31,Step through Realms (blue),1,0
+174,Malice,2026-09-29T22:39:31,Dark Arcanite Boots,1,1
+175,Malice,2026-09-30T01:03:34,Bonded Burial (red),1,0
+175,Malice,2026-09-30T01:03:34,Breach Flesh (red),1,0
+175,Malice,2026-09-30T01:03:34,Commit to Corruption (red),1,0
+175,Malice,2026-09-30T01:03:34,Corporeal Chasm (red),1,0
+175,Malice,2026-09-30T01:03:34,Malignant Migration (red),2,0
+175,Malice,2026-09-30T01:03:34,Ominous Toll (red),1,0
+175,Malice,2026-09-30T01:03:34,Restless Cleric (red),1,0
+175,Malice,2026-09-30T01:03:34,Restless Looter (red),1,0
+175,Malice,2026-09-30T01:03:34,Restless Quartermaster (red),1,0
+175,Malice,2026-09-30T01:03:34,Restless Shieldmaiden (red),1,0
+175,Malice,2026-09-30T01:03:34,Seek Horizon (red),1,0
+175,Malice,2026-09-30T01:03:34,Unbound by Shadow (red),1,0
+175,Malice,2026-09-30T01:03:34,Whispers Within (red),1,0
+175,Malice,2026-09-30T01:03:34,Bone Mass (yellow),3,0
+175,Malice,2026-09-30T01:03:34,Dam the Shadowake (yellow),1,0
+175,Malice,2026-09-30T01:03:34,Shadowrealm Bloodhound (yellow),2,0
+175,Malice,2026-09-30T01:03:34,Shadowrealm Swiftness (yellow),1,0
+175,Malice,2026-09-30T01:03:34,Shadowrealm Walker (yellow),1,0
+175,Malice,2026-09-30T01:03:34,Bone Mass (blue),1,0
+175,Malice,2026-09-30T01:03:34,Breach Flesh (blue),1,0
+175,Malice,2026-09-30T01:03:34,Corporeal Chasm (blue),2,0
+175,Malice,2026-09-30T01:03:34,Mark of Neverest (blue),1,0
+175,Malice,2026-09-30T01:03:34,Ominous Toll (blue),1,0
+175,Malice,2026-09-30T01:03:34,Pull from Beyond (blue),1,0
+175,Malice,2026-09-30T01:03:34,Rites of Nightfall (blue),1,0
+175,Malice,2026-09-30T01:03:34,Shadowrealm Harrower (blue),1,0
+175,Malice,2026-09-30T01:03:34,Shadowrealm Solace (blue),1,0
+175,Malice,2026-09-30T01:03:34,Step through Realms (blue),1,0
+175,Malice,2026-09-30T01:03:34,Whispers Within (blue),2,0
+175,Malice,2026-09-30T01:03:34,Dark Arcanite Boots,1,1
+175,Malice,2026-09-30T01:03:34,Dark Arcanite Gloves,1,1
+175,Malice,2026-09-30T01:03:34,Grille of Repentance,1,1
+175,Malice,2026-09-30T01:03:34,Robe of Repentance,1,1
+176,Levia,2026-09-30T01:26:34,Beckoning Hunger (red),1,0
+176,Levia,2026-09-30T01:26:34,Corporeal Chasm (red),1,0
+176,Levia,2026-09-30T01:26:34,Devouring Doomwake (red),1,0
+176,Levia,2026-09-30T01:26:34,Feasting Shadowbeast (red),2,0
+176,Levia,2026-09-30T01:26:34,Feeding Frenzy (red),1,0
+176,Levia,2026-09-30T01:26:34,Ghostly Visit (red),1,0
+176,Levia,2026-09-30T01:26:34,Harbinger of Destruction (red),1,0
+176,Levia,2026-09-30T01:26:34,Permanent Interment (red),1,0
+176,Levia,2026-09-30T01:26:34,Rise to the Challenge (red),1,0
+176,Levia,2026-09-30T01:26:34,Corporeal Chasm (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Ghostly Visit (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Gorging Shadowbeast (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Permanent Interment (yellow),2,0
+176,Levia,2026-09-30T01:26:34,Pull from Beyond (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Rise to the Challenge (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Shadowrealm Ripper (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Shadowrealm Walker (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Step through Realms (yellow),2,0
+176,Levia,2026-09-30T01:26:34,Void Wraith (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Whispers Within (yellow),1,0
+176,Levia,2026-09-30T01:26:34,Breach Flesh (blue),1,0
+176,Levia,2026-09-30T01:26:34,Countdown to Extinction (blue),1,0
+176,Levia,2026-09-30T01:26:34,Dam the Shadowake (blue),1,0
+176,Levia,2026-09-30T01:26:34,Feasting Shadowbeast (blue),1,0
+176,Levia,2026-09-30T01:26:34,Peak Power (blue),1,0
+176,Levia,2026-09-30T01:26:34,Rocktop Bellow (blue),1,0
+176,Levia,2026-09-30T01:26:34,Rumbling Hunger (blue),1,0
+176,Levia,2026-09-30T01:26:34,Satiate Bloodthirst (blue),1,0
+176,Levia,2026-09-30T01:26:34,Dark Arcanite Gloves,1,1
+176,Levia,2026-09-30T01:26:34,Dark Arcanite Helm,1,1
+176,Levia,2026-09-30T01:26:34,Path of Repentance,1,1
+176,Levia,2026-09-30T01:26:34,Robe of Repentance,1,1
+177,Levia,2026-09-30T12:50:06,Battle Prep (red),1,0
+177,Levia,2026-09-30T12:50:06,Cleave the Heavens (red),1,0
+177,Levia,2026-09-30T12:50:06,Corporeal Chasm (red),1,0
+177,Levia,2026-09-30T12:50:06,Feasting Shadowbeast (red),1,0
+177,Levia,2026-09-30T12:50:06,Gorging Shadowbeast (red),1,0
+177,Levia,2026-09-30T12:50:06,Headstrong Stampede (red),3,0
+177,Levia,2026-09-30T12:50:06,Hellbound Assault (red),1,0
+177,Levia,2026-09-30T12:50:06,Pull from Beyond (red),2,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Bloodhound (red),2,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Ripper (red),1,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Walker (red),1,0
+177,Levia,2026-09-30T12:50:06,Consuming Lash (yellow),2,0
+177,Levia,2026-09-30T12:50:06,Dam the Shadowake (yellow),1,0
+177,Levia,2026-09-30T12:50:06,Darkest Hour (yellow),1,0
+177,Levia,2026-09-30T12:50:06,Gorging Shadowbeast (yellow),1,0
+177,Levia,2026-09-30T12:50:06,Rally the Shadow Horde (yellow),1,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Walker (yellow),1,0
+177,Levia,2026-09-30T12:50:06,Blasmophet's Boon (blue),1,0
+177,Levia,2026-09-30T12:50:06,Cleave the Heavens (blue),1,0
+177,Levia,2026-09-30T12:50:06,Consuming Command (blue),2,0
+177,Levia,2026-09-30T12:50:06,Dam the Shadowake (blue),1,0
+177,Levia,2026-09-30T12:50:06,Goremass Summoning (blue),3,0
+177,Levia,2026-09-30T12:50:06,Rites of Nightfall (blue),1,0
+177,Levia,2026-09-30T12:50:06,Satiate Bloodthirst (blue),1,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Ripper (blue),1,0
+177,Levia,2026-09-30T12:50:06,Shadowrealm Walker (blue),1,0
+177,Levia,2026-09-30T12:50:06,Dark Arcanite Helm,1,1
+177,Levia,2026-09-30T12:50:06,Grille of Repentance,1,1
+177,Levia,2026-09-30T12:50:06,Path of Repentance,1,1
+177,Levia,2026-09-30T12:50:06,Robe of Repentance,1,1
+178,Malice,2026-09-30T15:51:07,Acrid Stench (red),1,0
+178,Malice,2026-09-30T15:51:07,Bonded Burial (red),1,0
+178,Malice,2026-09-30T15:51:07,Bone Mass (red),2,0
+178,Malice,2026-09-30T15:51:07,Breach Flesh (red),2,0
+178,Malice,2026-09-30T15:51:07,Corporeal Chasm (red),1,0
+178,Malice,2026-09-30T15:51:07,Corrupt and Conquer (red),1,0
+178,Malice,2026-09-30T15:51:07,Ominous Toll (red),2,0
+178,Malice,2026-09-30T15:51:07,Restless Cleric (red),1,0
+178,Malice,2026-09-30T15:51:07,Restless Shieldmaiden (red),2,0
+178,Malice,2026-09-30T15:51:07,Restless Steed (red),1,0
+178,Malice,2026-09-30T15:51:07,Bonded Burial (yellow),2,0
+178,Malice,2026-09-30T15:51:07,Commit to Corruption (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Countdown to Extinction (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Forsaken Strike (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Ghostly Visit (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Ominous Toll (yellow),2,0
+178,Malice,2026-09-30T15:51:07,Permanent Interment (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Shadowrealm Swiftness (yellow),1,0
+178,Malice,2026-09-30T15:51:07,Bonded Burial (blue),1,0
+178,Malice,2026-09-30T15:51:07,Bone Mass (blue),2,0
+178,Malice,2026-09-30T15:51:07,Countdown to Extinction (blue),1,0
+178,Malice,2026-09-30T15:51:07,Ghostly Visit (blue),2,0
+178,Malice,2026-09-30T15:51:07,Rites of Nightfall (blue),1,0
+178,Malice,2026-09-30T15:51:07,Shadowrealm Bloodhound (blue),1,0
+178,Malice,2026-09-30T15:51:07,Shadowrealm Solace (blue),2,0
+178,Malice,2026-09-30T15:51:07,Skeletal Puppetry (blue),1,0
+178,Malice,2026-09-30T15:51:07,Void Wraith (blue),1,0
+178,Malice,2026-09-30T15:51:07,Dark Arcanite Boots,1,1
+178,Malice,2026-09-30T15:51:07,Dark Arcanite Gloves,1,1
+178,Malice,2026-09-30T15:51:07,Dark Arcanite Helm,1,1
+178,Malice,2026-09-30T15:51:07,Robe of Repentance,1,1
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Bloodfrenzy Gloomblade (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Demonbound Gloomblade (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Embrace Ursur (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Ghostly Visit (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Murmur of i'Arathael (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Otherworldly Sins (red),2,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Permanent Interment (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Shadowake Gloomblade (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Vexing Gloomblade (red),2,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Void Wraith (red),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Embrace Sin (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Embrace Ursur (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Enshrine Sin (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Murmuring Gloomblade (yellow),2,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Runechant of Gluttony (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Runechant of Sloth (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Runechant of Wrath (yellow),2,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Runic Reaving (yellow),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Abyssal Bite (blue),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Bloodfrenzy Gloomblade (blue),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Demonbound Gloomblade (blue),3,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Embrace Ursur (blue),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Murmuring Gloomblade (blue),2,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Otherworldly Sins (blue),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Runic Disposition (blue),1,0
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Dark Arcanite Boots,1,1
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Dark Arcanite Gloves,1,1
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Grille of Repentance,1,1
+179,"Viserai, Between Worlds",2026-09-30T16:51:47,Robe of Repentance,1,1
+180,Malice,2026-09-30T17:35:39,Bonded Burial (red),1,0
+180,Malice,2026-09-30T17:35:39,Corpse Cover (red),1,0
+180,Malice,2026-09-30T17:35:39,Dam the Shadowake (red),1,0
+180,Malice,2026-09-30T17:35:39,Ghostly Visit (red),1,0
+180,Malice,2026-09-30T17:35:39,Malignant Migration (red),1,0
+180,Malice,2026-09-30T17:35:39,Mutual Sacrifice (red),1,0
+180,Malice,2026-09-30T17:35:39,Ominous Toll (red),1,0
+180,Malice,2026-09-30T17:35:39,Permanent Interment (red),1,0
+180,Malice,2026-09-30T17:35:39,Rally the Shadow Horde (red),1,0
+180,Malice,2026-09-30T17:35:39,Restless Corporal (red),1,0
+180,Malice,2026-09-30T17:35:39,Restless Shieldmaiden (red),2,0
+180,Malice,2026-09-30T17:35:39,Restless Steed (red),1,0
+180,Malice,2026-09-30T17:35:39,Seek Horizon (red),1,0
+180,Malice,2026-09-30T17:35:39,Shadowrealm Bloodhound (red),1,0
+180,Malice,2026-09-30T17:35:39,Step through Realms (red),2,0
+180,Malice,2026-09-30T17:35:39,Acrid Stench (yellow),2,0
+180,Malice,2026-09-30T17:35:39,Battle Prep (yellow),1,0
+180,Malice,2026-09-30T17:35:39,Bone Mass (yellow),1,0
+180,Malice,2026-09-30T17:35:39,Commit to Corruption (yellow),1,0
+180,Malice,2026-09-30T17:35:39,Malignant Migration (yellow),2,0
+180,Malice,2026-09-30T17:35:39,Mutual Sacrifice (yellow),1,0
+180,Malice,2026-09-30T17:35:39,Skeletal Puppetry (yellow),1,0
+180,Malice,2026-09-30T17:35:39,Step through Realms (yellow),2,0
+180,Malice,2026-09-30T17:35:39,Abyssal Force (blue),1,0
+180,Malice,2026-09-30T17:35:39,Abyssal Rush (blue),1,0
+180,Malice,2026-09-30T17:35:39,Breach Flesh (blue),1,0
+180,Malice,2026-09-30T17:35:39,Dimenxxional Ferryman (blue),1,0
+180,Malice,2026-09-30T17:35:39,Ominous Toll (blue),1,0
+180,Malice,2026-09-30T17:35:39,Permanent Interment (blue),1,0
+180,Malice,2026-09-30T17:35:39,Shadowrealm Harrower (blue),1,0
+180,Malice,2026-09-30T17:35:39,Shadowrealm Ripper (blue),1,0
+180,Malice,2026-09-30T17:35:39,Shadowrealm Solace (blue),1,0
+180,Malice,2026-09-30T17:35:39,Dark Arcanite Boots,1,1
+180,Malice,2026-09-30T17:35:39,Dark Arcanite Helm,1,1
+180,Malice,2026-09-30T17:35:39,Grille of Repentance,1,1
+181,Levia,2026-09-30T21:31:46,Cleave the Heavens (red),1,0
+181,Levia,2026-09-30T21:31:46,Darkest Hour (red),1,0
+181,Levia,2026-09-30T21:31:46,Feasting Shadowbeast (red),3,0
+181,Levia,2026-09-30T21:31:46,Gorging Shadowbeast (red),1,0
+181,Levia,2026-09-30T21:31:46,Harbinger of Destruction (red),1,0
+181,Levia,2026-09-30T21:31:46,Headstrong Stampede (red),1,0
+181,Levia,2026-09-30T21:31:46,Rise to the Challenge (red),2,0
+181,Levia,2026-09-30T21:31:46,Rocktop Bellow (red),1,0
+181,Levia,2026-09-30T21:31:46,Satiate Bloodthirst (red),1,0
+181,Levia,2026-09-30T21:31:46,Whispers Within (red),1,0
+181,Levia,2026-09-30T21:31:46,Consuming Appetite (yellow),2,0
+181,Levia,2026-09-30T21:31:46,Consuming Strength (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Dam the Shadowake (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Feasting Shadowbeast (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Feeding Frenzy (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Gorging Shadowbeast (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Rumbling Hunger (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Satiate Bloodthirst (yellow),1,0
+181,Levia,2026-09-30T21:31:46,Abyssal Force (blue),1,0
+181,Levia,2026-09-30T21:31:46,Beckoning Hunger (blue),1,0
+181,Levia,2026-09-30T21:31:46,Blasmophet's Boon (blue),2,0
+181,Levia,2026-09-30T21:31:46,Cleave the Heavens (blue),1,0
+181,Levia,2026-09-30T21:31:46,Consuming Command (blue),2,0
+181,Levia,2026-09-30T21:31:46,Darkest Hour (blue),1,0
+181,Levia,2026-09-30T21:31:46,Feasting Shadowbeast (blue),2,0
+181,Levia,2026-09-30T21:31:46,Feeding Frenzy (blue),1,0
+181,Levia,2026-09-30T21:31:46,Goremass Summoning (blue),3,0
+181,Levia,2026-09-30T21:31:46,Peak Power (blue),1,0
+181,Levia,2026-09-30T21:31:46,Dark Arcanite Boots,1,1
+181,Levia,2026-09-30T21:31:46,Dark Arcanite Plating,1,1
+181,Levia,2026-09-30T21:31:46,Grille of Repentance,1,1
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Breach Flesh (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Cullingsong Gloomblade (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Demonbound Gloomblade (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Embrace Ursur (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Enshrine Sin (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Murmuring Gloomblade (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Otherworldly Sins (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Permanent Interment (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Rumbling of i'Arathael (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runic Disposition (red),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Demonbound Gloomblade (yellow),3,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Embrace Sin (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Embrace Ursur (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Murmuring Gloomblade (yellow),2,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Otherworldly Sins (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runechant of Envy (yellow),2,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runechant of Pride (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runechant of Sloth (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runechant of Wrath (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Shadowrealm Bloodhound (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Vexing Gloomblade (yellow),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Abyssal Bite (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Abyssal Rush (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Darkest Hour (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Embrace Ursur (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Enshrine Sin (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Murmuring Gloomblade (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Runic Reaving (blue),1,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Shadowake Gloomblade (blue),2,0
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Dark Arcanite Gloves,1,1
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Dark Arcanite Helm,1,1
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Grille of Repentance,1,1
+182,"Viserai, Between Worlds",2026-09-30T22:18:49,Path of Repentance,1,1
+183,Malice,2026-09-30T23:55:59,Bonded Burial (red),1,0
+183,Malice,2026-09-30T23:55:59,Bone Mass (red),1,0
+183,Malice,2026-09-30T23:55:59,Commit to Corruption (red),1,0
+183,Malice,2026-09-30T23:55:59,Corpse Cover (red),1,0
+183,Malice,2026-09-30T23:55:59,Darkest Hour (red),1,0
+183,Malice,2026-09-30T23:55:59,Malignant Migration (red),1,0
+183,Malice,2026-09-30T23:55:59,Mutual Sacrifice (red),1,0
+183,Malice,2026-09-30T23:55:59,Ominous Toll (red),1,0
+183,Malice,2026-09-30T23:55:59,Pull from Beyond (red),1,0
+183,Malice,2026-09-30T23:55:59,Restless Corporal (red),1,0
+183,Malice,2026-09-30T23:55:59,Restless Plowman (red),2,0
+183,Malice,2026-09-30T23:55:59,Restless Quartermaster (red),1,0
+183,Malice,2026-09-30T23:55:59,Restless Steed (red),2,0
+183,Malice,2026-09-30T23:55:59,Shadowrealm Strength (red),3,0
+183,Malice,2026-09-30T23:55:59,Shadowrealm Walker (red),1,0
+183,Malice,2026-09-30T23:55:59,Battle Prep (yellow),1,0
+183,Malice,2026-09-30T23:55:59,Bone Mass (yellow),1,0
+183,Malice,2026-09-30T23:55:59,Shadowrealm Bloodhound (yellow),1,0
+183,Malice,2026-09-30T23:55:59,Abyssal Bite (blue),1,0
+183,Malice,2026-09-30T23:55:59,Bonded Burial (blue),1,0
+183,Malice,2026-09-30T23:55:59,Bone Mass (blue),2,0
+183,Malice,2026-09-30T23:55:59,Bridge of Damnation (blue),1,0
+183,Malice,2026-09-30T23:55:59,Dam the Shadowake (blue),1,0
+183,Malice,2026-09-30T23:55:59,Ominous Toll (blue),2,0
+183,Malice,2026-09-30T23:55:59,Pull from Beyond (blue),1,0
+183,Malice,2026-09-30T23:55:59,Shadowrealm Solace (blue),1,0
+183,Malice,2026-09-30T23:55:59,Shadowrealm Walker (blue),1,0
+183,Malice,2026-09-30T23:55:59,Void Wraith (blue),1,0
+183,Malice,2026-09-30T23:55:59,Whispers Within (blue),1,0
+183,Malice,2026-09-30T23:55:59,Dark Arcanite Boots,1,1
+183,Malice,2026-09-30T23:55:59,Grille of Repentance,1,1
+183,Malice,2026-09-30T23:55:59,Path of Repentance,1,1
+183,Malice,2026-09-30T23:55:59,Robe of Repentance,1,1
+184,Levia,2026-10-01T04:28:41,Corporeal Chasm (red),1,0
+184,Levia,2026-10-01T04:28:41,Gorging Shadowbeast (red),1,0
+184,Levia,2026-10-01T04:28:41,Hellbound Assault (red),1,0
+184,Levia,2026-10-01T04:28:41,Peak Power (red),2,0
+184,Levia,2026-10-01T04:28:41,Planar Chaos (red),1,0
+184,Levia,2026-10-01T04:28:41,Satiate Bloodthirst (red),1,0
+184,Levia,2026-10-01T04:28:41,Violent Gusto (red),1,0
+184,Levia,2026-10-01T04:28:41,Battle Prep (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Breach Flesh (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Consuming Appetite (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Fallen Herald (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Feeding Frenzy (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Hellbound Assault (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Satiate Bloodthirst (yellow),2,0
+184,Levia,2026-10-01T04:28:41,Whispers Within (yellow),1,0
+184,Levia,2026-10-01T04:28:41,Consuming Command (blue),3,0
+184,Levia,2026-10-01T04:28:41,Corporeal Chasm (blue),1,0
+184,Levia,2026-10-01T04:28:41,Dam the Shadowake (blue),1,0
+184,Levia,2026-10-01T04:28:41,Feasting Shadowbeast (blue),1,0
+184,Levia,2026-10-01T04:28:41,Feeding Frenzy (blue),1,0
+184,Levia,2026-10-01T04:28:41,Goremass Summoning (blue),1,0
+184,Levia,2026-10-01T04:28:41,Rally the Shadow Horde (blue),1,0
+184,Levia,2026-10-01T04:28:41,Rocktop Bellow (blue),2,0
+184,Levia,2026-10-01T04:28:41,Rumbling Hunger (blue),1,0
+184,Levia,2026-10-01T04:28:41,Seek Horizon (blue),1,0
+184,Levia,2026-10-01T04:28:41,Step through Realms (blue),2,0
+184,Levia,2026-10-01T04:28:41,Void Wraith (blue),1,0
+184,Levia,2026-10-01T04:28:41,Whispers Within (blue),1,0
+184,Levia,2026-10-01T04:28:41,Dark Arcanite Helm,1,1
+184,Levia,2026-10-01T04:28:41,Path of Repentance,1,1
+185,Malice,2026-10-01T08:28:21,Acrid Stench (red),3,0
+185,Malice,2026-10-01T08:28:21,Bonded Burial (red),1,0
+185,Malice,2026-10-01T08:28:21,Corporeal Chasm (red),1,0
+185,Malice,2026-10-01T08:28:21,Dam the Shadowake (red),1,0
+185,Malice,2026-10-01T08:28:21,Darkest Hour (red),1,0
+185,Malice,2026-10-01T08:28:21,Restless Outlaw (red),1,0
+185,Malice,2026-10-01T08:28:21,Restless Plowman (red),2,0
+185,Malice,2026-10-01T08:28:21,Restless Steed (red),1,0
+185,Malice,2026-10-01T08:28:21,Shadowrealm Strength (red),1,0
+185,Malice,2026-10-01T08:28:21,Acrid Stench (yellow),3,0
+185,Malice,2026-10-01T08:28:21,Commit to Corruption (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Corporeal Chasm (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Corpse Cover (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Mutual Sacrifice (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Permanent Interment (yellow),2,0
+185,Malice,2026-10-01T08:28:21,Pull from Beyond (yellow),2,0
+185,Malice,2026-10-01T08:28:21,Shadowrealm Ripper (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Shadowrealm Swiftness (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Void Wraith (yellow),1,0
+185,Malice,2026-10-01T08:28:21,Acrid Stench (blue),1,0
+185,Malice,2026-10-01T08:28:21,Bone Mass (blue),1,0
+185,Malice,2026-10-01T08:28:21,Corporeal Chasm (blue),1,0
+185,Malice,2026-10-01T08:28:21,Malignant Migration (blue),1,0
+185,Malice,2026-10-01T08:28:21,Mark of Pathstone (blue),1,0
+185,Malice,2026-10-01T08:28:21,Rites of Nightfall (blue),1,0
+185,Malice,2026-10-01T08:28:21,Shadowrealm Ripper (blue),1,0
+185,Malice,2026-10-01T08:28:21,Shadowrealm Solace (blue),2,0
+185,Malice,2026-10-01T08:28:21,Step through Realms (blue),1,0
+185,Malice,2026-10-01T08:28:21,Whispers Within (blue),1,0
+185,Malice,2026-10-01T08:28:21,Dark Arcanite Gloves,1,1
+185,Malice,2026-10-01T08:28:21,Robe of Repentance,1,1
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Embrace Ursur (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Murmuring Gloomblade (red),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Otherworldly Sins (red),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Runic Reaving (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Shadowake Gloomblade (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Shadowrealm Walker (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Step through Realms (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Unbound by Shadow (red),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Bloodfrenzy Gloomblade (yellow),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Demonbound Gloomblade (yellow),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Embrace Sin (yellow),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Embrace Ursur (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Enshrine Sin (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Fallen Herald (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Ghostly Visit (yellow),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Murmuring Gloomblade (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Runechant of Envy (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Runechant of Gluttony (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Runechant of Pride (yellow),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Runic Reaving (yellow),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Abyssal Force (blue),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Breach Flesh (blue),2,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Corporeal Chasm (blue),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Countdown to Extinction (blue),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Otherworldly Sins (blue),1,0
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Dark Arcanite Boots,1,1
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Dark Arcanite Helm,1,1
+186,"Viserai, Between Worlds",2026-10-01T11:35:32,Dark Arcanite Plating,1,1
+187,Levia,2026-10-01T12:33:16,Cleave the Heavens (red),2,0
+187,Levia,2026-10-01T12:33:16,Darkest Hour (red),1,0
+187,Levia,2026-10-01T12:33:16,Feasting Shadowbeast (red),1,0
+187,Levia,2026-10-01T12:33:16,Gorging Shadowbeast (red),1,0
+187,Levia,2026-10-01T12:33:16,Harbinger of Destruction (red),1,0
+187,Levia,2026-10-01T12:33:16,Hellbound Assault (red),1,0
+187,Levia,2026-10-01T12:33:16,Permanent Interment (red),1,0
+187,Levia,2026-10-01T12:33:16,Rise to the Challenge (red),1,0
+187,Levia,2026-10-01T12:33:16,Satiate Bloodthirst (red),1,0
+187,Levia,2026-10-01T12:33:16,Shadowrealm Bloodhound (red),2,0
+187,Levia,2026-10-01T12:33:16,Shadowrealm Harvester (red),1,0
+187,Levia,2026-10-01T12:33:16,Tribute to Greater Power (red),1,0
+187,Levia,2026-10-01T12:33:16,Breach Flesh (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Cleave the Heavens (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Darkest Hour (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Peak Power (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Rise to the Challenge (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Shadowrealm Bloodhound (yellow),1,0
+187,Levia,2026-10-01T12:33:16,Beckoning Hunger (blue),2,0
+187,Levia,2026-10-01T12:33:16,Blasmophet's Boon (blue),1,0
+187,Levia,2026-10-01T12:33:16,Breach Flesh (blue),1,0
+187,Levia,2026-10-01T12:33:16,Cleave the Heavens (blue),1,0
+187,Levia,2026-10-01T12:33:16,Consuming Command (blue),1,0
+187,Levia,2026-10-01T12:33:16,Feeding Frenzy (blue),2,0
+187,Levia,2026-10-01T12:33:16,Goremass Summoning (blue),2,0
+187,Levia,2026-10-01T12:33:16,Dark Arcanite Boots,1,1
+187,Levia,2026-10-01T12:33:16,Robe of Repentance,1,1
+188,Malice,2026-10-01T13:52:54,Bone Mass (red),1,0
+188,Malice,2026-10-01T13:52:54,Commit to Corruption (red),2,0
+188,Malice,2026-10-01T13:52:54,Dam the Shadowake (red),1,0
+188,Malice,2026-10-01T13:52:54,Ominous Toll (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Cleric (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Looter (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Outlaw (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Shieldmaiden (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Steed (red),1,0
+188,Malice,2026-10-01T13:52:54,Restless Templar (red),1,0
+188,Malice,2026-10-01T13:52:54,Seek Horizon (red),1,0
+188,Malice,2026-10-01T13:52:54,Shadowrealm Strength (red),1,0
+188,Malice,2026-10-01T13:52:54,Bone Mass (yellow),2,0
+188,Malice,2026-10-01T13:52:54,Ghostly Visit (yellow),1,0
+188,Malice,2026-10-01T13:52:54,Mutual Sacrifice (yellow),2,0
+188,Malice,2026-10-01T13:52:54,Shadowrealm Bloodhound (yellow),1,0
+188,Malice,2026-10-01T13:52:54,Shadowrealm Swiftness (yellow),1,0
+188,Malice,2026-10-01T13:52:54,Acrid Stench (blue),2,0
+188,Malice,2026-10-01T13:52:54,Bonded Burial (blue),2,0
+188,Malice,2026-10-01T13:52:54,Breach Flesh (blue),2,0
+188,Malice,2026-10-01T13:52:54,Corporeal Chasm (blue),1,0
+188,Malice,2026-10-01T13:52:54,Corpse Cover (blue),1,0
+188,Malice,2026-10-01T13:52:54,Darkest Hour (blue),1,0
+188,Malice,2026-10-01T13:52:54,Ominous Toll (blue),1,0
+188,Malice,2026-10-01T13:52:54,Permanent Interment (blue),1,0
+188,Malice,2026-10-01T13:52:54,Seek Horizon (blue),1,0
+188,Malice,2026-10-01T13:52:54,Shadowrealm Bloodhound (blue),1,0
+188,Malice,2026-10-01T13:52:54,Shadowrealm Walker (blue),2,0
+188,Malice,2026-10-01T13:52:54,Dark Arcanite Boots,1,1
+188,Malice,2026-10-01T13:52:54,Dark Arcanite Gloves,2,1
+188,Malice,2026-10-01T13:52:54,Dark Arcanite Helm,1,1
+188,Malice,2026-10-01T13:52:54,Robe of Repentance,1,1
+189,Levia,2026-10-01T15:54:34,Battle Prep (red),1,0
+189,Levia,2026-10-01T15:54:34,Beckoning Hunger (red),2,0
+189,Levia,2026-10-01T15:54:34,Corporeal Chasm (red),1,0
+189,Levia,2026-10-01T15:54:34,Darkest Hour (red),1,0
+189,Levia,2026-10-01T15:54:34,Feeding Frenzy (red),1,0
+189,Levia,2026-10-01T15:54:34,Headstrong Stampede (red),1,0
+189,Levia,2026-10-01T15:54:34,Peak Power (red),1,0
+189,Levia,2026-10-01T15:54:34,Rise to the Challenge (red),1,0
+189,Levia,2026-10-01T15:54:34,Rumbling of i'Arathael (red),2,0
+189,Levia,2026-10-01T15:54:34,Satiate Bloodthirst (red),2,0
+189,Levia,2026-10-01T15:54:34,Step through Realms (red),1,0
+189,Levia,2026-10-01T15:54:34,Whispers Within (red),1,0
+189,Levia,2026-10-01T15:54:34,Beckoning Hunger (yellow),2,0
+189,Levia,2026-10-01T15:54:34,Dam the Shadowake (yellow),1,0
+189,Levia,2026-10-01T15:54:34,Gorging Shadowbeast (yellow),1,0
+189,Levia,2026-10-01T15:54:34,Headstrong Stampede (yellow),2,0
+189,Levia,2026-10-01T15:54:34,Satiate Bloodthirst (yellow),1,0
+189,Levia,2026-10-01T15:54:34,Whispers Within (yellow),1,0
+189,Levia,2026-10-01T15:54:34,Beckoning Hunger (blue),2,0
+189,Levia,2026-10-01T15:54:34,Blasmophet's Boon (blue),2,0
+189,Levia,2026-10-01T15:54:34,Consuming Command (blue),2,0
+189,Levia,2026-10-01T15:54:34,Feeding Frenzy (blue),1,0
+189,Levia,2026-10-01T15:54:34,Goremass Summoning (blue),2,0
+189,Levia,2026-10-01T15:54:34,Rocktop Bellow (blue),1,0
+189,Levia,2026-10-01T15:54:34,Shadowrealm Ripper (blue),1,0
+189,Levia,2026-10-01T15:54:34,Dark Arcanite Boots,1,1
+189,Levia,2026-10-01T15:54:34,Dark Arcanite Helm,1,1
+190,Malice,2026-10-01T18:31:18,Breach Flesh (red),1,0
+190,Malice,2026-10-01T18:31:18,Corpse Cover (red),1,0
+190,Malice,2026-10-01T18:31:18,Countdown to Extinction (red),1,0
+190,Malice,2026-10-01T18:31:18,Malignant Migration (red),1,0
+190,Malice,2026-10-01T18:31:18,Restless Plowman (red),1,0
+190,Malice,2026-10-01T18:31:18,Restless Shieldmaiden (red),4,0
+190,Malice,2026-10-01T18:31:18,Shadowrealm Walker (red),1,0
+190,Malice,2026-10-01T18:31:18,Whispers Within (red),1,0
+190,Malice,2026-10-01T18:31:18,Dam the Shadowake (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Ghostly Visit (yellow),2,0
+190,Malice,2026-10-01T18:31:18,Mutual Sacrifice (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Seek Horizon (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Shadowrealm Bloodhound (yellow),3,0
+190,Malice,2026-10-01T18:31:18,Shadowrealm Swiftness (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Shadowrealm Walker (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Step through Realms (yellow),1,0
+190,Malice,2026-10-01T18:31:18,Void Wraith (yellow),2,0
+190,Malice,2026-10-01T18:31:18,Abyssal Force (blue),1,0
+190,Malice,2026-10-01T18:31:18,Abyssal Rush (blue),1,0
+190,Malice,2026-10-01T18:31:18,Acrid Stench (blue),1,0
+190,Malice,2026-10-01T18:31:18,Bone Barrier (blue),1,0
+190,Malice,2026-10-01T18:31:18,Bone Mass (blue),3,0
+190,Malice,2026-10-01T18:31:18,Dam the Shadowake (blue),1,0
+190,Malice,2026-10-01T18:31:18,Mutual Sacrifice (blue),1,0
+190,Malice,2026-10-01T18:31:18,Ominous Toll (blue),1,0
+190,Malice,2026-10-01T18:31:18,Permanent Interment (blue),1,0
+190,Malice,2026-10-01T18:31:18,Shadowrealm Bloodhound (blue),2,0
+190,Malice,2026-10-01T18:31:18,Void Wraith (blue),2,0
+190,Malice,2026-10-01T18:31:18,Dark Arcanite Plating,1,1
+190,Malice,2026-10-01T18:31:18,Path of Repentance,1,1
+191,Levia,2026-10-02T05:03:27,Beckoning Hunger (red),3,0
+191,Levia,2026-10-02T05:03:27,Corporeal Chasm (red),1,0
+191,Levia,2026-10-02T05:03:27,Feasting Shadowbeast (red),2,0
+191,Levia,2026-10-02T05:03:27,Feeding Frenzy (red),1,0
+191,Levia,2026-10-02T05:03:27,Gorging Shadowbeast (red),1,0
+191,Levia,2026-10-02T05:03:27,Headstrong Stampede (red),1,0
+191,Levia,2026-10-02T05:03:27,Rise to the Challenge (red),1,0
+191,Levia,2026-10-02T05:03:27,Satiate Bloodthirst (red),1,0
+191,Levia,2026-10-02T05:03:27,Shadowrealm Bloodhound (red),1,0
+191,Levia,2026-10-02T05:03:27,Step through Realms (red),1,0
+191,Levia,2026-10-02T05:03:27,Battle Prep (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Beckoning Hunger (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Feeding Frenzy (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Headstrong Stampede (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Hellbound Assault (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Peak Power (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Rise to the Challenge (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Rocktop Bellow (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Satiate Bloodthirst (yellow),2,0
+191,Levia,2026-10-02T05:03:27,Seek Horizon (yellow),1,0
+191,Levia,2026-10-02T05:03:27,Abyssal Bite (blue),1,0
+191,Levia,2026-10-02T05:03:27,Beckoning Hunger (blue),4,0
+191,Levia,2026-10-02T05:03:27,Blasmophet's Boon (blue),1,0
+191,Levia,2026-10-02T05:03:27,Cleave the Heavens (blue),2,0
+191,Levia,2026-10-02T05:03:27,Consuming Command (blue),1,0
+191,Levia,2026-10-02T05:03:27,Feeding Frenzy (blue),1,0
+191,Levia,2026-10-02T05:03:27,Goremass Summoning (blue),1,0
+191,Levia,2026-10-02T05:03:27,Rise to the Challenge (blue),1,0
+191,Levia,2026-10-02T05:03:27,Satiate Bloodthirst (blue),1,0
+191,Levia,2026-10-02T05:03:27,Seek Horizon (blue),1,0
+191,Levia,2026-10-02T05:03:27,Step through Realms (blue),1,0
+191,Levia,2026-10-02T05:03:27,Dark Arcanite Boots,1,1
+191,Levia,2026-10-02T05:03:27,Grille of Repentance,1,1
+191,Levia,2026-10-02T05:03:27,Robe of Repentance,1,1
+192,Levia,2026-10-02T09:01:48,Beckoning Hunger (red),1,0
+192,Levia,2026-10-02T09:01:48,Cleave the Heavens (red),2,0
+192,Levia,2026-10-02T09:01:48,Countdown to Extinction (red),1,0
+192,Levia,2026-10-02T09:01:48,Darkest Hour (red),1,0
+192,Levia,2026-10-02T09:01:48,Feasting Shadowbeast (red),1,0
+192,Levia,2026-10-02T09:01:48,Feeding Frenzy (red),1,0
+192,Levia,2026-10-02T09:01:48,Headstrong Stampede (red),1,0
+192,Levia,2026-10-02T09:01:48,Rumbling Hunger (red),2,0
+192,Levia,2026-10-02T09:01:48,Satiate Bloodthirst (red),1,0
+192,Levia,2026-10-02T09:01:48,Shadowrealm Bloodhound (red),1,0
+192,Levia,2026-10-02T09:01:48,Beckoning Hunger (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Cleave the Heavens (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Consuming Lash (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Consuming Strength (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Corporeal Chasm (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Dam the Shadowake (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Feasting Shadowbeast (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Gorging Shadowbeast (yellow),3,0
+192,Levia,2026-10-02T09:01:48,Hellbound Assault (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Peak Power (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Satiate Bloodthirst (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Shadowrealm Reaper (yellow),1,0
+192,Levia,2026-10-02T09:01:48,Abyssal Bite (blue),1,0
+192,Levia,2026-10-02T09:01:48,Beckoning Hunger (blue),1,0
+192,Levia,2026-10-02T09:01:48,Consuming Command (blue),1,0
+192,Levia,2026-10-02T09:01:48,Corporeal Chasm (blue),1,0
+192,Levia,2026-10-02T09:01:48,Goremass Summoning (blue),1,0
+192,Levia,2026-10-02T09:01:48,Gorging Shadowbeast (blue),2,0
+192,Levia,2026-10-02T09:01:48,Headstrong Stampede (blue),1,0
+192,Levia,2026-10-02T09:01:48,Permanent Interment (blue),1,0
+192,Levia,2026-10-02T09:01:48,Pull from Beyond (blue),1,0
+192,Levia,2026-10-02T09:01:48,Rise to the Challenge (blue),1,0
+192,Levia,2026-10-02T09:01:48,Dark Arcanite Gloves,1,1
+192,Levia,2026-10-02T09:01:48,Dark Arcanite Helm,1,1
+192,Levia,2026-10-02T09:01:48,Path of Repentance,1,1
+192,Levia,2026-10-02T09:01:48,Robe of Repentance,1,1
+193,Malice,2026-10-02T10:27:54,Acrid Stench (red),2,0
+193,Malice,2026-10-02T10:27:54,Bone Mass (red),3,0
+193,Malice,2026-10-02T10:27:54,Corpse Cover (red),1,0
+193,Malice,2026-10-02T10:27:54,Darkest Hour (red),1,0
+193,Malice,2026-10-02T10:27:54,Ominous Toll (red),1,0
+193,Malice,2026-10-02T10:27:54,Planar Chaos (red),2,0
+193,Malice,2026-10-02T10:27:54,Pull from Beyond (red),1,0
+193,Malice,2026-10-02T10:27:54,Restless Cleric (red),2,0
+193,Malice,2026-10-02T10:27:54,Restless Corporal (red),1,0
+193,Malice,2026-10-02T10:27:54,Restless Outlaw (red),1,0
+193,Malice,2026-10-02T10:27:54,Restless Plowman (red),1,0
+193,Malice,2026-10-02T10:27:54,Whispers Within (red),1,0
+193,Malice,2026-10-02T10:27:54,Acrid Stench (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Forsaken Strike (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Malignant Migration (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Ominous Toll (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Permanent Interment (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Shadowrealm Ripper (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Shadowrealm Swiftness (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Skeletal Puppetry (yellow),1,0
+193,Malice,2026-10-02T10:27:54,Acrid Stench (blue),1,0
+193,Malice,2026-10-02T10:27:54,Breach Flesh (blue),1,0
+193,Malice,2026-10-02T10:27:54,Corpse Cover (blue),1,0
+193,Malice,2026-10-02T10:27:54,Darkest Hour (blue),1,0
+193,Malice,2026-10-02T10:27:54,Mark of Pathstone (blue),1,0
+193,Malice,2026-10-02T10:27:54,Mutual Sacrifice (blue),1,0
+193,Malice,2026-10-02T10:27:54,Ominous Toll (blue),1,0
+193,Malice,2026-10-02T10:27:54,Permanent Interment (blue),1,0
+193,Malice,2026-10-02T10:27:54,Pull from Beyond (blue),1,0
+193,Malice,2026-10-02T10:27:54,Rally the Shadow Horde (blue),1,0
+193,Malice,2026-10-02T10:27:54,Shadowrealm Bloodhound (blue),1,0
+193,Malice,2026-10-02T10:27:54,Shadowrealm Walker (blue),1,0
+193,Malice,2026-10-02T10:27:54,Dark Arcanite Boots,1,1
+193,Malice,2026-10-02T10:27:54,Dark Arcanite Helm,1,1
+193,Malice,2026-10-02T10:27:54,Path of Repentance,1,1
+194,Levia,2026-10-02T10:47:39,Beckoning Hunger (red),1,0
+194,Levia,2026-10-02T10:47:39,Feeding Frenzy (red),2,0
+194,Levia,2026-10-02T10:47:39,Headstrong Stampede (red),2,0
+194,Levia,2026-10-02T10:47:39,Peak Power (red),1,0
+194,Levia,2026-10-02T10:47:39,Pull from Beyond (red),1,0
+194,Levia,2026-10-02T10:47:39,Satiate Bloodthirst (red),1,0
+194,Levia,2026-10-02T10:47:39,Seek Horizon (red),1,0
+194,Levia,2026-10-02T10:47:39,Step through Realms (red),1,0
+194,Levia,2026-10-02T10:47:39,Tribute to Greater Power (red),1,0
+194,Levia,2026-10-02T10:47:39,Whispers Within (red),1,0
+194,Levia,2026-10-02T10:47:39,Beckoning Hunger (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Breach Flesh (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Consuming Strength (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Darkest Hour (yellow),2,0
+194,Levia,2026-10-02T10:47:39,Fallen Herald (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Ingest the Unknown (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Rocktop Bellow (yellow),2,0
+194,Levia,2026-10-02T10:47:39,Rumbling Hunger (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Satiate Bloodthirst (yellow),2,0
+194,Levia,2026-10-02T10:47:39,Shadowrealm Reaper (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Shadowrealm Walker (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Void Wraith (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Whispers Within (yellow),1,0
+194,Levia,2026-10-02T10:47:39,Abyssal Bite (blue),1,0
+194,Levia,2026-10-02T10:47:39,Corporeal Chasm (blue),1,0
+194,Levia,2026-10-02T10:47:39,Feasting Shadowbeast (blue),2,0
+194,Levia,2026-10-02T10:47:39,Goremass Summoning (blue),1,0
+194,Levia,2026-10-02T10:47:39,Permanent Interment (blue),1,0
+194,Levia,2026-10-02T10:47:39,Dark Arcanite Boots,1,1
+194,Levia,2026-10-02T10:47:39,Dark Arcanite Gloves,1,1
+194,Levia,2026-10-02T10:47:39,Grille of Repentance,1,1
+194,Levia,2026-10-02T10:47:39,Robe of Repentance,1,1

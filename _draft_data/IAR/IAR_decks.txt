@@ -7499,3 +7499,1499 @@ Made with love at the FaBrary
 See the full deck @ https://fabrary.net/decks/01M3MD6H8YDQFCBBP64Q8DV4RY
 
 
+2026-09-28 22:53:43
+Name: Nuevo mazo de Malice en Draft
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Grille of Repentance
+1x Path of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bone Mass (red)
+1x Dam the Shadowake (red)
+1x Malignant Migration (red)
+1x Restless Corporal (red)
+1x Restless Outlaw (red)
+1x Restless Quartermaster (red)
+3x Restless Steed (red)
+1x Shadowrealm Ripper (red)
+2x Shadowrealm Strength (red)
+2x Bone Mass (yellow)
+1x Commit to Corruption (yellow)
+1x Dam the Shadowake (yellow)
+1x Mutual Sacrifice (yellow)
+1x Ominous Toll (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Void Wraith (yellow)
+1x Battle Prep (blue)
+1x Bonded Burial (blue)
+1x Bone Mass (blue)
+1x Corporeal Chasm (blue)
+1x Dam the Shadowake (blue)
+1x Ghostly Visit (blue)
+1x Mark of Ushering (blue)
+1x Pull from Beyond (blue)
+1x Seek Horizon (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Shadowrealm Solace (blue)
+1x Step through Realms (blue)
+1x Void Wraith (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3MSN42TJY1GACVK37RYNWVZ
+
+
+2026-09-29 00:35:30
+Name: Nuevo mazo de Levia en Draft
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+
+Deck cards
+1x Beckoning Hunger (red)
+2x Corporeal Chasm (red)
+1x Dam the Shadowake (red)
+1x Feasting Shadowbeast (red)
+2x Gorging Shadowbeast (red)
+1x Rise to the Challenge (red)
+1x Rocktop Bellow (red)
+1x Satiate Bloodthirst (red)
+1x Shadowrealm Bloodhound (red)
+1x Step through Realms (red)
+1x Tribute to Greater Power (red)
+1x Beckoning Hunger (yellow)
+1x Consuming Appetite (yellow)
+1x Consuming Lash (yellow)
+1x Consuming Strength (yellow)
+2x Feeding Frenzy (yellow)
+1x Gorging Shadowbeast (yellow)
+1x Rally the Shadow Horde (yellow)
+1x Rise to the Challenge (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Step through Realms (yellow)
+1x Whispers Within (yellow)
+1x Blasmophet's Boon (blue)
+1x Dam the Shadowake (blue)
+1x Feasting Shadowbeast (blue)
+1x Feeding Frenzy (blue)
+2x Goremass Summoning (blue)
+1x Gorging Shadowbeast (blue)
+1x Headstrong Stampede (blue)
+1x Rise to the Challenge (blue)
+1x Rocktop Bellow (blue)
+1x Satiate Bloodthirst (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3MZFQM5ZMXV6JMYPEGY1SAA
+
+
+2026-09-29 02:44:17
+Name: L 29 Sep D54
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+1x Robe of Repentance
+
+Deck cards
+1x Beckoning Hunger (red)
+1x Cleave the Heavens (red)
+1x Dam the Shadowake (red)
+2x Feasting Shadowbeast (red)
+1x Feeding Frenzy (red)
+1x Harbinger of Destruction (red)
+1x Hellbound Assault (red)
+1x Rocktop Bellow (red)
+1x Satiate Bloodthirst (red)
+1x Shadowrealm Harvester (red)
+1x Step through Realms (red)
+1x Void Wraith (red)
+1x Beckoning Hunger (yellow)
+1x Cleave the Heavens (yellow)
+2x Corporeal Chasm (yellow)
+1x Feasting Shadowbeast (yellow)
+2x Gorging Shadowbeast (yellow)
+1x Hellbound Assault (yellow)
+1x Permanent Interment (yellow)
+3x Rise to the Challenge (yellow)
+1x Satiate Bloodthirst (yellow)
+1x Step through Realms (yellow)
+1x Cleave the Heavens (blue)
+1x Consuming Command (blue)
+2x Feasting Shadowbeast (blue)
+1x Ghostly Visit (blue)
+1x Rumbling Hunger (blue)
+1x Shadowrealm Harrower (blue)
+2x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3N6AG3FT89YNYN9H5C486J6
+
+
+2026-09-29 05:40:10
+Name: 3-0
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Grille of Repentance
+1x Hell Hammer
+1x Hex Gauntlet
+1x Robe of Repentance
+
+Deck cards
+1x Battle Prep (red)
+1x Cleave the Heavens (red)
+2x Feasting Shadowbeast (red)
+1x Feeding Frenzy (red)
+1x Harbinger of Destruction (red)
+1x Headstrong Stampede (red)
+1x Rumbling Hunger (red)
+1x Seek Horizon (red)
+1x Whispers Within (red)
+1x Cleave the Heavens (yellow)
+1x Corporeal Chasm (yellow)
+1x Darkest Hour (yellow)
+1x Feasting Shadowbeast (yellow)
+1x Headstrong Stampede (yellow)
+1x Permanent Interment (yellow)
+1x Satiate Bloodthirst (yellow)
+4x Seek Horizon (yellow)
+1x Void Wraith (yellow)
+1x Abyssal Force (blue)
+1x Blasmophet's Boon (blue)
+1x Consuming Command (blue)
+1x Countdown to Extinction (blue)
+1x Dam the Shadowake (blue)
+1x Darkest Hour (blue)
+1x Pull from Beyond (blue)
+1x Rites of Nightfall (blue)
+3x Seek Horizon (blue)
+1x Shadowrealm Walker (blue)
+1x Void Wraith (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3NGSGQ0ZXGNSB1EAAPAH3RW
+
+
+2026-09-29 06:49:25
+Name: L 29 Sep D55
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Plating
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+
+Deck cards
+1x Dam the Shadowake (red)
+1x Darkest Hour (red)
+1x Feasting Shadowbeast (red)
+2x Gorging Shadowbeast (red)
+2x Headstrong Stampede (red)
+1x Hellbound Assault (red)
+2x Satiate Bloodthirst (red)
+1x Seek Horizon (red)
+1x Step through Realms (red)
+1x Beckoning Hunger (yellow)
+1x Cleave the Heavens (yellow)
+1x Dam the Shadowake (yellow)
+2x Gorging Shadowbeast (yellow)
+2x Headstrong Stampede (yellow)
+1x Hellbound Assault (yellow)
+1x Ingest the Unknown (yellow)
+1x Permanent Interment (yellow)
+1x Satiate Bloodthirst (yellow)
+1x Seek Horizon (yellow)
+1x Step through Realms (yellow)
+1x Whispers Within (yellow)
+1x Beckoning Hunger (blue)
+1x Breach Flesh (blue)
+1x Corporeal Chasm (blue)
+1x Countdown to Extinction (blue)
+1x Dimenxxional Ferryman (blue)
+3x Gorging Shadowbeast (blue)
+1x Pull from Beyond (blue)
+1x Rise to the Challenge (blue)
+2x Satiate Bloodthirst (blue)
+1x Shadowrealm Harrower (blue)
+1x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3NMY2EE52WMXYTNNG7CAJ3B
+
+
+2026-09-29 11:04:44
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Helm
+1x Dark Arcanite Plating
+1x Grille of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Murmur of i'Arathael (red)
+1x Open the Gate to i'Arathael (red)
+1x Permanent Interment (red)
+1x Restless Corporal (red)
+1x Restless Magister (red)
+1x Restless Plowman (red)
+1x Restless Quartermaster (red)
+1x Shadowrealm Ripper (red)
+3x Shadowrealm Walker (red)
+1x Skeletal Puppetry (red)
+2x Step through Realms (red)
+1x Void Wraith (red)
+1x Corpse Cover (yellow)
+1x Darkest Hour (yellow)
+1x Mutual Sacrifice (yellow)
+1x Ominous Toll (yellow)
+1x Pull from Beyond (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Abyssal Force (blue)
+1x Bonded Burial (blue)
+1x Mark of Pathstone (blue)
+1x Mutual Sacrifice (blue)
+1x Permanent Interment (blue)
+1x Pull from Beyond (blue)
+1x Seek Horizon (blue)
+1x Shadowrealm Solace (blue)
+1x Skeletal Puppetry (blue)
+2x Step through Realms (blue)
+2x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3NYV9MEPPJ7FC7B7ZSHTRYY
+
+
+2026-09-29 11:27:50
+Name: M 29 Sep D56
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Path of Repentance
+1x Vox Necropolis
+
+Deck cards
+2x Bone Mass (red)
+1x Breach Flesh (red)
+1x Corporeal Chasm (red)
+1x Ghostly Visit (red)
+1x Mutual Sacrifice (red)
+1x Ominous Toll (red)
+1x Permanent Interment (red)
+2x Restless Corporal (red)
+1x Restless Outlaw (red)
+2x Restless Shieldmaiden (red)
+1x Restless Steed (red)
+2x Shadowrealm Strength (red)
+1x Shadowrealm Walker (red)
+1x Step through Realms (red)
+1x Acrid Stench (yellow)
+2x Breach Flesh (yellow)
+1x Dam the Shadowake (yellow)
+1x Ominous Toll (yellow)
+2x Shadowrealm Swiftness (yellow)
+1x Acrid Stench (blue)
+1x Bonded Burial (blue)
+2x Bone Mass (blue)
+1x Breach Flesh (blue)
+1x Malignant Migration (blue)
+1x Permanent Interment (blue)
+1x Pull from Beyond (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Shadowrealm Ripper (blue)
+1x Shadowrealm Solace (blue)
+2x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3P43EVDGAQGW3SZDN6CFJDQ
+
+
+2026-09-29 16:19:26
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bone Mass (red)
+1x Corporeal Chasm (red)
+2x Dam the Shadowake (red)
+1x Malignant Migration (red)
+1x Mutual Sacrifice (red)
+1x Permanent Interment (red)
+1x Restless Outlaw (red)
+1x Restless Shieldmaiden (red)
+2x Restless Steed (red)
+1x Rumbling of i'Arathael (red)
+1x Seek Horizon (red)
+2x Whispers Within (red)
+1x Acrid Stench (yellow)
+1x Battle Prep (yellow)
+1x Breach Flesh (yellow)
+1x Shadowrealm Walker (yellow)
+1x Abyssal Force (blue)
+3x Acrid Stench (blue)
+1x Bonded Burial (blue)
+2x Breach Flesh (blue)
+1x Corporeal Chasm (blue)
+1x Dimenxxional Ferryman (blue)
+1x Ghostly Visit (blue)
+1x Mark of Ushering (blue)
+1x Ominous Toll (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3PK5KC875GCKH8SB11DPRZ3
+
+
+2026-09-29 16:52:55
+Name: New Levia Draft deck
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+
+Deck cards
+2x Beckoning Hunger (red)
+1x Corporeal Chasm (red)
+1x Countdown to Extinction (red)
+1x Feasting Shadowbeast (red)
+1x Planar Chaos (red)
+1x Rally the Shadow Horde (red)
+1x Rocktop Bellow (red)
+2x Seek Horizon (red)
+1x Tribute to Greater Power (red)
+1x Beckoning Hunger (yellow)
+1x Cleave the Heavens (yellow)
+1x Darkest Hour (yellow)
+1x Feeding Frenzy (yellow)
+1x Gorging Shadowbeast (yellow)
+1x Hellbound Assault (yellow)
+1x Seek Horizon (yellow)
+1x Shadowrealm Bloodhound (yellow)
+3x Beckoning Hunger (blue)
+1x Breach Flesh (blue)
+1x Consuming Command (blue)
+1x Dam the Shadowake (blue)
+1x Feasting Shadowbeast (blue)
+2x Feeding Frenzy (blue)
+1x Satiate Bloodthirst (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Shadowrealm Walker (blue)
+1x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3PQA1P8PGQP51FNVNQSWE64
+
+
+2026-09-29 19:16:03
+Name: New Viserai2 Draft deck
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Helm
+1x Grasp of the Darknight
+1x Path of Repentance
+1x Seven Sin Nebula
+
+Deck cards
+2x Bloodfrenzy Gloomblade (red)
+1x Cullingsong Gloomblade (red)
+3x Demonbound Gloomblade (red)
+1x Embrace Ursur (red)
+1x Ghostly Visit (red)
+1x Murmuring Gloomblade (red)
+1x Otherworldly Sins (red)
+1x Planar Chaos (red)
+1x Runic Disposition (red)
+2x Shadowrealm Ripper (red)
+1x Bloodfrenzy Gloomblade (yellow)
+2x Embrace Ursur (yellow)
+1x Enshrine Sin (yellow)
+2x Murmuring Gloomblade (yellow)
+1x Otherworldly Sins (yellow)
+1x Runechant of Envy (yellow)
+1x Runechant of Gluttony (yellow)
+1x Runechant of Lust (yellow)
+1x Runechant of Pride (yellow)
+1x Runechant of Sloth (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Demonbound Gloomblade (blue)
+2x Embrace Ursur (blue)
+3x Enshrine Sin (blue)
+1x Ghostly Visit (blue)
+3x Murmuring Gloomblade (blue)
+1x Vexing Gloomblade (blue)
+1x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3Q04BVXZK0ED7RT9CV73E8J
+
+
+2026-09-29 21:26:23
+Name: 30 Sep 3-0 VLM
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Plating
+1x Grasp of the Darknight
+1x Grille of Repentance
+1x Robe of Repentance
+1x Seven Sin Nebula
+
+Deck cards
+1x Bloodfrenzy Gloomblade (red)
+1x Corporeal Chasm (red)
+1x Cullingsong Gloomblade (red)
+1x Demonbound Gloomblade (red)
+1x Embrace Ursur (red)
+2x Enshrine Sin (red)
+1x Ghostly Visit (red)
+2x Murmuring Gloomblade (red)
+1x Otherworldly Sins (red)
+1x Permanent Interment (red)
+1x Plundersong Gloomblade (red)
+1x Runic Disposition (red)
+1x Bloodfrenzy Gloomblade (yellow)
+1x Embrace Ursur (yellow)
+2x Murmuring Gloomblade (yellow)
+1x Runechant of Envy (yellow)
+1x Runechant of Gluttony (yellow)
+1x Runechant of Lust (yellow)
+1x Runechant of Pride (yellow)
+1x Seek Horizon (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Become the Shadow Lord (blue)
+2x Bloodfrenzy Gloomblade (blue)
+1x Demonbound Gloomblade (blue)
+1x Enshrine Sin (blue)
+1x Otherworldly Sins (blue)
+1x Permanent Interment (blue)
+2x Shadowake Gloomblade (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3Q5FCGWQRSPM57W2HWPNW97
+
+
+2026-09-29 22:39:31
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Vox Necropolis
+
+Deck cards
+2x Bonded Burial (red)
+2x Bone Mass (red)
+1x Breach Flesh (red)
+3x Malignant Migration (red)
+2x Ominous Toll (red)
+1x Restless Cleric (red)
+1x Restless Magister (red)
+1x Restless Outlaw (red)
+1x Restless Plowman (red)
+1x Restless Shieldmaiden (red)
+1x Shadowrealm Bloodhound (red)
+1x Skeletal Puppetry (red)
+1x Tome of Necrosis (red)
+1x Violent Gusto (red)
+1x Void Wraith (red)
+1x Bonded Burial (yellow)
+1x Breach Flesh (yellow)
+1x Malignant Migration (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Abyssal Force (blue)
+3x Acrid Stench (blue)
+1x Bone Barrier (blue)
+1x Breach Flesh (blue)
+1x Commit to Corruption (blue)
+1x Corporeal Chasm (blue)
+1x Malignant Migration (blue)
+1x Mutual Sacrifice (blue)
+1x Shadowrealm Ripper (blue)
+2x Shadowrealm Solace (blue)
+2x Shadowrealm Walker (blue)
+1x Step through Realms (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3Q9WM2JD64AFN3KX4JJJRKF
+
+
+2026-09-30 01:03:34
+Name: Nouveau deck de Malice en Draft
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Gloves
+1x Grille of Repentance
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bonded Burial (red)
+1x Breach Flesh (red)
+1x Commit to Corruption (red)
+1x Corporeal Chasm (red)
+2x Malignant Migration (red)
+1x Ominous Toll (red)
+1x Restless Cleric (red)
+1x Restless Looter (red)
+1x Restless Quartermaster (red)
+1x Restless Shieldmaiden (red)
+1x Seek Horizon (red)
+1x Unbound by Shadow (red)
+1x Whispers Within (red)
+3x Bone Mass (yellow)
+1x Dam the Shadowake (yellow)
+2x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Shadowrealm Walker (yellow)
+1x Bone Mass (blue)
+1x Breach Flesh (blue)
+2x Corporeal Chasm (blue)
+1x Mark of Neverest (blue)
+1x Ominous Toll (blue)
+1x Pull from Beyond (blue)
+1x Rites of Nightfall (blue)
+1x Shadowrealm Harrower (blue)
+1x Shadowrealm Solace (blue)
+1x Step through Realms (blue)
+2x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3QKAQZGSKQP8321SGX5KD3W
+
+
+2026-09-30 01:26:34
+Name: i kinda hate levia?
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+1x Robe of Repentance
+
+Deck cards
+1x Beckoning Hunger (red)
+1x Corporeal Chasm (red)
+1x Devouring Doomwake (red)
+2x Feasting Shadowbeast (red)
+1x Feeding Frenzy (red)
+1x Ghostly Visit (red)
+1x Harbinger of Destruction (red)
+1x Permanent Interment (red)
+1x Rise to the Challenge (red)
+1x Corporeal Chasm (yellow)
+1x Ghostly Visit (yellow)
+1x Gorging Shadowbeast (yellow)
+2x Permanent Interment (yellow)
+1x Pull from Beyond (yellow)
+1x Rise to the Challenge (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Shadowrealm Walker (yellow)
+2x Step through Realms (yellow)
+1x Void Wraith (yellow)
+1x Whispers Within (yellow)
+1x Breach Flesh (blue)
+1x Countdown to Extinction (blue)
+1x Dam the Shadowake (blue)
+1x Feasting Shadowbeast (blue)
+1x Peak Power (blue)
+1x Rocktop Bellow (blue)
+1x Rumbling Hunger (blue)
+1x Satiate Bloodthirst (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3QEJ4RXXNZCA5DQRSAT0W98
+
+
+2026-09-30 12:50:06
+Name: L3
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Helm
+1x Grille of Repentance
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+1x Robe of Repentance
+
+Deck cards
+1x Battle Prep (red)
+1x Cleave the Heavens (red)
+1x Corporeal Chasm (red)
+1x Feasting Shadowbeast (red)
+1x Gorging Shadowbeast (red)
+3x Headstrong Stampede (red)
+1x Hellbound Assault (red)
+2x Pull from Beyond (red)
+2x Shadowrealm Bloodhound (red)
+1x Shadowrealm Ripper (red)
+1x Shadowrealm Walker (red)
+2x Consuming Lash (yellow)
+1x Dam the Shadowake (yellow)
+1x Darkest Hour (yellow)
+1x Gorging Shadowbeast (yellow)
+1x Rally the Shadow Horde (yellow)
+1x Shadowrealm Walker (yellow)
+1x Blasmophet's Boon (blue)
+1x Cleave the Heavens (blue)
+2x Consuming Command (blue)
+1x Dam the Shadowake (blue)
+3x Goremass Summoning (blue)
+1x Rites of Nightfall (blue)
+1x Satiate Bloodthirst (blue)
+1x Shadowrealm Ripper (blue)
+1x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3RV7FHHE5FKQTWBJS1NWBAJ
+
+
+2026-09-30 15:51:07
+Name: Malice 3-0
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Acrid Stench (red)
+1x Bonded Burial (red)
+2x Bone Mass (red)
+2x Breach Flesh (red)
+1x Corporeal Chasm (red)
+1x Corrupt and Conquer (red)
+2x Ominous Toll (red)
+1x Restless Cleric (red)
+2x Restless Shieldmaiden (red)
+1x Restless Steed (red)
+2x Bonded Burial (yellow)
+1x Commit to Corruption (yellow)
+1x Countdown to Extinction (yellow)
+1x Forsaken Strike (yellow)
+1x Ghostly Visit (yellow)
+2x Ominous Toll (yellow)
+1x Permanent Interment (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Bonded Burial (blue)
+2x Bone Mass (blue)
+1x Countdown to Extinction (blue)
+2x Ghostly Visit (blue)
+1x Rites of Nightfall (blue)
+1x Shadowrealm Bloodhound (blue)
+2x Shadowrealm Solace (blue)
+1x Skeletal Puppetry (blue)
+1x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3S3T5Q1QT06V87D6WT5F28R
+
+
+2026-09-30 16:51:47
+Name: New Viserai2 Draft deck
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Gloves
+1x Grasp of the Darknight
+1x Grille of Repentance
+1x Robe of Repentance
+1x Seven Sin Nebula
+
+Deck cards
+1x Bloodfrenzy Gloomblade (red)
+1x Demonbound Gloomblade (red)
+1x Embrace Ursur (red)
+1x Ghostly Visit (red)
+1x Murmur of i'Arathael (red)
+2x Otherworldly Sins (red)
+1x Permanent Interment (red)
+1x Shadowake Gloomblade (red)
+2x Vexing Gloomblade (red)
+1x Void Wraith (red)
+1x Embrace Sin (yellow)
+1x Embrace Ursur (yellow)
+1x Enshrine Sin (yellow)
+2x Murmuring Gloomblade (yellow)
+1x Runechant of Gluttony (yellow)
+1x Runechant of Sloth (yellow)
+2x Runechant of Wrath (yellow)
+1x Runic Reaving (yellow)
+1x Abyssal Bite (blue)
+1x Bloodfrenzy Gloomblade (blue)
+3x Demonbound Gloomblade (blue)
+1x Embrace Ursur (blue)
+2x Murmuring Gloomblade (blue)
+1x Otherworldly Sins (blue)
+1x Runic Disposition (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3S8DXFY6KHT4EZYZ1WPTXBJ
+
+
+2026-09-30 17:35:39
+Name: midnight draft malice
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Grille of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bonded Burial (red)
+1x Corpse Cover (red)
+1x Dam the Shadowake (red)
+1x Ghostly Visit (red)
+1x Malignant Migration (red)
+1x Mutual Sacrifice (red)
+1x Ominous Toll (red)
+1x Permanent Interment (red)
+1x Rally the Shadow Horde (red)
+1x Restless Corporal (red)
+2x Restless Shieldmaiden (red)
+1x Restless Steed (red)
+1x Seek Horizon (red)
+1x Shadowrealm Bloodhound (red)
+2x Step through Realms (red)
+2x Acrid Stench (yellow)
+1x Battle Prep (yellow)
+1x Bone Mass (yellow)
+1x Commit to Corruption (yellow)
+2x Malignant Migration (yellow)
+1x Mutual Sacrifice (yellow)
+1x Skeletal Puppetry (yellow)
+2x Step through Realms (yellow)
+1x Abyssal Force (blue)
+1x Abyssal Rush (blue)
+1x Breach Flesh (blue)
+1x Dimenxxional Ferryman (blue)
+1x Ominous Toll (blue)
+1x Permanent Interment (blue)
+1x Shadowrealm Harrower (blue)
+1x Shadowrealm Ripper (blue)
+1x Shadowrealm Solace (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3SB1RK3PQ4SDWEJKYKSPPH8
+
+
+2026-09-30 21:31:46
+Name: New Levia Draft deck
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Plating
+1x Grille of Repentance
+1x Hell Hammer
+1x Hex Gauntlet
+
+Deck cards
+1x Cleave the Heavens (red)
+1x Darkest Hour (red)
+3x Feasting Shadowbeast (red)
+1x Gorging Shadowbeast (red)
+1x Harbinger of Destruction (red)
+1x Headstrong Stampede (red)
+2x Rise to the Challenge (red)
+1x Rocktop Bellow (red)
+1x Satiate Bloodthirst (red)
+1x Whispers Within (red)
+2x Consuming Appetite (yellow)
+1x Consuming Strength (yellow)
+1x Dam the Shadowake (yellow)
+1x Feasting Shadowbeast (yellow)
+1x Feeding Frenzy (yellow)
+1x Gorging Shadowbeast (yellow)
+1x Rumbling Hunger (yellow)
+1x Satiate Bloodthirst (yellow)
+1x Abyssal Force (blue)
+1x Beckoning Hunger (blue)
+2x Blasmophet's Boon (blue)
+1x Cleave the Heavens (blue)
+2x Consuming Command (blue)
+1x Darkest Hour (blue)
+2x Feasting Shadowbeast (blue)
+1x Feeding Frenzy (blue)
+3x Goremass Summoning (blue)
+1x Peak Power (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3ST0DB93MKR3XCKFVX8HV38
+
+
+2026-09-30 22:18:49
+Name: New Viserai2 Draft deck
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Grasp of the Darknight
+1x Grille of Repentance
+1x Path of Repentance
+1x Seven Sin Nebula
+
+Deck cards
+1x Breach Flesh (red)
+1x Cullingsong Gloomblade (red)
+1x Demonbound Gloomblade (red)
+1x Embrace Ursur (red)
+1x Enshrine Sin (red)
+1x Murmuring Gloomblade (red)
+1x Otherworldly Sins (red)
+1x Permanent Interment (red)
+1x Rumbling of i'Arathael (red)
+1x Runic Disposition (red)
+3x Demonbound Gloomblade (yellow)
+1x Embrace Sin (yellow)
+1x Embrace Ursur (yellow)
+2x Murmuring Gloomblade (yellow)
+1x Otherworldly Sins (yellow)
+2x Runechant of Envy (yellow)
+1x Runechant of Pride (yellow)
+1x Runechant of Sloth (yellow)
+1x Runechant of Wrath (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Vexing Gloomblade (yellow)
+1x Abyssal Bite (blue)
+1x Abyssal Rush (blue)
+1x Darkest Hour (blue)
+1x Embrace Ursur (blue)
+1x Enshrine Sin (blue)
+1x Murmuring Gloomblade (blue)
+1x Runic Reaving (blue)
+2x Shadowake Gloomblade (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3SWBEGXDJCY6NHCZN8FC8PH
+
+
+2026-09-30 23:55:59
+Name: 3-0
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Grille of Repentance
+1x Path of Repentance
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bonded Burial (red)
+1x Bone Mass (red)
+1x Commit to Corruption (red)
+1x Corpse Cover (red)
+1x Darkest Hour (red)
+1x Malignant Migration (red)
+1x Mutual Sacrifice (red)
+1x Ominous Toll (red)
+1x Pull from Beyond (red)
+1x Restless Corporal (red)
+2x Restless Plowman (red)
+1x Restless Quartermaster (red)
+2x Restless Steed (red)
+3x Shadowrealm Strength (red)
+1x Shadowrealm Walker (red)
+1x Battle Prep (yellow)
+1x Bone Mass (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Abyssal Bite (blue)
+1x Bonded Burial (blue)
+2x Bone Mass (blue)
+1x Bridge of Damnation (blue)
+1x Dam the Shadowake (blue)
+2x Ominous Toll (blue)
+1x Pull from Beyond (blue)
+1x Shadowrealm Solace (blue)
+1x Shadowrealm Walker (blue)
+1x Void Wraith (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3T1S4534E821PX0WCQQKHRC
+
+
+2026-10-01 04:28:41
+Name: Nuevo mazo de Levia en Draft
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+
+Deck cards
+1x Corporeal Chasm (red)
+1x Gorging Shadowbeast (red)
+1x Hellbound Assault (red)
+2x Peak Power (red)
+1x Planar Chaos (red)
+1x Satiate Bloodthirst (red)
+1x Violent Gusto (red)
+1x Battle Prep (yellow)
+1x Breach Flesh (yellow)
+1x Consuming Appetite (yellow)
+1x Fallen Herald (yellow)
+1x Feeding Frenzy (yellow)
+1x Hellbound Assault (yellow)
+2x Satiate Bloodthirst (yellow)
+1x Whispers Within (yellow)
+3x Consuming Command (blue)
+1x Corporeal Chasm (blue)
+1x Dam the Shadowake (blue)
+1x Feasting Shadowbeast (blue)
+1x Feeding Frenzy (blue)
+1x Goremass Summoning (blue)
+1x Rally the Shadow Horde (blue)
+2x Rocktop Bellow (blue)
+1x Rumbling Hunger (blue)
+1x Seek Horizon (blue)
+2x Step through Realms (blue)
+1x Void Wraith (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3THWMQNC3VHV4WFT5MA2XGQ
+
+
+2026-10-01 08:28:21
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Gloves
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+3x Acrid Stench (red)
+1x Bonded Burial (red)
+1x Corporeal Chasm (red)
+1x Dam the Shadowake (red)
+1x Darkest Hour (red)
+1x Restless Outlaw (red)
+2x Restless Plowman (red)
+1x Restless Steed (red)
+1x Shadowrealm Strength (red)
+3x Acrid Stench (yellow)
+1x Commit to Corruption (yellow)
+1x Corporeal Chasm (yellow)
+1x Corpse Cover (yellow)
+1x Mutual Sacrifice (yellow)
+2x Permanent Interment (yellow)
+2x Pull from Beyond (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Void Wraith (yellow)
+1x Acrid Stench (blue)
+1x Bone Mass (blue)
+1x Corporeal Chasm (blue)
+1x Malignant Migration (blue)
+1x Mark of Pathstone (blue)
+1x Rites of Nightfall (blue)
+1x Shadowrealm Ripper (blue)
+2x Shadowrealm Solace (blue)
+1x Step through Realms (blue)
+1x Whispers Within (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3TVRFDC0C8V70P2XEJ1VE4S
+
+
+2026-10-01 11:35:32
+Name: New Viserai2 Draft deck
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Dark Arcanite Plating
+1x Grasp of the Darknight
+1x Seven Sin Nebula
+
+Deck cards
+1x Embrace Ursur (red)
+2x Murmuring Gloomblade (red)
+2x Otherworldly Sins (red)
+1x Runic Reaving (red)
+1x Shadowake Gloomblade (red)
+1x Shadowrealm Walker (red)
+1x Step through Realms (red)
+1x Unbound by Shadow (red)
+2x Bloodfrenzy Gloomblade (yellow)
+2x Demonbound Gloomblade (yellow)
+2x Embrace Sin (yellow)
+1x Embrace Ursur (yellow)
+1x Enshrine Sin (yellow)
+1x Fallen Herald (yellow)
+2x Ghostly Visit (yellow)
+1x Murmuring Gloomblade (yellow)
+1x Runechant of Envy (yellow)
+1x Runechant of Gluttony (yellow)
+2x Runechant of Pride (yellow)
+1x Runic Reaving (yellow)
+1x Abyssal Force (blue)
+2x Breach Flesh (blue)
+1x Corporeal Chasm (blue)
+1x Countdown to Extinction (blue)
+1x Otherworldly Sins (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3V7R47XB0B8G2761MNX55YZ
+
+
+2026-10-01 12:33:16
+Name: New Levia Draft deck
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Hell Hammer
+1x Hex Gauntlet
+1x Robe of Repentance
+
+Deck cards
+2x Cleave the Heavens (red)
+1x Darkest Hour (red)
+1x Feasting Shadowbeast (red)
+1x Gorging Shadowbeast (red)
+1x Harbinger of Destruction (red)
+1x Hellbound Assault (red)
+1x Permanent Interment (red)
+1x Rise to the Challenge (red)
+1x Satiate Bloodthirst (red)
+2x Shadowrealm Bloodhound (red)
+1x Shadowrealm Harvester (red)
+1x Tribute to Greater Power (red)
+1x Breach Flesh (yellow)
+1x Cleave the Heavens (yellow)
+1x Darkest Hour (yellow)
+1x Peak Power (yellow)
+1x Rise to the Challenge (yellow)
+1x Shadowrealm Bloodhound (yellow)
+2x Beckoning Hunger (blue)
+1x Blasmophet's Boon (blue)
+1x Breach Flesh (blue)
+1x Cleave the Heavens (blue)
+1x Consuming Command (blue)
+2x Feeding Frenzy (blue)
+2x Goremass Summoning (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3VD0YHT0GGH7Q8TDKXVT73A
+
+
+2026-10-01 13:52:54
+Name: M4
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+2x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Robe of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Bone Mass (red)
+2x Commit to Corruption (red)
+1x Dam the Shadowake (red)
+1x Ominous Toll (red)
+1x Restless Cleric (red)
+1x Restless Looter (red)
+1x Restless Outlaw (red)
+1x Restless Shieldmaiden (red)
+1x Restless Steed (red)
+1x Restless Templar (red)
+1x Seek Horizon (red)
+1x Shadowrealm Strength (red)
+2x Bone Mass (yellow)
+1x Ghostly Visit (yellow)
+2x Mutual Sacrifice (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+2x Acrid Stench (blue)
+2x Bonded Burial (blue)
+2x Breach Flesh (blue)
+1x Corporeal Chasm (blue)
+1x Corpse Cover (blue)
+1x Darkest Hour (blue)
+1x Ominous Toll (blue)
+1x Permanent Interment (blue)
+1x Seek Horizon (blue)
+1x Shadowrealm Bloodhound (blue)
+2x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3VGVB91E5YJDS4E0Q58926M
+
+
+2026-10-01 15:54:34
+Name: New Levia Draft deck
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+
+Deck cards
+1x Battle Prep (red)
+2x Beckoning Hunger (red)
+1x Corporeal Chasm (red)
+1x Darkest Hour (red)
+1x Feeding Frenzy (red)
+1x Headstrong Stampede (red)
+1x Peak Power (red)
+1x Rise to the Challenge (red)
+2x Rumbling of i'Arathael (red)
+2x Satiate Bloodthirst (red)
+1x Step through Realms (red)
+1x Whispers Within (red)
+2x Beckoning Hunger (yellow)
+1x Dam the Shadowake (yellow)
+1x Gorging Shadowbeast (yellow)
+2x Headstrong Stampede (yellow)
+1x Satiate Bloodthirst (yellow)
+1x Whispers Within (yellow)
+2x Beckoning Hunger (blue)
+2x Blasmophet's Boon (blue)
+2x Consuming Command (blue)
+1x Feeding Frenzy (blue)
+2x Goremass Summoning (blue)
+1x Rocktop Bellow (blue)
+1x Shadowrealm Ripper (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3VSPSQJ11VTQ8XQ35BPYA59
+
+
+2026-10-01 18:31:18
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Plating
+1x Path of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Breach Flesh (red)
+1x Corpse Cover (red)
+1x Countdown to Extinction (red)
+1x Malignant Migration (red)
+1x Restless Plowman (red)
+4x Restless Shieldmaiden (red)
+1x Shadowrealm Walker (red)
+1x Whispers Within (red)
+1x Dam the Shadowake (yellow)
+2x Ghostly Visit (yellow)
+1x Mutual Sacrifice (yellow)
+1x Seek Horizon (yellow)
+3x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Shadowrealm Walker (yellow)
+1x Step through Realms (yellow)
+2x Void Wraith (yellow)
+1x Abyssal Force (blue)
+1x Abyssal Rush (blue)
+1x Acrid Stench (blue)
+1x Bone Barrier (blue)
+3x Bone Mass (blue)
+1x Dam the Shadowake (blue)
+1x Mutual Sacrifice (blue)
+1x Ominous Toll (blue)
+1x Permanent Interment (blue)
+2x Shadowrealm Bloodhound (blue)
+2x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3W0YYSR06NXDY9B378JME3X
+
+
+2026-10-02 05:03:27
+Name: New Levia Draft deck
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Grille of Repentance
+1x Hell Hammer
+1x Hex Gauntlet
+1x Robe of Repentance
+
+Deck cards
+3x Beckoning Hunger (red)
+1x Corporeal Chasm (red)
+2x Feasting Shadowbeast (red)
+1x Feeding Frenzy (red)
+1x Gorging Shadowbeast (red)
+1x Headstrong Stampede (red)
+1x Rise to the Challenge (red)
+1x Satiate Bloodthirst (red)
+1x Shadowrealm Bloodhound (red)
+1x Step through Realms (red)
+1x Battle Prep (yellow)
+1x Beckoning Hunger (yellow)
+1x Feeding Frenzy (yellow)
+1x Headstrong Stampede (yellow)
+1x Hellbound Assault (yellow)
+1x Peak Power (yellow)
+1x Rise to the Challenge (yellow)
+1x Rocktop Bellow (yellow)
+2x Satiate Bloodthirst (yellow)
+1x Seek Horizon (yellow)
+1x Abyssal Bite (blue)
+4x Beckoning Hunger (blue)
+1x Blasmophet's Boon (blue)
+2x Cleave the Heavens (blue)
+1x Consuming Command (blue)
+1x Feeding Frenzy (blue)
+1x Goremass Summoning (blue)
+1x Rise to the Challenge (blue)
+1x Satiate Bloodthirst (blue)
+1x Seek Horizon (blue)
+1x Step through Realms (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3X6GKTR66BFEF0CBDK860NN
+
+
+2026-10-02 09:01:48
+Name: L 2 Oct D60
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Gloves
+1x Dark Arcanite Helm
+1x Hell Hammer
+1x Hex Gauntlet
+1x Path of Repentance
+1x Robe of Repentance
+
+Deck cards
+1x Beckoning Hunger (red)
+2x Cleave the Heavens (red)
+1x Countdown to Extinction (red)
+1x Darkest Hour (red)
+1x Feasting Shadowbeast (red)
+1x Feeding Frenzy (red)
+1x Headstrong Stampede (red)
+2x Rumbling Hunger (red)
+1x Satiate Bloodthirst (red)
+1x Shadowrealm Bloodhound (red)
+1x Beckoning Hunger (yellow)
+1x Cleave the Heavens (yellow)
+1x Consuming Lash (yellow)
+1x Consuming Strength (yellow)
+1x Corporeal Chasm (yellow)
+1x Dam the Shadowake (yellow)
+1x Feasting Shadowbeast (yellow)
+3x Gorging Shadowbeast (yellow)
+1x Hellbound Assault (yellow)
+1x Peak Power (yellow)
+1x Satiate Bloodthirst (yellow)
+1x Shadowrealm Reaper (yellow)
+1x Abyssal Bite (blue)
+1x Beckoning Hunger (blue)
+1x Consuming Command (blue)
+1x Corporeal Chasm (blue)
+1x Goremass Summoning (blue)
+2x Gorging Shadowbeast (blue)
+1x Headstrong Stampede (blue)
+1x Permanent Interment (blue)
+1x Pull from Beyond (blue)
+1x Rise to the Challenge (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3XJB6MEB6TJ295Q2XC39THV
+
+
+2026-10-02 10:27:54
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Path of Repentance
+1x Vox Necropolis
+
+Deck cards
+2x Acrid Stench (red)
+3x Bone Mass (red)
+1x Corpse Cover (red)
+1x Darkest Hour (red)
+1x Ominous Toll (red)
+2x Planar Chaos (red)
+1x Pull from Beyond (red)
+2x Restless Cleric (red)
+1x Restless Corporal (red)
+1x Restless Outlaw (red)
+1x Restless Plowman (red)
+1x Whispers Within (red)
+1x Acrid Stench (yellow)
+1x Forsaken Strike (yellow)
+1x Malignant Migration (yellow)
+1x Ominous Toll (yellow)
+1x Permanent Interment (yellow)
+1x Shadowrealm Ripper (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Skeletal Puppetry (yellow)
+1x Acrid Stench (blue)
+1x Breach Flesh (blue)
+1x Corpse Cover (blue)
+1x Darkest Hour (blue)
+1x Mark of Pathstone (blue)
+1x Mutual Sacrifice (blue)
+1x Ominous Toll (blue)
+1x Permanent Interment (blue)
+1x Pull from Beyond (blue)
+1x Rally the Shadow Horde (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Shadowrealm Walker (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3XQ6GVY1T79V6MFA8VN85ZF
+
+
+2026-10-02 10:47:39
+Name: Draft #1 Levia
+Hero: Levia
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Dark Arcanite Gloves
+1x Grille of Repentance
+1x Hell Hammer
+1x Hex Gauntlet
+1x Robe of Repentance
+
+Deck cards
+1x Beckoning Hunger (red)
+2x Feeding Frenzy (red)
+2x Headstrong Stampede (red)
+1x Peak Power (red)
+1x Pull from Beyond (red)
+1x Satiate Bloodthirst (red)
+1x Seek Horizon (red)
+1x Step through Realms (red)
+1x Tribute to Greater Power (red)
+1x Whispers Within (red)
+1x Beckoning Hunger (yellow)
+1x Breach Flesh (yellow)
+1x Consuming Strength (yellow)
+2x Darkest Hour (yellow)
+1x Fallen Herald (yellow)
+1x Ingest the Unknown (yellow)
+2x Rocktop Bellow (yellow)
+1x Rumbling Hunger (yellow)
+2x Satiate Bloodthirst (yellow)
+1x Shadowrealm Reaper (yellow)
+1x Shadowrealm Walker (yellow)
+1x Void Wraith (yellow)
+1x Whispers Within (yellow)
+1x Abyssal Bite (blue)
+1x Corporeal Chasm (blue)
+2x Feasting Shadowbeast (blue)
+1x Goremass Summoning (blue)
+1x Permanent Interment (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M3WG4A99FKVZY90JXNCHKNPM
+
+
