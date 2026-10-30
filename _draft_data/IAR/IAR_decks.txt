@@ -9699,3 +9699,193 @@ Made with love at the FaBrary
 See the full deck @ https://fabrary.net/decks/01M5NCA8SK4NFT2WWZMKFT60T7
 
 
+2026-10-26 16:27:50
+Name: M 26 Oct D88
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Grille of Repentance
+1x Vox Necropolis
+
+Deck cards
+2x Bonded Burial (red)
+2x Bone Mass (red)
+2x Breach Flesh (red)
+1x Countdown to Extinction (red)
+1x Dam the Shadowake (red)
+1x Ominous Toll (red)
+1x Restless Cleric (red)
+1x Restless Corporal (red)
+1x Restless Outlaw (red)
+1x Restless Plowman (red)
+2x Restless Shieldmaiden (red)
+1x Shadowrealm Strength (red)
+1x Shadowrealm Walker (red)
+1x Battle Prep (yellow)
+1x Corporeal Chasm (yellow)
+1x Corpse Cover (yellow)
+1x Countdown to Extinction (yellow)
+1x Pull from Beyond (yellow)
+1x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Acrid Stench (blue)
+1x Bonded Burial (blue)
+1x Bone Barrier (blue)
+1x Bone Mass (blue)
+1x Breach Flesh (blue)
+1x Corporeal Chasm (blue)
+1x Ghostly Visit (blue)
+1x Mutual Sacrifice (blue)
+2x Permanent Interment (blue)
+1x Pull from Beyond (blue)
+1x Shadowrealm Harrower (blue)
+1x Shadowrealm Solace (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M5W8Q59NSWC15YPJPF3RYFNB
+
+
+2026-10-28 16:55:46
+Name: New Malice Draft deck
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Grille of Repentance
+1x Vox Necropolis
+
+Deck cards
+1x Breach Flesh (red)
+1x Commit to Corruption (red)
+1x Corpse Cover (red)
+1x Ghostly Visit (red)
+1x Ominous Toll (red)
+1x Pull from Beyond (red)
+1x Restless Cleric (red)
+1x Restless Looter (red)
+1x Restless Plowman (red)
+1x Restless Steed (red)
+1x Shadowrealm Strength (red)
+1x Breach Flesh (yellow)
+1x Commit to Corruption (yellow)
+2x Corpse Cover (yellow)
+1x Shadowrealm Bloodhound (yellow)
+2x Whispers Within (yellow)
+1x Acrid Stench (blue)
+1x Bonded Burial (blue)
+1x Corporeal Chasm (blue)
+2x Dam the Shadowake (blue)
+1x Mark of Ushering (blue)
+1x Pull from Beyond (blue)
+1x Seek Horizon (blue)
+1x Shadowrealm Bloodhound (blue)
+1x Shadowrealm Solace (blue)
+1x Shadowrealm Walker (blue)
+1x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M61EJANRMA6SJ8920VBFTAMK
+
+
+2026-10-28 17:10:14
+Name: M 28 Oct D95
+Hero: Malice
+Format: Draft
+
+Arena cards
+1x Appalling Bearers
+1x Dark Arcanite Boots
+1x Dark Arcanite Helm
+1x Vox Necropolis
+
+Deck cards
+1x Corporeal Chasm (red)
+1x Dam the Shadowake (red)
+1x Malignant Migration (red)
+1x Rally the Shadow Horde (red)
+1x Restless Cleric (red)
+1x Restless Corporal (red)
+2x Restless Magister (red)
+1x Restless Plowman (red)
+1x Restless Shieldmaiden (red)
+1x Shadowrealm Ripper (red)
+1x Shadowrealm Strength (red)
+1x Corporeal Chasm (yellow)
+1x Corpse Cover (yellow)
+1x Dam the Shadowake (yellow)
+1x Darkest Hour (yellow)
+1x Forsaken Strike (yellow)
+1x Ghostly Visit (yellow)
+1x Malignant Migration (yellow)
+1x Ominous Toll (yellow)
+2x Shadowrealm Bloodhound (yellow)
+1x Shadowrealm Swiftness (yellow)
+1x Whispers Within (yellow)
+1x Abyssal Rush (blue)
+2x Bonded Burial (blue)
+2x Breach Flesh (blue)
+1x Commit to Corruption (blue)
+1x Ghostly Visit (blue)
+1x Malignant Migration (blue)
+1x Mark of Ushering (blue)
+2x Ominous Toll (blue)
+1x Shadowrealm Walker (blue)
+1x Step through Realms (blue)
+1x Void Wraith (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M61GH9S8MCP2QT2YDJV64KKE
+
+
+2026-10-29 22:51:27
+Name: New Viserai, Between Worlds Draft deck 4 3-0
+Hero: Viserai, Between Worlds
+Format: Draft
+
+Arena cards
+1x Dark Arcanite Boots
+1x Grasp of the Darknight
+1x Grille of Repentance
+1x Robe of Repentance
+1x Seven Sin Nebula
+
+Deck cards
+1x Bloodfrenzy Gloomblade (red)
+1x Bloodsong Gloomblade (red)
+1x Cullingsong Gloomblade (red)
+1x Dam the Shadowake (red)
+3x Embrace Ursur (red)
+1x Enshrine Sin (red)
+1x Ghostly Visit (red)
+1x Murmuring Gloomblade (red)
+1x Tribute to Greater Power (red)
+2x Demonbound Gloomblade (yellow)
+1x Embrace Sin (yellow)
+2x Embrace Ursur (yellow)
+1x Otherworldly Sins (yellow)
+1x Runechant of Envy (yellow)
+1x Runechant of Lust (yellow)
+1x Runechant of Pride (yellow)
+1x Runechant of Sloth (yellow)
+1x Runechant of Wrath (yellow)
+1x Shadowake Gloomblade (yellow)
+1x Void Wraith (yellow)
+1x Abyssal Bite (blue)
+2x Demonbound Gloomblade (blue)
+2x Embrace Ursur (blue)
+1x Enshrine Sin (blue)
+1x Ghostly Visit (blue)
+1x Otherworldly Sins (blue)
+1x Runic Reaving (blue)
+1x Shadowake Gloomblade (blue)
+2x Vexing Gloomblade (blue)
+
+Made with love at the FaBrary
+See the full deck @ https://fabrary.net/decks/01M64PRXH5V9W03GTEDVCNR157
+
+
